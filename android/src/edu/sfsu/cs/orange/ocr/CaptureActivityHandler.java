@@ -60,7 +60,7 @@ final class CaptureActivityHandler extends Handler {
     
     if (isContinuousModeActive) {
       state = State.CONTINUOUS;
-
+      
       // Show the shutter and torch buttons
       activity.setButtonVisibility(true);
       

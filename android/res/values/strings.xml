@@ -16,6 +16,6 @@
  limitations under the License.
  -->
 <resources>
-    <string name="app_name">OCR Test</string>
+    <string name="app_name">ARTranslate</string>
     <string name="translation_text">\@color/translation_text</string>
 </resources>

@@ -52,10 +52,12 @@ import com.googlecode.tesseract.android.TessBaseAPI;
 
 import edu.sfsu.cs.orange.ocr.camera.CameraManager;
 import edu.sfsu.cs.orange.ocr.camera.ShutterButton;
+import edu.sfsu.cs.orange.ocr.language.DatabaseHelper;
 import edu.sfsu.cs.orange.ocr.language.TranslateAsyncTask;
 
 /**
- * This activity opens the camera and does the actual scanning on a background thread. It draws a
+ * This activity opens the camera and does the actual scanning on a background 
+. It draws a
  * viewfinder to help the user place the text correctly, shows feedback as the image processing
  * is happening, and then overlays the results when a scan is successful.
  * 
@@ -75,18 +77,6 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
   /** Flag to enable display of the on-screen shutter button. */
   private static final boolean DISPLAY_SHUTTER_BUTTON = true;
   
-  /** Resource to use for data file downloads. */
-  static final String DOWNLOAD_BASE = "http://tesseract-ocr.googlecode.com/files/";
-  
-  /** Download filename for orientation and script detection (OSD) data. */
-  static final String OSD_FILENAME = "tesseract-ocr-3.01.osd.tar";
-  
-  /** Destination filename for orientation and script detection (OSD) data. */
-  static final String OSD_FILENAME_BASE = "osd.traineddata";
-  
-  /** Minimum mean confidence score necessary to not reject single-shot OCR result. Currently unused. */
-  static final int MINIMUM_MEAN_CONFIDENCE = 0; // 0 means don't reject any scored results
-  
   // Context menu
 
   private CameraManager cameraManager;
@@ -105,17 +95,18 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
   private Bitmap lastBitmap;
   private boolean hasSurface;
   
-  private TessBaseAPI baseApi; // Java interface for the Tesseract OCR engine
+  private TessBaseAPI baseApi; 
   private String characterBlacklist;
   private String characterWhitelist;
   private ShutterButton shutterButton;
-  private boolean isTranslationActive = true; // Whether we want to show translations
-  private boolean isContinuousModeActive = true; // Whether we are doing OCR in continuous mode  
-  private ProgressDialog dialog; // for initOcr - language download & unzip
-  private ProgressDialog indeterminateDialog; // also for initOcr - init OCR engine
+  private boolean isTranslationActive = false; 
+  private boolean isContinuousModeActive = true;   
+  private ProgressDialog dialog; 
+  private ProgressDialog indeterminateDialog; 
   private boolean isEngineReady;
   private boolean isPaused;
   
+  private static DatabaseHelper dbHelper;
 
   Handler getHandler() {
     return handler;
@@ -151,6 +142,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
     lastResult = null;
     hasSurface = false;
     
+    dbHelper = DatabaseHelper.getInstance(this);
     
     // Camera shutter button
     if (DISPLAY_SHUTTER_BUTTON) {
@@ -259,8 +251,8 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
     
     
     // set in this Activity, the character blacklist and whitelist
-    characterBlacklist = "";
-    characterWhitelist = "'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+    characterBlacklist = "':;`~";
+    characterWhitelist = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
     
     // Set up the camera preview surface.
     surfaceView = (SurfaceView) findViewById(R.id.preview_view);
@@ -304,7 +296,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
       handler.resetState();
     }
     if (baseApi != null) {
-      baseApi.setPageSegMode(TessBaseAPI.PageSegMode.PSM_AUTO_OSD);
+      baseApi.setPageSegMode(TessBaseAPI.PageSegMode.PSM_AUTO_OSD); //change to PSM_AUTO_OSD if want auto segmen
       baseApi.setVariable(TessBaseAPI.VAR_CHAR_BLACKLIST, characterBlacklist);
       baseApi.setVariable(TessBaseAPI.VAR_CHAR_WHITELIST, characterWhitelist);
     }
@@ -608,8 +600,8 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
       setProgressBarVisibility(true);
       
       // Get the translation asynchronously
-      new TranslateAsyncTask(this, "en", "id", 
-          ocrResult.getText()).execute();
+      new TranslateAsyncTask(this,  
+          ocrResult.getText(), dbHelper ).execute();
     } else {
       translationLanguageLabelTextView.setVisibility(View.GONE);
       translationLanguageTextView.setVisibility(View.GONE);
@@ -628,7 +620,6 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
   void handleOcrContinuousDecode(OcrResult ocrResult) {
    
     lastResult = ocrResult;
-    handleOcrDecode(lastResult);
     // Send an OcrResultText object to the ViewfinderView for text rendering
     viewfinderView.addResultText(new OcrResultText(ocrResult.getText(), 
                                                    ocrResult.getWordConfidences(),
@@ -657,9 +648,21 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
       // Display recognition-related metadata at the bottom of the screen
       long recognitionTimeRequired = ocrResult.getRecognitionTimeRequired();
       statusViewBottom.setTextSize(14);
-      statusViewBottom.setText("OCR: " + "English" + " - Mean confidence: " + 
-          meanConfidence.toString() + " - Time required: " + recognitionTimeRequired + " ms");
+      statusViewBottom.setText("OCR: " + "English" /*+ " - Mean confidence: " + 
+          meanConfidence.toString() */+ " - Time required: " + recognitionTimeRequired + " ms");
     }
+    
+    if(isTranslationActive){
+    	String word = dbHelper.findData(ocrResult.getText());
+    	
+    	if(word != null){
+    		isPaused = true;
+    	    handler.stop();
+    		handleOcrDecode(ocrResult);
+    		
+    	}
+    }
+    
   }
   
   /**
@@ -806,21 +809,6 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
   }
   
   
-  
-  void displayProgressDialog() {
-    // Set up the indeterminate progress dialog box
-    indeterminateDialog = new ProgressDialog(this);
-    indeterminateDialog.setTitle("Please wait");        
-    String ocrEngineModeName = "Tesseract";
-    indeterminateDialog.setMessage("Performing OCR using " + ocrEngineModeName + "...");
-    
-    indeterminateDialog.setCancelable(false);
-    indeterminateDialog.show();
-  }
-  
-  ProgressDialog getProgressDialog() {
-    return indeterminateDialog;
-  }
   
   /**
    * Displays an error message dialog box to the user on the UI thread.

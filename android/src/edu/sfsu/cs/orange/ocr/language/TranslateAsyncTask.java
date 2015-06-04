@@ -17,7 +17,6 @@ package edu.sfsu.cs.orange.ocr.language;
 
 import edu.sfsu.cs.orange.ocr.CaptureActivity;
 import edu.sfsu.cs.orange.ocr.R;
-
 import android.graphics.Typeface;
 import android.os.AsyncTask;
 import android.util.Log;
@@ -32,20 +31,17 @@ public final class TranslateAsyncTask extends AsyncTask<String, String, Boolean>
 
   private static final String TAG = TranslateAsyncTask.class.getSimpleName();
 
-  private CaptureActivity activity;
+  private final CaptureActivity activity;
+  private final DatabaseHelper dbHelper;
   private TextView textView;
   private View progressView;
   private TextView targetLanguageTextView;
-  private String sourceLanguageCode;
-  private String targetLanguageCode;
   private String sourceText;
   private String translatedText = "";
 
-  public TranslateAsyncTask(CaptureActivity activity, String sourceLanguageCode, String targetLanguageCode, 
-      String sourceText) {
+  public TranslateAsyncTask(CaptureActivity activity, String sourceText, DatabaseHelper dbHelper) {
     this.activity = activity;
-    this.sourceLanguageCode = sourceLanguageCode;
-    this.targetLanguageCode = targetLanguageCode;
+    this.dbHelper = dbHelper;
     this.sourceText = sourceText;
     textView = (TextView) activity.findViewById(R.id.translation_text_view);
     progressView = (View) activity.findViewById(R.id.indeterminate_progress_indicator_view);
@@ -54,13 +50,12 @@ public final class TranslateAsyncTask extends AsyncTask<String, String, Boolean>
   
   @Override
   protected Boolean doInBackground(String... arg0) {
-    translatedText = Translator.translate(activity, sourceLanguageCode, targetLanguageCode, sourceText);
-
+    translatedText = Translator.translate(this.activity, this.dbHelper, sourceText);
+    
     // Check for failed translations.
     if (translatedText.equals(Translator.BAD_TRANSLATION_MSG)) {
       return false;
     }
-    
     return true;
   }
 
@@ -69,7 +64,9 @@ public final class TranslateAsyncTask extends AsyncTask<String, String, Boolean>
     super.onPostExecute(result);
     
     if (result) {
-      //Log.i(TAG, "SUCCESS");
+      Log.i(TAG, "SUCCESS");
+      
+    	
       if (targetLanguageTextView != null) {
         targetLanguageTextView.setTypeface(Typeface.defaultFromStyle(Typeface.NORMAL), Typeface.NORMAL);
       }

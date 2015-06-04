@@ -4,6 +4,6 @@
 # view res/layout/capture.xml #generated:27
 -keep class edu.sfsu.cs.orange.ocr.ViewfinderView { <init>(...); }
 
-# view res/layout/capture.xml #generated:178
+# view res/layout/capture.xml #generated:180
 -keep class edu.sfsu.cs.orange.ocr.camera.ShutterButton { <init>(...); }
 

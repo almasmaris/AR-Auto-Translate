@@ -15,32 +15,37 @@
  */
 package edu.sfsu.cs.orange.ocr.language;
 
+import edu.sfsu.cs.orange.ocr.CaptureActivity;
 import android.app.Activity;
 
 /**
- * Delegates translation requests to the appropriate translation service.
+ * 
  */
 public class Translator {
 
   public static final String BAD_TRANSLATION_MSG = "[Translation unavailable]";
+  //private static DatabaseHelper dbHelper;
+  private final CaptureActivity activity;
   
-  private Translator(Activity activity) {  
+  private Translator(CaptureActivity activity) {  
     // Private constructor to enforce noninstantiability
+	  this.activity = activity;
+	  
+	  //dbHelper = DatabaseHelper.getInstance(this.activity.getBaseContext());
+	  
   }
   
-  static String translate(Activity activity, String sourceLanguageCode, String targetLanguageCode, String sourceText) {   
+  static String translate(Activity activity, DatabaseHelper dbHelper, String sourceText) {   
+   
+	  	String Translation;
+    	
+    	Translation = dbHelper.findTranslation(sourceText);
+    	
+    	if(Translation != null){
+    		return Translation;
+    	}
     
-    // Check preferences to determine which translation API to use--Google, or Bing.
-    String api = "Google Translate"; //google doang
     
-    // Delegate the translation based on the user's preference. Langsung google
-    if (api.equals("Google Translate")) {
-      
-      // Get the correct code for the source language for this translation service.
-      sourceLanguageCode = TranslatorGoogle.toLanguage("Indonesian");      
-      
-      return TranslatorGoogle.translate(sourceLanguageCode, targetLanguageCode, sourceText);
-    }
     return BAD_TRANSLATION_MSG;
   }
 }

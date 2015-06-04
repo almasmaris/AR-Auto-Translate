@@ -15,27 +15,12 @@
  */
 package edu.sfsu.cs.orange.ocr;
 
-import java.io.BufferedInputStream;
-import java.io.BufferedOutputStream;
 import java.io.File;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
-import java.io.RandomAccessFile;
-import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
-import java.net.URL;
-import java.util.zip.GZIPInputStream;
-import java.util.zip.ZipEntry;
-import java.util.zip.ZipInputStream;
 
-
-
-import org.xeustechnologies.jtar.TarEntry;
-import org.xeustechnologies.jtar.TarInputStream;
 
 import com.googlecode.tesseract.android.TessBaseAPI;
 
@@ -61,7 +46,6 @@ final class OcrInitAsyncTask extends AsyncTask<String, String, Boolean> {
   private ProgressDialog dialog;
   private ProgressDialog indeterminateDialog;
   private final String languageCode;
-  private String languageName;
 
   /**
    * AsyncTask to asynchronously download data and initialize Tesseract.
@@ -89,7 +73,6 @@ final class OcrInitAsyncTask extends AsyncTask<String, String, Boolean> {
     this.dialog = dialog;
     this.indeterminateDialog = indeterminateDialog;
     this.languageCode = languageCode;
-    this.languageName = languageName;
   }
 
   @Override

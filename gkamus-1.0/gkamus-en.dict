@@ -1,9 +1,9 @@
-[gKamus File Format v1.0]
-[Encoding ANSI]
-[File ini adalah "public domain", tidak ada hak cipta]
-[Ditulis oleh: Firmansyah, Ardhan Madras]
-[Website http://gkamus.sourceforge.net]
-
+[gKamus File Format v1.0]	
+[Encoding ANSI]	
+"[File ini adalah ""public domain"", tidak ada hak cipta]"	
+[Ditulis oleh: Firmansyah, Ardhan Madras]	
+[Website http://gkamus.sourceforge.net]	
+	
 a	kb. huruf pertama dalam abjad Inggris. 2 angka yang baik sekali. 3 nada  A.   A- bomb bom atom.  A-1 ks. 1 kelas satu. 2 ulung.
 a la, a la	menurut , secara. a. carte menurut kartu makanan, boleh memesan satu demi satu. a. Hollywood secara Hollywood. a. king dilapisi dgn lombok hijau. chicken a. king ayam yang dilapisi dgn lombok hijau.
 a priori	kk. berdasar teori daripada kenyataan yang sebenarnya.
@@ -84,7 +84,7 @@ above	kb. yang diatas. --ks. tersebut diatas --kk. (di) atas. --kd. 1 diatas. 2 
 aboveboard	ks. tulus hati, ikhlas, jujur. His actions are a. Perbuatan-perbuatannya adalah tulus hati. The  management of that business so far has proved a. Pimpinan perusahaan itu sampai sekarang ternyata jujur.
 aboveground	ks., kk. diatas (permukaan) tanah. a. grave mound tumpukan kuburan diatas tanah. Some snakes live a. Beberapa macam ular hidup diatas permukaan tanah.
 abovementioned	ks  yang tersebut diatas.
-abracadabra	kb. 1 omong kosong, bukan-bukan. 2 ucapan pendek yang dipakai sebelum menyihir s.s.t. atau mengerjakan sunglap; sim-sala-bim.
+abracadabra	"kb. 1 omong kosong, bukan-bukan. 2 ucapan pendek yang dipakai sebelum menyihir s.s.t. atau mengerjakan sunglap; sim-sala-bim."
 abrasion	kb. luka lecet, kegores ringan.
 abrasive	kb. 1 penggosok, alat pengempelas, ampelas. 2 penggosok, obat asah. ks. kasar, kesat.
 abreast	kk., ks.berbaris dua-dua.                 to be a. of/with mengikuti
@@ -167,7 +167,7 @@ accidentally	kk. 1 (dgn) tdk sengaja.   2 (secara) kebetulan.
 acclaim	kb. tepuk tangan sorak.-kkt.            1 menyambut dengan gembira.        2 menyatakan. 3 menyoraki.
 acclamation	kb. 1 aklamasi,suara bulat.               2 sambutan gembira,sambutan dgn (ber) tepuk tangan.
 acclimate	kkt. menyesuaikan diri kpd suatu iklim.
-acclimatize	=   ACCLIMATE.
+acclimatize	#NAME?
 accolade	kb. penghargaan, penghormatan, pujian.
 accommodate	kkt.1 memuat, menampung.             2 memberi akomodasi/penginapan. 3 menolong.4 menyesuaikan/ mencocokan diri.5 mendamaikan.
 accommodating	ks. peramah, baik hati, suka menolong.
@@ -333,7 +333,7 @@ adhesiveness	1 kelengketan,kelekatan.2 daya merekat.
 adj.	1 (adjective) kata sifat.2 (adjunct) ajun (g).
 adjacent	ks. berdekatan, berbatasan.
 adjectival	ks. sebagai kata sifat.a. phrase rangkaian kata sifat. a. adjunct keterangan benda.
-adjective	kb. kata sifat,ajektip. "Pretty" is an a.Pretty adalah suatu kata sifat.
+adjective	"kb. kata sifat,ajektip. ""Pretty"" is an a.Pretty adalah suatu kata sifat."
 adjoin	kkt. berdampingan/bergandengan/berbatasan dgn.
 adjoining	ks.1 ditengahnya,diantaranya.         2 berdampingan.
 adjourment	kb. penundanaan, penangguhan.    2 istirahat.3 pemindahan tempat.
@@ -421,7 +421,7 @@ advertise	kkt. 1 mengiklankan, mengadpertensikan. 2 menyatakan, memperlihatkan, 
 advertisement	kb. iklan, adpertensi. to place/insert an a. in memasang iklan di.
 advertiser	kb. pemasangan iklan.
 advertising	kb. periklanan, pemasangan iklan, reklame.
-advertize	= ADVERTISE.
+advertize	#NAME?
 advice	kb. 1 nasehat, adpis. a. on a matter nasehat mengenai suatu soal. 2 berita. of shipment berita pengiriman.
 advisability	kb. kepantasan, kelayakan. I question the a. of suggesting this just now Saya meragukan apakah tepat untuk menyarankan hal ini pada waktu ini.
 advisable	ks. sebaiknya. It would be a. for you not to go  Sebaiknya kamu jangan pergi.
@@ -430,7 +430,7 @@ advisedly	kk. dgn dipikir dulu, dipertimbangkan betul-betul.
 advisee	kb. orang yang dinasehati.
 advisement	kb. pertimbangan. I'll take that under a. Saya akan pertimbangkan itu benar-benar.
 adviser	kb. penasehat. legal a. penasehat hukum.
-advisor	= ADVISER.
+advisor	#NAME?
 advisory	kb. (j. -ries) laporan. weather a. from Buffalo laporan cuaca dari Buffalo. --ks. sebagai/bersifat penasehat.
 advocacy	kb. sokongan anjuran, pembelaan.
 advocate	kb. 1 penyokong, penganjur. an a. of socialism penyokong sosialisme.2 Law: pengacara. --kkt. menganjurkan, menyokong. She advocates building more schools Ia menganjurkan supaya dibangun lebih banyak sekolah.
@@ -491,7 +491,7 @@ afloat	ks. kk. 1 terapung, 2 di laut, naik kapal, berlayar.3 banjir, terendam.4 
 aflutter	ks.kk. 1 berkibar,2 berdebar(-debar)
 afoot	ks,. kk. 1 bangun, bergerak.2 sedang berjalan/dikerjakan.3 akan datang/terjadi.
 aforementioned	ks. tersebut (diatas, dimuka, tadi). the a. were present Yang tersebut tadi hadir. the a. paragraph ayat yang tersebut diatas.
-aforesaid	= AFOREMENTIONED.
+aforesaid	#NAME?
 afoul	ks., kk. berbentur, berlanggar, bertabrakan, terlibat. to run a. of the law mendapat kesukaran dengan hukum.
 afraid	ks. 1 takut, ketakutan. I'm a. of the dark Saya takut akan gelap. Saya ketakutan kalau gelap. 2 kuatir, rasa I am a. I can't come today Saya rasa/kuatir hari ini saya tak dapat datang. Don't be a. Jangan khawatir.
 afresh	kk. (sekali) lagi. We'll start a. Kita akan mulai  (sekali) lagi.
@@ -505,7 +505,7 @@ afterbirth	kb. uri, tembuni.
 afterdark	ks. waktu malam, pada malam hari. A. rides are prohibited Mengendarai kendaraan pada malam hari dilarang.
 afterdectk	kb. bagian belakang kapal, dek belakang.
 aftereffect	kb. akibat yang datang kemudian. The a. was noticeable Akibat yang datang kemudian tampak.
-afterglow	kb. 1 cahaya yang tinggal sesudah s.s.t. barang yang bersinar hilang; merah di langit sesudah matahari terbenam. 2 perasaan senang sesudah mengalami atau merasakan kesenangan.
+afterglow	"kb. 1 cahaya yang tinggal sesudah s.s.t. barang yang bersinar hilang; merah di langit sesudah matahari terbenam. 2 perasaan senang sesudah mengalami atau merasakan kesenangan."
 afterhours	ks. waktu sesudah jam kerja. a. relaxation mengaso sesudah jam kerja.
 afterlife	kb. akhirat, alam baka.
 aftermath	kb. 1 akibat (yang umumnya buruk). The a. of war is inflantion Akibat perang adalah inflasi. 2 buntut, ekor. There will surely be an a. to that incident Kejadian itu pasti ada buntutnya.
@@ -590,7 +590,7 @@ ailment	kb. penyakit (ringan).
 aim	kb. 1 tujuan, maksud. 2 bidikan. --kkt. 1 membidik. 2 mengarahkan. --kki. 1 membidik. 2 berangan-angan 3 Inf.: hendak, bermaksud.
 aimless	ks. tanpa tujuaan/arah, tak bertujuan. He leads an a. existence Hidupnya tanpa tujuan.
 ain't	(dibawah standar) tidak, bukan. It a. necessarily so Itu tak usah begitu. lih BE.
-air	kb. 1 udara. planes in the a. pesawat terbang di udara. 2 udara, hawa. fresh a. udara segar. 3 udara, angin. I can't live on a. Saya tidak dapat hidup dari "angin" (saja). 4 suasana. There is an a. of charm about her Ada suasana yg menarik padanya.
+air	"kb. 1 udara. planes in the a. pesawat terbang di udara. 2 udara, hawa. fresh a. udara segar. 3 udara, angin. I can't live on a. Saya tidak dapat hidup dari ""angin"" (saja). 4 suasana. There is an a. of charm about her Ada suasana yg menarik padanya."
 airborne	ks. 1 naik di udara, terbang, ada di udara.The jet was quickly a. Jet itu cepat sekali naik di udara. 2 diangkut dengan kapal udara. a. troops pasukan yang diangkut dengan kapal udara.
 aircraft	kb. pesawat terbang, balon, zepelin. a. carrier kapal induk (pesawat terbang).
 airdrome	kb. lapangan/pelabuhan udara.
@@ -598,7 +598,7 @@ airdroped	kkt  menjatuhkan.
 airdroped	kkt  menjatuhkan.
 airfield	kb. lapangan terbang.
 airily	lih AIRY.
-airlift	kb. sistim pengangkutan penumpang dan barang melalui udara; biasanya ketempat yang hubungannya terputus atau sukar. --kkt. mengangkut penumpang dan barang melalui udara..
+airlift	"kb. sistim pengangkutan penumpang dan barang melalui udara; biasanya ketempat yang hubungannya terputus atau sukar. --kkt. mengangkut penumpang dan barang melalui udara.."
 airline	kb. perusahaan/dinas penerbangan. a. hostess pramugari. a. steward pramugara. a. terminal pelabuhan udara.
 airliner	kb. pesawat terbang/udara (penumpang) yang besar.
 airmail	kkt. mengirimkan dengan pos udara (a letter).
@@ -630,7 +630,7 @@ alarm	kb. 1 alarm, larem, tanda bahaya. 2 weker,beker. 3 sirene. 4 ketakutan, ke
 alarming	ks  mengkhawatirkan, menggegerkan, menggelisahkan.
 alarmist	kb. penggelisah. Even under good conditions he's an a. Bahkan juga dalam keadaan-keadaan baik ia mudah menjadi gelisah.
 alas	kseru. aduh (menyatakan kesusahan, penyesalan, ketakutan).
-alb.	1 (Albania(n)) Albania; orang atau bahasa Albania. 2 ( Abert) Albert. 3 ( Albany) ibukota di negara  bagian New York.
+alb.	"1 (Albania(n)) Albania; orang atau bahasa Albania. 2 ( Abert) Albert. 3 ( Albany) ibukota di negara  bagian New York."
 albatross	kb. elang laut.
 albeit	kseru. sekalipun, walaupun. He has decided to stay there, a. it is expencive Ia telah memutuskan untuk tinggal disana, sekalipun mahal.
 albino	kb. bulai, balar.
@@ -666,8 +666,8 @@ alignment	kb. penjajaran. The a. of the troops was perfect Penjajaran barisan te
 alike	kk. 1 sama. These two words are spelled a. Kedua kata itu dieja sama. 2 sama, serupa. All customers are treated a. Semua langganan diperlakukan sama. 3 serupa, mirip. The two girls look much a. Kedua gadis itu serupa betul.
 alimentary	ks. yang berhubungan dengan makanan atau bersifat memberi makanan. a. canal saluran pencernaan.
 alimony	kb. (j. -nies) tunjangan uang yang diberikan seorang suami kepada bekas istrinya selama perceraian secara resmi.
-aline	= ALIGN.
-alinement	= ALIGNMENT.
+aline	#NAME?
+alinement	#NAME?
 aliteration	kb.  purwakanti, pemakaian kata-kata yang permulaannya sama bunyinya.
 alive	ks. 1 hidup. She is still a. Ia masih hidup. 2 riang, gembira, lincah. She is very much a. Ia seorang yang riang sekali. 3 penuh enersi, aktif. 4 penuh, dikerumuni.
 alkali	kb. alkali.
@@ -788,7 +788,7 @@ ambrosia	kb. 1 makanan atau suguhan dewa-dewa dalam mitologi Yunani. 2 masakan y
 ambulance	kb. ambulans.
 ambulatory	ks. dapat berjalan. an a. patient orang sakit yang dapat berjalan-jalan.
 ambush	kb. penyerangan, penyergapan, pengadangan dengan tiba-tiba. --kkt. mengadang, menyerang dengan tiba-tiba.
-ameba	= AMOEBA.
+ameba	#NAME?
 ameliorate	kkt. menjadi lebih senang/baik, memperbaiki.
 amelioration	kb. perbaikan, perbuatan memperbaiki, kemajuan.
 ameliorative	ks. yang memperbaiki, bersifat memperbaiki. The regulation has a. effect Peraturan  itu mengakibatkan perbaikan.
@@ -796,7 +796,7 @@ amen	kb. amin, amien.
 amenable	ks.1 setuju dengan, menyetujui, menerima. I'll go along if you are a. to the conditions Saya akan menyetujui kalau saudara menerima syarat-syaratnya. 2 dapat dipertanggung-jawabkan.
 amendment	kb. amandemen.
 amends	kb. j. kerugian. You'll have to make amends for the damage Kau harus membayar kerugian untuk kerusakan itu. --kkt. mengamandemen, merubah. the law has been amended Undang-undang itu telah diamandemen.
-amenity	kb. (j. -ties) sikap ramah-tamah. Saying "thank you" is an a. that should be taught to children Mengatakan terimakasih adalah sikap ramah-tamah yang harus diajarkan kepada anak-anak. -- amenities j. 1 kesenangan, nikmat. 2 fasilitas-fasilitas.
+amenity	"kb. (j. -ties) sikap ramah-tamah. Saying ""thank you"" is an a. that should be taught to children Mengatakan terimakasih adalah sikap ramah-tamah yang harus diajarkan kepada anak-anak. -- amenities j. 1 kesenangan, nikmat. 2 fasilitas-fasilitas."
 america	kb. Amerika.
 american	kb. orang Amerika. --ks. Amerika. He's  an A. citizen Ia seorang warganegara Amerika. A Indian Orang Indian.
 americanism	kb.1 logat Amerika. This word is an A. Kata ini logat Amerika. 2 sifat Amerika. His A. is very strong Sifat Amerikanya sangat kuat. 3 adat kebiasaan. That custom is an A. Adat itu khusus adat kebiasaan Amerika.
@@ -811,7 +811,7 @@ amicable	ks. ramah-tamah, baik hati.an a. settlement penyelesaian yang ramah-tam
 amicably	kk. secara damai. The dispute was settled a. Perselisihan itu diselesaikan secara damai.
 amid	kd. ditengah-tengah, di kalangan. We stood a. the many tombstones Kita berdiri ditengah-tengah batu-batu kuburan yang banyak itu.
 amidships	kk. tengah-tengah kapal.
-amidst	=AMID.
+amidst	#NAME?
 amiss	ks., kk. keliru, salah. I hope nothing is a. Saya harap tak ada yang keliru. Please don't take this a. Harap supaya hal ini jangan diteima salah.
 amity	kb. (j. -ties) persahabatan, hubungan baik.
 ammo	kb. Sl.: = AMMUNITION.
@@ -824,14 +824,14 @@ amoeba	kb. amoeba, amuba.
 amoebic	ks. amubawi. a. dysentery disenteri amubawi.
 amok	kb. amuk, mata-gelap. to run a. mengamuk
 among	kd. diantara. to wander a. the ruins berjalan-jalan diantara puing-puing. a. other things antara lain, diantaranya. A. other things, she sings in the choir Antara lain dia menyanyi di paduan suara. a. ourselves antara kita..
-amongst	= AMONG.
+amongst	#NAME?
 amoral	ks. a-susila, tak sopan.
 amorous	ks. berisi/bersifat cinta-kasih. an a. note surat cinta-kasih.
 amorphous	ks. tak berbentuk. Some objects are a. Beberapa benda tak berbentuk.
 amortization	kb. amortisasi.
 amortize	kkt. melunasi (dengan angsuran). to a. a loan melunasi hutang dengan angsuran.
 amount	kb. 1 jumlah, kwantitas. 2 banyak. 3 penuh. --kki. 1 berjumlah. 2 sama dengan.
-amour	kb. asmara, cinta (kasih; teristimewa percintaan yang dirahasiakan/klandestin.
+amour	"kb. asmara, cinta (kasih; teristimewa percintaan yang dirahasiakan/klandestin."
 amp	Sl.: = AMPERE.
 ampere	kb. amper.
 ampersand	=  &.
@@ -848,7 +848,7 @@ amplitude	kb. luas/lebar ayunan.
 amputate	kkt. memotong, mengamputasi.
 amputation	kb. amputasi, pemotongan.
 amputee	kb. invalide, orang cacad, orang yang dipotong sebagian atau seluruh lengan atau kakinya.
-amuck	= amok.
+amuck	#NAME?
 amulet	kb. azimat, jimat.
 amuse	kkt. 1 membuat orang tertawa, menggelikan hati. 2 memikat, menawan, menarik perhatian. 3 geli. --amused ks. girang, terhibur, senang hati. --amusing ks. lucu.
 amusement	kb.1 hiburan. I went there only for a. Saya kesana hanya untuk hiburan saja. a. center tempat hiburan. 2 kegirangan, kesenangan, The clown's antics coused a great deal of a. Kejenakaan pelawak itu mendatangkan banyak kegirangan.
@@ -856,15 +856,15 @@ an	ksst. 1 sebuah, satu, dsb. May I have an orange, please? Bolehkah saya ambil 
 anachistic	ks. anarkhistis.
 anachronism	kb. anakhronisme, penempatan kejadian pada waktu yang salah.
 anachronistic	ks. yg bertentangan ttg zaman, menyalahi zaman, mengandung anakhronisme.
-anaemia	=ANEMIA.
-anaemic	=ANEMIC.
+anaemia	#NAME?
+anaemic	#NAME?
 anaesthesia	anaesthesia
 anagram	kb. anagram, penukaran huruf dlm kata-kata sehingga kata itu mempunyai arti lain , seperti lived menjadi devil.
 anal	ks. yang bertautan dengan dubur.
 analgesia	kb. tahan/tanpa sakit.
 analgesic	kb. obat atau cara lain yang menyebabkan tahan sakit.
 analistic(al)	ks. analistis, analitik. a. geometry ilmu ukur analitis.
-analog	= ANALOGUE
+analog	#NAME?
 analogical	ks. analogis, bertautan dengan analogi, berdasar mengandung/menunjukkan persamaan.
 analogize	kkt. memperlihatkan/mempertunjukkan berdasar analogi/persamaan.
 analogous	ks. 1 sekilas, sejalan. 2 dapat disamakan. The wings of a plane are a. to those of a bird Sayap kapal terbang dapat disamakan dengan sayap burung.
@@ -908,7 +908,7 @@ anger	kb. marah, kemarahan, amarah, murka, keberangan, kegusaran. His a. showed 
 angina pectoris	kb. kejang jantung.
 angle	kb. 1 sudut. 2 segi. 3 Inf.: segi (pandangan). --kki. 1 memancing. 2 membelok.
 angler	kb. 1 memancing. 2 seorang yang licik, seorang yang pandai memakai tipu muslihat untuk mencapai sesuatu tujuan.
-anglicism	kb. anglisisme, keinggris-inggrisan. " Jolly good ! is an a. " Jolly good" adalah perkataan Inggris yang khas.
+anglicism	"kb. anglisisme, keinggris-inggrisan. "" Jolly good ! is an a. "" Jolly good"" adalah perkataan Inggris yang khas."
 anglicize	kkt. menginggriskan kata, ungkapan, atau kebiasaan, memberi corak Inggris.
 angling	angling
 anglo-saxon	kb., ks. Anglo-Saxon. a) bahasa Inggris kuno. b) seorang turunan Inggris, Anglo-Saxon.
@@ -965,7 +965,7 @@ anon	kk. segera. I'll be there a. Saya akan segera kesana.
 anon.	(anonymous) tanpa nama, tidak diketahui namanya.
 anonymity	kb. keadaan tanpa nama.
 anonymous	ks. tanpa nama, tidak diketahui namanya. He prefers to remain a. Ia lebih suka tidak diketahui namanya. a. letter surat kaleng/buta.
-another	ks. 1 yang lain. Please  give me a. banana, I don't like this one Berilah saya pisang yang lain, saya tak suka yang ini. 2  satu lagi. Please give me a. banana; I've eaten this o. Berilah saya pisang satu lagi. Yang tadi sudah saya makan..
+another	"ks. 1 yang lain. Please  give me a. banana, I don't like this one Berilah saya pisang yang lain, saya tak suka yang ini. 2  satu lagi. Please give me a. banana; I've eaten this o. Berilah saya pisang satu lagi. Yang tadi sudah saya makan.."
 ans.	1 (answer) jawaban. 2 (answered) dijawab.
 answer	kb. 1 jawaban, sahutan.  2 balasan. --kkt. 1 menjawab, menyahut, membalas. 2 membuka. 3 memenuhi. 4 mengabulkan. to a. back membantah. to a. for 1 bertanggung jawab, menanggung. 2 dipakai (sebagai pengganti) to a. to 1 memenuhi, cocok, sesuai dengan.
 answerable	ks. 1 dapat dipertanggung jawabkan/dipersalahkan. He is a. for his crimes Ia dapat dipertanggung- jawabkan atas kejahatannya. 2 dapat dijawab. That question is not a. pertanyaan itu tak dapat dijawab.
@@ -980,7 +980,7 @@ ante	kb. 1 pot, bank, taruhan, pancang (dalam permaian kartu). 2 Sl.: sokongan, 
 ante meridiem	sebelum tengah hari. 2 a.m. jam 2 pagi.
 anteater	kb. trenggiling.
 antebellum	ks. sebelum perang (terutama sebelum perang saudara AS). an a. home rumah sebelum perang saudara.
-antecedent	kb., ks. kata atau bagian kalimat yang mendahului kata pengganti. In the phrase "the car which I bought", "car" is the a. Dalam bagian kalimat "the car which I bought", "car" adalah kata yang mendahului..
+antecedent	"kb., ks. kata atau bagian kalimat yang mendahului kata pengganti. In the phrase ""the car which I bought"", ""car"" is the a. Dalam bagian kalimat ""the car which I bought"", ""car"" adalah kata yang mendahului.."
 antedate	kkt. 1 mendahului, terjadi lebih dulu. The automobile antedates the airplane Mobil mendahului kapal terbang. 2 memberi tanggal lebih dulu daripada yang sebenarnya kepada kwitansi.
 antediluvian	ks. kuno (sekali), sangat tua. I have an a. car Mobil saya kuno sekali.
 antelope	kb. semacam kujang bertanduk tanpa ranting.
@@ -1053,10 +1053,10 @@ ape	kb. siamang, kera, monyet, beruk. --kkt. meniru. The little gir aped her old
 aperture.	kb. 1 lobang, celah, lekah. 2 Phot. : lubang lensa.
 apex	kb. puncak. He was at the a. of his career Ia berada di puncak kariernya.
 aphasia	kb. aphasi, kehilangan kemampuan memakai atau memahami kata-kata karena suatu penyakit otak.
-aphorism	kb. aphorisme. "There is never a good war or a bad peace" is an a. "Tak ada peperangan yang baik atau perdamaian yang buruk"adalah suatu  aphorisme.
+aphorism	"kb. aphorisme. ""There is never a good war or a bad peace"" is an a. ""Tak ada peperangan yang baik atau perdamaian yang buruk""adalah suatu  aphorisme."
 aphrodisiac	kb. zat perangsang nafsu berahi.
 apiary	kb. (j. -ries) tempat pemeliharaan lebah.
-apical	ks. apikal, yang menyentuh langit-langit mulut. "T" is an a. sound "T" adalah bunyi yang dibentuk dengan penyentuhan lidah ke langit-langit.
+apical	"ks. apikal, yang menyentuh langit-langit mulut. ""T"" is an a. sound ""T"" adalah bunyi yang dibentuk dengan penyentuhan lidah ke langit-langit."
 apiculture	kb. pemeliharaan lebah.
 apiece	ks. 1 sebuah, sepotong, dsb. The apples are ten cent a. Apel itu sepuluh sen sebuah. 2 masing-masing. You may have one cookie a. Ambillah kuenya masing-masing satu
 aplenty	kk. banyak sekali. He had money a. Uangnya banyak sekali.
@@ -1122,7 +1122,7 @@ appointment	kb. 1 pengangkatan, penunjukan. The a. is for two years Pengangkatan
 apportion	kkt. membagi secara adil. to a. property membagi harta secara adil.
 apportionment	kb. pembagian secara adil.
 apposite	ks. tepat, pantas. That was an a. remark Itu  adalah komentar yang tepat.
-apposition	kb. keterangan tambahan, (seperti "my sister dalam kalimat "Sue, my sister, was married last week" "Sue, adik perempuan saya, kawin minggu yang lalu").
+apposition	"kb. keterangan tambahan, (seperti ""my sister dalam kalimat ""Sue, my sister, was married last week"" ""Sue, adik perempuan saya, kawin minggu yang lalu"")."
 appraisal	kb. penilaian, penaksiran, pengharapan.
 appraise	kkt. 1 menilai, menghargai. An employer must a. the ability of his employees Seorang majikan harus menilai kesanggupan pegawai - pegawainya. 2 menaksir. Please a. this diamond for me Cobalah taksir intan ini untuk saya.
 appraiser	kb. juru taksir.
@@ -1200,8 +1200,8 @@ archbishopric	kb. keuskupan agung.
 archdiocese	kb. keuskupan agung.
 archduke	kb. pengeran dari kerajaan Austria dan beberapa negara lain zaman dahulu.
 archenemy	kb. (j. -mies) musuh utama/terbesar.
-archeologist	= ARCHAEOLOGIST
-archeology	= ARCHAEOLOGY
+archeologist	#NAME?
+archeology	#NAME?
 archer	kb. pemanah.
 archery	kb. panahan, (seni) pemanahan.
 archetype	kb. pola dasar. That old Model-T is the a. of the Ford  Model-T yang kuno itu merupakan pola dasar bagi Ford tahun 1968.
@@ -1263,7 +1263,7 @@ aromatic	ks. berbau sedap/harum. a. flower. rasa yang harum.
 arose	lih  ARISE.
 around	kd. 1 keliling, sekitar. 2 Inf.: dekat-dekat. 3 Inf.: terserak-serak sekeliling --kk. 1 Inf.: kira-kira. 2 disekitarnya.
 arouse	kkt. 1 membangunkan. She tried to a. her mother Ia mencoba membangunkan ibu.  2 menimbulkan Her actions aroused my suspicion Tingkah lakunya menimbulkan kecurigaanku. 3 menggetarkan., menggerakkan.
-arrack	= ARAK.
+arrack	#NAME?
 arraign	kki. 1 mendakwa, menuduh, menyalakan. to a. s.o. on a charge of manslaughter mendakwa seseorang atas tuduhan pembunuhan. 2 menghadapkan (in court).
 arraignment	kb. tuduhan, dakwaan.
 arrange	kkt. 1 menyusun, menata. 2 mengadakan. 3 mengatur. 4 menyusun, mengubah. 5 menetapkan
@@ -1352,8 +1352,8 @@ asphyxiation	kb. sesak napas karena kurang zat asam di darah.
 aspic	kb. aspik, semacam agar dibuat  dari daging, tomat dsb.
 aspirant	kb. calon.
 aspirate	kb. bunyi aspirasi. --kkt. mengucapkan bunyi dengan bunyi h (seprti pin, what dsb).
-aspirated	ks. "p" in English "pin"  is an a. sound "p" dalam bahasa Inggris "pin" mengandung bunyi aspirasi.
-aspiration	kb. 1 aspirasi, cita-cita. He has no aspirations  Ia mempunyai cita-cita. 2 aspirasi. English "p" has a. dalam bahasa Inggris mengandung aspirasi.
+aspirated	"ks. ""p"" in English ""pin""  is an a. sound ""p"" dalam bahasa Inggris ""pin"" mengandung bunyi aspirasi."
+aspiration	"kb. 1 aspirasi, cita-cita. He has no aspirations  Ia mempunyai cita-cita. 2 aspirasi. English ""p"" has a. dalam bahasa Inggris mengandung aspirasi."
 aspire	kki. bercita-cita, menginginkan. He aspires to be president some day Ia bercita-cita menjadi  presiden pada suatu ketika.
 aspirin	kb. aspirin.
 aspiring	aspiring
@@ -1500,7 +1500,7 @@ attraction	kb. 1 atraksi. 2 daya tarik. 3 acara.
 attractive	ks. menarik, cantik, molek.
 attributable	ks. diakibatkan oleh.His ilness is a. to the heat Penyakitnya diakibatkan oleh panas.
 attribute	kb. 1 sifat.2 perlengkapan, benda yg khusus berh. dng pangkat, kedudukan, lambang.-kkt. 1 mempertalikan. 2 menghubungkan.
-attributive	ks. atributip, kata sifat yang terletak langsung didepan atau dibelakang kata bendanya, umpamanya: The book, "a large one," is on the table One adalah atributip. "morning" dalam morning star adalah atributip.
+attributive	"ks. atributip, kata sifat yang terletak langsung didepan atau dibelakang kata bendanya, umpamanya: The book, ""a large one,"" is on the table One adalah atributip. ""morning"" dalam morning star adalah atributip."
 attrition	kb. 1 erosi, aus. 2 pengurangan.
 attune	kkt., kki. membiasakan, menyesuaikan diri pada. He is attuned to the noise Ia sudah biasa dengan keributan itu.
 atty.	(attorney) pengacara.
@@ -1626,7 +1626,7 @@ avowed	avowed
 avuncular	ks. dari/seperti paman.
 await	kkt. 1 menunggu, menantikan. 2 menunggukan.
 awake	ks. bangun.He is not a. Ia tidak bangun.
-awaked	--kkt.(awoke atau awaked) membangunkan. -kki. bangun.
+awaked	#NAME?
 awaken	kkt. 1 membangunkan. 2 membangkitkan. -kki. bangun.
 awakening	kb. (ter)bangun, kesadaran.
 award	kb. 1 hadiah. 2 pemberian. -kkt. 1 menghadiahkan, menyerahkan. 2 menyerahkan.
@@ -1653,7 +1653,7 @@ axiom	kb. aksioma.
 axiomatic	ks. aksiomatis, yang sudah jelas kebenarannya.
 axis	kb. as, poros, sumbu, sendi. the earth's a. poros bumi. the A. Negara-negara As.
 axle	kb. gandar/as roda.
-aye	kb. setuju.The tally is four ayes and two nays; the ayes have it Hitungannya empat setuju dan dua tidak setuju. yang setuju menang. -kk ya. A., a., sir! Ya, pak.
+aye	"kb. setuju.The tally is four ayes and two nays; the ayes have it Hitungannya empat setuju dan dua tidak setuju. yang setuju menang. -kk ya. A., a., sir! Ya, pak."
 azalea	kb. semacam tanaman berbunga indah.
 azimuth	kb. asimut, ukuran sudut, letak bintang.
 azure	ks. biru (langit). an. a. sky langit biru.
@@ -1808,7 +1808,7 @@ banknote	kb. uang kertas.
 bankroll	kb. uang yang tersedia pada seseorang.
 bankrupt	kb. orang bangkrut. -ks. bangkrut, pailit. -kkt. membangkrutkan.
 bankruptcy	(j. -cies) kb. kebangkrutan, kepailitan.
-banned	-kkt.  melarang.
+banned	#NAME?
 banner	kb.bendera, spanduk, pataka. -ks. gilang-gemilang.
 bantam	kb. semacam ayam. -ks.bantam.
 bantamweight	kb. kelas bantam.
@@ -1923,7 +1923,7 @@ bayonet	kb. bayonet, (mata) sangkur.-kkt. menusuk dgn bayonet.
 bazaar	kb. pasar. charity b. pasar amal/ derma
 bb	BB  gun= AIR RIFLE.
 bbl	(barrel) tong.
-be	kki. (ind. waktu ini). am (dipakai  untuk orang pertama tunggal) ; are (dipakai untuk orang kedua dan jamak) ; is (dipakai untuk orang ketiga  tunggal). was (dipakai untuk tunggal) ; were (dipakai untuk jamak) been (partisip waktu lampau).
+be	"kki. (ind. waktu ini). am (dipakai  untuk orang pertama tunggal) ; are (dipakai untuk orang kedua dan jamak) ; is (dipakai untuk orang ketiga  tunggal). was (dipakai untuk tunggal) ; were (dipakai untuk jamak) been (partisip waktu lampau)."
 beach	kb. pantai. -kkt. menarik kepantai. The sinking ship was beached  Kapal yang tenggelam itu ditarik ke pantai.
 beachcomber	kb. 1 seorang kulit putih yang hidup melarat di pulau Lautan Teduh. 2 ombak besar.
 beacon	kb. suar, menara api, rambu, lentera laut.
@@ -1941,7 +1941,7 @@ bearer	kb. pembawa (surat).
 beast	kb.1 binatang (buas).2 jahanam, bangsat
 beat	kb. rute/ronda 2 (drum) dentaman gendang. 3 gerakan irama/tempo.4 denyut(an), debar. -kkt.(beat-beaten)  1 memukul.2 mengalahkan.3 mengocok, mengaduk. Inf,: mengacaukan.5 mengepakkan.6 Inf,: melebihi.7 SI,: pergi, nyah.
 beater	kb1. pemukul.2 pengocok.
-beatnik	kb. pemuda dan pemudi di AS yg tingkah lakunya berlawanan dgn segala adat kebiasaan; di Indonesia sering disamakan dgn crossboy dan crossgirl, sm hippy sekarang.
+beatnik	"kb. pemuda dan pemudi di AS yg tingkah lakunya berlawanan dgn segala adat kebiasaan; di Indonesia sering disamakan dgn crossboy dan crossgirl, sm hippy sekarang."
 beau	kb. pesolek, pemberahi, rancak di labuah
 beautician	kb. ahli kecantikkan.
 beautification	kb. pengindahan.
@@ -2083,7 +2083,7 @@ bespoke(n)	lih  BESPEAK.
 best	kb. 1 paling baik, terbaik. all for the b. berlangsung dengan baik, untuk maksud baik. -ks. 1 terbaik. 2 paling enak. -kk. lih. WELL. yang paling. -kkt. Inf.: mengalahkan. -best selling ks. yang paling laku (novel).
 bestial	ks. seperti binatang, kebinatangan. His nature is b. Sifatnya seperti binatang.
 bestiality	kb. (j. -ties) sifat kebinatangan.
-bestir	kki. to b. a.s. berbuat sesuatu, bertindak. It's time we bestirred ourselves; the weather's getting worse Sudah waktunya kita berbuat sesuatu.; cuaca bertambah buruk.
+bestir	"kki. to b. a.s. berbuat sesuatu, bertindak. It's time we bestirred ourselves; the weather's getting worse Sudah waktunya kita berbuat sesuatu.; cuaca bertambah buruk."
 bestow	kkt. memberikan, melimpahkan. to bestow o's blessing on s.o. memberikan berkatnya pada seseorang.
 bet	kb. taruhan. to b. on 1 bertaruh. 2 tak usah sangsi. -betting kb. bertaruh. B. is legal Bertaruh diizinkan.
 betake	kki. (betook, betaken) to b.o.s. pergi. to b. o.s. to church pergi ke gereja.
@@ -2348,7 +2348,7 @@ blubber	kb. lapisan lemak.-kki. menangis. The boy blubbered when he heard the sa
 bludgeon	kb. gada, pemukul. -kkt. memukul dgn gada, mengada.
 blue	kb. biru. -ks.1 biru.2 murung, sedih. 3 biru, tdk senonoh, cabul.  -blues j. Inf.: 1 perasaan sedih/susah. 2 sejenis musik Negro Amerika.  -blue(e) ing kb. biru, membirukan.
 blueberry	kb. (j. -ries) sejenis arbei.
-bluebird	kb. semacam burung yang pandai menyanyi ; jantannya berpunggung biru..
+bluebird	"kb. semacam burung yang pandai menyanyi ; jantannya berpunggung biru.."
 bluebottle	kb. lalat hijau.
 bluegrass	kb. sejenis rumput yang berwarna kebiru-biruan.
 bluenose	kb. Inf.: seorang yang sangat  keras dan teliti dalam hal sopan santun.
@@ -2432,11 +2432,11 @@ bonfire	kb. api unggun,  api besar yang dinyalakan di langit terbuka.
 bonnet	kb. topi, biasanya diikat dibawah dagu dengan tali atau pita, dipakai oleh wanita, anak-anak perempuan dan bayi.
 bonus	kb. uang jasa, grafitasi.
 bony	ks. 1 kelihatan tulangnya, tulangnya menonjol, kurus.  2 banyak tulangnya.
-boo	kb. 1 olokan, ejekan. boo. He said "boo" and she jumped Ia mengatakan "boo" dan ia melompat. -kkt. memperolokkan.
+boo	"kb. 1 olokan, ejekan. boo. He said ""boo"" and she jumped Ia mengatakan ""boo"" dan ia melompat. -kkt. memperolokkan."
 boo-boo	kb. Sl.: kesalahan yang bodoh.  to make a b. membuat kesalahan bodoh.
 booby	kb. (j. -bies) seorang tolol.  2 mil.: perangkap yang tersembunyi, ranjau.
 boobytrap	kb. ranjau. -kkt (boobytrapped) memasang bom atau ranjau.
-boogie-woogie	kb. semacam tarian dengan irama "blues" yang dipercepat.
+boogie-woogie	"kb. semacam tarian dengan irama ""blues"" yang dipercepat."
 boohoo	kki. menangis dengan keras. You have nothing to b. about Engkau tak usah menangis keras.
 book	kb. 1 buku. 2 kitab.  -books j. buku-buku, semua catatan perusahaan. -kkt. 1 memesan. 2 mencatat. -booking kb. 1 pemesanan. 2  dicatat, dipesan.
 bookbinder	kb. penjilid buku.
@@ -2547,7 +2547,7 @@ boycott	kb. boikot, pemboikotan. -kkt. memboikot, membekot.
 boyfriend	kb. pacar.
 boyhood	kb. masa kanak-kanak.
 boyish	ks. kekanak-kanakan. kelaki-lakian.
-br.	1 (British) orang Inggris; Inggris. 2 (Britain) negeri Inggris.
+br.	"1 (British) orang Inggris; Inggris. 2 (Britain) negeri Inggris."
 bra	kb. (kutang) beha, B.H.
 brace	kb. 1 penjepit, penahan, penguat.2 pasang. a b. of pheasants sepasang burung kuau.-braces j. 1 alat penguat.2 tanda kurung besar.3 bingkai penunjang gigi.-kkt.menahan , memperkuat.Inf, : to b. up 1 ayoh.2 menjadi segar.-bracing ks. yg menyegarkan/menguat bracelet
 bracelet	kb. gelang.
@@ -2618,7 +2618,7 @@ breastpin	kb. pin, peniti, bros.
 breastworks	kb. benteng, pertahanan, apilan, tembok pertahanan.
 breath	kb. 1 nafas. 2 tiupan (udara). 3 sedikit. out of b. kehabisan nafas, terengah-engah.
 breathe	kkt. 1 menghirup. 2 meniupkan. 3 mengatakan, menyebut-nyebut. -kki. bernafas. -breathing kb. pernafasan.
-breather	kb. istirahat. It's verry hot today; let's take a b. Hari ini sangat panas ; marilah kita beristirahat.
+breather	"kb. istirahat. It's verry hot today; let's take a b. Hari ini sangat panas ; marilah kita beristirahat."
 breathless	ks. 1 terengah-engah, sesak nafas. 2 tak ada angin sama sekali.
 breathtaking	ks. mendebarkan hati, menyesakkan nafas, mempesonakan.  The view was b. Pemandangan itu mendebarkan hati.
 bred	lih  BREED.
@@ -2850,7 +2850,7 @@ burnish	kkt. mempolitur  to b. copper memoles/mengkilapkan tembaga.
 burnout	kb. pemadaman. The b. is an important aspect of rocketry Pemadaman adalah satu segi yang penting dalam peroketan.
 burnt	lih  BURN.
 burp	kb. Inf.: serdawa. -kkt. menepuk punggung supaya serdawa. -kki. beserdawa. The baby burped  Bayi itu beserdawa.
-burr	kb. 1 = BUR.  2 aksen, lagu. 3 bunyi "r"  yang berat.
+burr	"kb. 1 = BUR.  2 aksen, lagu. 3 bunyi ""r""  yang berat."
 burrow	kb. liang.  -kkt. menggali. -kkt. 1 bersembunyi. 2 mencari-cari dengan meraba. 3 menggali liang.
 bursar	kb. bendaharawan (pada suatu perguruan tinggi).
 bursitis	kb. radang kandung lendir.
@@ -3262,7 +3262,7 @@ cataclysm	kb. bencana alam.
 cataclysmic	ks. bersifat perubahan besar. Recent developments have been c. for that country  Kejadian-kejadian baru-baru itu merupakan perubahan besar untuk negeri itu.
 catafalque	kb. podium/panggung untuk peti mayat.
 catalepsy	kb. katalepsia, semacam ayan.
-catalog	=  CATALOGUE.
+catalog	#NAME?
 cataloger	kb. pendaftar buku-buku.
 catalogue	kb. 1 katalogus. 2 pendaftaran buku-buku atau barang-barang dagangan. -kkt. 1 membuat daftar nama-nama buku. 2 mendaftarkan.
 catalyst	kb. katalisator.
@@ -3275,8 +3275,8 @@ catcall	kb. ejekan, teriakan-teriakan menandakan kejengkelan.
 catch	kb. pegangan, jepitan, kaitan, gesper. 2 tangkapan. 3 Inf.: calon suami idaman. 4 tersedan-sedan. 5 Inf.: udang di balik batu, maksud tersembunyi. -ks. menarik, muluk-muluk. -kkt. (caught) 1 menangkap. 2 naik, mengejar. 3 ketularan. 4 menyangkut.
 catchall	kb. tempat untuk segala macam barang.
 catcher	kb. penangkap bola.
-catchup	=  CATSUP.
-catchword	kb. kata semboyan/slogan. " The Great Society" is an example of a c. "The Great Society adalah suatu contoh kata slogan.
+catchup	#NAME?
+catchword	"kb. kata semboyan/slogan. "" The Great Society"" is an example of a c. ""The Great Society adalah suatu contoh kata slogan."
 catchy	ks. 1 mudah diingat, menarik. c. tune lagu yang mudah diingat. 2 memperdayakan, menipu.
 catechism	kb. katekismus.
 catecornered	ks. berseberangan sudut. My house is situated c. from his Rumahku terletak berseberangan sudut dari rumahnya.
@@ -3302,14 +3302,14 @@ cattiness	kb. sifat suka membenci.
 cattle	kb. ternak, lembu, sapi. c. breeding peternakan sapi, lembu dsb. c. car gerobak lembu. c. crossing penyeberangan ternak. c. grazing mengangon ternak, pengangon.
 cattleman	kb. (j. -men). peternak.
 catty	ks.  tajam (mulut, perkataan), berisi kebencian. She can be very c. if she wants to Kalau mau ia mulutnya bisa tajam. c. remark ucapan berisi kebencian.
-catty-cornered	= CATERCORNERED.
+catty-cornered	#NAME?
 catwalk	kb. jalan sempit di jembatan, tangki, mesin dsb.
-caucasian	ks. yang berhubungan dengan bangsa "kulit putih". He is C. by race Ia bangsa kulit putih. Ia berbangsa Eropah.
+caucasian	"ks. yang berhubungan dengan bangsa ""kulit putih"". He is C. by race Ia bangsa kulit putih. Ia berbangsa Eropah."
 caucus	kb. rapat anggota-anggota partai politik. -kki. mengadakan rapat. The striking group caucused this morning Para pemogok tadi pagi mengadakan rapat.
 caught	lih  CATCH.
 cauldron	kb. ketel, cerek, ceret, kawah, kancah.
 cauliflower	kb. blumkol, kol kembang.
-caulk	=  CALK.
+caulk	#NAME?
 causal	ks. sebab musabab, bersifat sebab- menyebab. What is the c. relationship between these two events? Apakah hubungan sebab musabab antara dua kejadian ini?
 causation	kb. yang menyebabkan, yang mendatangkan akibat.
 causative	ks. kausatif. -kan is a c. suffix  -kan adalah akhiran kausatif.
@@ -3381,7 +3381,7 @@ centipede	kb. lipan, halipan, kalalipan poisonous c. kelabang, lipan berbisa
 central	kb. pegawai kantor telpon, pusat, penghubung (telpon pusat). -ks. yang berhubungan dengan pusat. 2 tengah. 3 pokok.  -centrally kk. di tengah-tengah, di pusat.
 centralization	kb. sentralisasi, pemusatan.
 centralize	kkt. menyentralisasikan, memusatkan.
-centre	= CENTER.
+centre	#NAME?
 centrifugal	ks. sentrifugal. c. force gaya sentrifugal/melanting (dari pusat).
 centrifuge	kb. pemusing, mesin pusingan, mesin pemisah dengan putaran.
 centripetal	ks. sentripetal. c. force gaya sentri petal.
@@ -3407,7 +3407,7 @@ certify	kkt. (certified) 1 menandai. 2 menerangkan dengan sebenarnya. -kki. 1 me
 certitude	kb. ketentuan, kepastian.
 cervical	ks. yg berh. dgn tengkuk/kuduk.c. vertebra tulang tengkuk.
 cervix	kb. tenguk, kuduk. c. of the uterus leher rahim.
-cesarean	=CAESAREAN.
+cesarean	#NAME?
 cessation	kb. penghentian,, gencatan. c. of hostilities gencatan permusuhan.
 cession	kb. penyerahan . c. of teritory penyerahan daerah.
 cesspool	kb. tengki septik, perigi, jamban, tandas, camplungan.
@@ -3804,7 +3804,7 @@ cleanliness	kb. kebersihan. C. is next to godliness Kebersihan adalah hal yang m
 cleanness	kb. kebersihan, kerapian.
 cleanse	kkt.  membersihkan, mencuci to be cleansed of  o's sins disucikan dari dosa. -cleansing ks. yang membersihkan c. cream krem pembersih(an)/pencucian.
 cleanser	kb. obat/ bahan pembersih.Soap is a c. Sabun adalah obat pembersih.
-cleaptomaniac	=CLEAPTOMANIAC.
+cleaptomaniac	#NAME?
 clear	kb. to be in the c. 1 tak berdosa. 2 dalam perkataan biasa saja. (of the massage). -ks. 1 terang, cerah, gamblang. 2 jelas. 3 encer. 4 bersih. 5 kosong. 6 bebas. -clearing kb. tanah terbuka atau yang baru dibuka, pembukaan hutan.
 clearance	kb. 1 jarak ruangan. 2 izin.  c. sale (penjualan) obral.
 cleat	kb. paku pada sepatu supaya tidak licin.
@@ -3816,7 +3816,7 @@ cleft	lih  CLEAVE.
 clematis	ks. semacam tumbuh-tumbuhan menjalar.
 clemency	kb. (j. -ties) grasi, perampokan, pengampunan, klemensi.
 clench	kb. pegangan, genggaman, cengkeraman, kepalan. -kkt. mengepalkan (o's fists).
-cleptomania	= KLEPTOMANIA
+cleptomania	#NAME?
 clergy	kb. (j. -gies) kependetaan.
 clergyman	kb. (j. -men) pendeta, pastor.
 cleric	kb. anggota golongan pendeta.
@@ -3824,7 +3824,7 @@ clerical	kb. 1 yang berhubungan dengan pekerjaan juru tulis. c. work pekerjaan j
 clerk	kb. 1 pegawai toko, pramuniaga. 2 juru tulis. -kki. menjadi pelayan. She clerks in store Ia menjadi di toko.
 clever	ks. 1 pandai.  c. girl gadis yang pandai. 2 cakap,  cekatan. 3 cerdik. 4 pandai, pintar.
 cleverness	kb. 1 kepandaian. 2 kepintaran. 3 kecerdikan. 4 kecekatan. 5 ketrampilan.
-cliche	kb. kata klise.  "time-worn" is ac.  "time-worn" adalah kata klise. 2 Phot.: klise percetakan.
+cliche	"kb. kata klise.  ""time-worn"" is ac.  ""time-worn"" adalah kata klise. 2 Phot.: klise percetakan."
 click	kb. 1 bunyi ceklekan. 2 Ling.: bunyi kenyutan.  -kkt. membunyikan.  -kki. 1 berbunyi klik. 2 Sl.: berhasil.
 clickety-clack	kb. keletak-keletuk. His shoes went c. on the floor Sepatunya berkeletak-keletuk ketika berjalan di lantai papan.
 client	kb. 1 langganan, nasabah, klien. 2 orang yang dibela oleh (pengacara).
@@ -3867,7 +3867,7 @@ clodhopper	kb. seorang tolol.
 clog	kb. tekelek, bakiak. -kkt. (clogged) menyumbat. -kki. mampat, tersumbat.  clogged drain saluran yang tersumbat.
 cloister	kb. 1 beranda, serambi sepanjang rumah yang beratap. 2 Rel.: biara. -kkt. menyendiri. to lead a cloistered life hidup tersendiri/terpisah/tertutup.
 clop	kb. derap. the of marching feet derap kaki berbaris. -kki. (clopped) menderap. The horses clopped along the street Kuda-kuda menderap di jalan.
-close	kb. akhir.  -kkt. menutup. -kki. 1 berakhir. 2 (di) tutup. -closed ks. (ter)tutup. "Road c." Jalan ditutup. closed-door ks. tertutup, tidak umum. -closing kb. tutupan.
+close	"kb. akhir.  -kkt. menutup. -kki. 1 berakhir. 2 (di) tutup. -closed ks. (ter)tutup. ""Road c."" Jalan ditutup. closed-door ks. tertutup, tidak umum. -closing kb. tutupan."
 closeness	kb. kedekatan. The c. of the resemblance is striking Kemiripan yang begitu dekat sungguh menyolok. the c. of you to me hubungan yang dekat antara saudara dengan saya.
 closet	kb. 1 lemari dinding. 2 W.C., kakus. -kkt. mengadakan rapat tertutup. The judge was closeted with the lauyers Hakim mengadakan rapat tertutup dengan para pengacara.
 closure	kb. penutupan, pengakhiran. to invoke c. mengadakan/meminta penutupan.
@@ -4026,7 +4026,7 @@ coin	kb. 1 ( mata) uang logam. 2 mata uang. -kkt. membikin, mencipta. to c. mone
 coinage	kb. 1 pembuatan uang logam. 2 penciptaan. c. of new words penciptaan/pembuatan kata-kata baru.
 coincide	kki. 1 bertepatan. Our arrival coincided perfectly with the meeting Kedatangan kami bertepatan benar dengn rapat itu. 2 serupa. Their views coincided Pandangan-pandangan mereka serupa.
 coincidence	kb. kejadian yang kebetulan. Their coming was wuite a c. Kedatangan mereka memang hal yang kebetulan sekali.
-coition	=  COITUS.
+coition	#NAME?
 coitus	kb. persetubuhan, sanggama.
 coke	kb. 1 batu karang, kokas. c. oven tungku batu  arang, tungku kokas. 2 Sl.: C. koka kola.
 col.	1 (colonel) kolonel. 2  (college) perguruan tinggi. 3  (collector) pengumpul. 4 (colony) jajahan. 5 (column) lajur, kolom.
@@ -4071,7 +4071,7 @@ colloquium	kb. pertemuan/rapat keahlian, seminar.
 colloquy	kb. konferensi, seminar, musyawarah.
 collusion	kb. sekongkolan, kongkalikong. to act in c. with s.o. bersekongkol dengan seseorang.
 colo.	(Colorado) negarabagian A.S.
-cologne	= EAU  DE  COLOGNE.
+cologne	#NAME?
 colon	kb. 1 Anat.: usus besar. 2 Gram.: (tanda) titik dua.
 colonel	kb. kolonel.
 colonelcy	kb. (j. -cies) pangkat atau jabatan kolonel.
@@ -4284,7 +4284,7 @@ comptroller	kb. pengawas keuangan.
 compulsion	kb. paksaan, tekanan, keharusan. under c. dengan paksaan.
 compulsive	ks. yang mendorong. She has a c. nature Ia mempunyai sifat yang mendorong. -compulsively kk. dengan paksa.
 compulsory	ks. wajib, diwajibkan. c. education wajib belajar-sekolah. This subject is c. Mata pelajaran ini diwajibkan.
-compunction	kb. penyesalan, perasaan menyesal. I have no c. about saying "no" Saya tidak menyesal menolak.
+compunction	"kb. penyesalan, perasaan menyesal. I have no c. about saying ""no"" Saya tidak menyesal menolak."
 computation	kb. perhitungan.
 compute	kkt. memperhitungkan. to c. the cost memperhitungkan ongkos-ongkos. -kki. menghitung. It's not easy to c. correctly Tidak gampang untuk menghitung dengan tepat.
 computer	kb. mesin berhitung, komputer. electronic c. mesin berhitung elekronis.
@@ -4388,7 +4388,7 @@ configuration	kb. bentuk, susunan. the c. of the earth's surface  bentuk permuka
 confine	kb. confines j. batas-batas, perbatasan. -kkt. 1 mengurung, menahan. 2 membatasi.  to be confined melahirkan.  -confining  ks. yang mengikat. Office work is very c. Pekerjaan kantor sangat mengikat.
 confinement	kb. 1 kurungan.  He was in c. for robbery Ia dalam kurungan karena perampokan. 2 persalinan. She was in c. and unable to attend  Ia melahirkan dan tak dapat hadir.
 confirm	kkt. 1 menegaskan. 2memperkuat. 3 membaptiskan.  -confirmed ks. yang ngotot, tetap..
-confirmation	kb. penegasan, pengesahan.  I want to reserve  a room ; please send  c. Saya mau memesan kamar ; harap kirim penegasan.  This news item is subject to c. Kabar ini masih memerlukan pengesahan.
+confirmation	"kb. penegasan, pengesahan.  I want to reserve  a room ; please send  c. Saya mau memesan kamar ; harap kirim penegasan.  This news item is subject to c. Kabar ini masih memerlukan pengesahan."
 confiscate	kkt. 1 menyita (a car, etc).  2 mengambil-alih.  to c. a firm's property  mengambil milik perusahaan.
 confiscation	kb. penyitaan, pengambil alih.
 confiscatory	ks. bersifat penyitaan, pensitaan.  c. taxes  pajak pensitaan.
@@ -4486,7 +4486,7 @@ considerate	ks. baik budi, penuh perhatian.  a c. person seorang yang baik  budi
 consideration	kb. 1 pertimbangan. 2 perhatian, ketenggangan. 3 uang, upah.  after due c. sesudah memikirkannya/menimbangnya baik-baik.
 consign	kkt.  1 mengirimkan, menyerahkan. The books were consigned to him Buku-buku itu dikirimkan kepadanya.  2 membuang, mengasingkan.
 consignee	kb. penerima barang, sipenerima.
-consigner	=  CONSIGNOR.
+consigner	#NAME?
 consignment	kb. pengiriman.  These goods are for c. abroad Barang-barang ini kiriman untuk luarnegeri.  on c. sebagai penitipan, konsinyasi.
 consignor	kb. pengirim barang.
 consist	kki. terdiri, diperbuat (of dari,atas).  The fabric consists of nylon and dacron  Kain itu terdiri dari nylon dan dacron.
@@ -4595,7 +4595,7 @@ contracdistinction	kb. perbedaan karena berlawanan.
 contraception	kb. kontrasepsi.
 contraceptive	kb. alat/obat pencegah  penghamilan.
 contract	kb. kontrak, perjanjian.  -kkt. 1 menyingkatkan. 2 kena, mengidap. 3 mengkerut. -kki. 1 mengkerut, menutup perjanjian/kontrak. contracting parties  pihak-pihak yang mengadakan kontrak/perjanjian itu.
-contraction	kb. 1 singkatan.  "I'd" is a c. for  "I would"  "I'd" merupakan singkatan bagi "I would".  2 kepadatan, penyusutan, penciutan.  Cold causes c. Dingin menyebabkan kepadatan.
+contraction	"kb. 1 singkatan.  ""I'd"" is a c. for  ""I would""  ""I'd"" merupakan singkatan bagi ""I would"".  2 kepadatan, penyusutan, penciutan.  Cold causes c. Dingin menyebabkan kepadatan."
 contractor	kb. 1 kontraktor. 2 pemborong (pekerja bangunan).
 contractual	ks. berdasar perjanjian,  yang bertautan dengan kontrak. c. obligation kewajiban yang berdasar perjanjian.
 contradict	kkt. 1 menyangkal. He likes to c. people Ia suka  benar  menyangkal orang lain.  2 membantah.
@@ -4667,7 +4667,7 @@ cook	kb. koki, tukang masak. -kkt. memasak (food). -kki. 1 memasak. 2 menjadi tu
 cookbook	kb. buku masak(an).
 cooker	kb. panci pemasak makanan.
 cookery	kb. keahlian pekerjaan memasak.
-cookie	=  COOKY.
+cookie	#NAME?
 cookout	kb. masak-masak diluar.
 cooky	kb. (j. -kies) kue. c. jar stoples untuk kue.  Sl.: c. pusher orang yang membuang-buang waktu di pesta-pesta sehingga pekerjaannya terbengkalai.
 cool	kb. 1 kesejukan. 2 Sl.: ketenangan. -ks. 1 sejuk. 2 tipis. 3 dingin. 4 Sl.: yang mengagumkan. -kk. Sl.: to play s.t. c. berlaku tenang. -kkt. 1 mendinginkan. 2 mengurangi. -cooling ks. yang mendinginkan, yang membuat sejuk.
@@ -4696,7 +4696,7 @@ copperhead	kb. sejenis ular yang berbisa (kepalanya berwarna tembaga).
 copperplate	kb. pelat/lempeng tembaga.
 copra	kb. kopra.
 copter	Inf.:  =  HELICOPTER.
-copula	kb. kata kerja penghubung, kopula.  The verb "to be" serves as a c. in English  Kata kerja "to be"  adalah katakerja penghubung didalam bahasa Inggeris.
+copula	"kb. kata kerja penghubung, kopula.  The verb ""to be"" serves as a c. in English  Kata kerja ""to be""  adalah katakerja penghubung didalam bahasa Inggeris."
 copulate	copulate
 copulation	kb. 1 persetubuhan. 2 perhubungan, pergabungan.
 copulative	kb. 1 katakerja yang menghubungkan, pelantar. 2 katasambung yang menggabungkan
@@ -5003,7 +5003,7 @@ crises	j. lih  CRISIS.
 crisis	kb. (j. -ses). 1 masa gawat. 2 saat genting. 3 kemelut, kegentingan, kegawatan.
 crisp	kt. 1 garing. 2 segar dan kering. 3 yang kena dan singkat. a c. speech pidato yang kena dan singkat.
 crispiness	kb. kegaringan.
-crispy	= CRISP.
+crispy	#NAME?
 crisscross	ks., kk. berselang-seling, silang, menyilang. -kkt. menjelajahi (daerah).
 cristalline	ks. terdiri dari kristal.  Diamonds and snowflakes are c. Intan dan serpih salju terdiri dari kristal.
 criteria	j. lih  CRITERION.
@@ -5176,7 +5176,7 @@ custody	kb. (j.-dies) 1 tahanan, penjagaan.. The police took him into c.  Polisi
 custom	kb. 1 adat. 2 kebiasaan. 3 adat-istiadat. custom-built ks. dibuat menurut pesanan.  -customs j. 1 bea, cukai. 2 pabean, duane.
 customary	ks. biasa.  c. law  hukum adat.  -customarily kk. biasanya. C. I don't drive to the office  Biasanya, saya tak naik mobil ke kantor.
 customer	kb. 1 langganan, nasabah.  He's a good c. Ia seorang langganan baik.  2 Inf.: orang.  He 's a rough c. Ia seorang yang sulit untuk dihadapi.
-cut	kb. 1 luka. 2 potongan. 3 galian, lubang. 4 bagian. 5 membolos. 6 Inf.; ucapan, tindakan yang menyinggung perasaan. 7 pukulan memotong.  -kki.  1 tajam. 2 menusuk/melukai hati. 3 memotong. 4 berhenti, stop. 5 menyayat. 6 Sl.: meninggalkan, pergi.
+cut	"kb. 1 luka. 2 potongan. 3 galian, lubang. 4 bagian. 5 membolos. 6 Inf.; ucapan, tindakan yang menyinggung perasaan. 7 pukulan memotong.  -kki.  1 tajam. 2 menusuk/melukai hati. 3 memotong. 4 berhenti, stop. 5 menyayat. 6 Sl.: meninggalkan, pergi."
 cutaneous	ks. yang berhubungan dengan kulit.  c. nerve urat saraf pada kulit.
 cutaway	kb. jas berpotongan lancip kebelakang dipakai pada pertemuan-pertemuan resmi.
 cutback	kb. pengurangan, penyusutan.  c. in production pengurangan produksi.
@@ -5205,7 +5205,7 @@ cynic	kb. seorang yang suka memperolok-olokkan pekerjaan orang lain,  pengejek.
 cynical	ks. sinis, suka memperolok-olokkan, bersifat mengejek.  He' a very c. person  Ia seorang yang sangat suka memperolok-olokkan..
 cynicism	kb. sinisme, perolok-olok.
 cynosure	kb. pusat perhatian. She was the c. of all present  Ia adalah pusat perhatian dari semua yang hadir.
-cypher	=  CIPHER.
+cypher	#NAME?
 cypress	kb. semacam pohon cemara.
 cyst	kb. 1 kista.  2 risa.
 cytology	kb. bagian dari biologi yang mempelajari pembelahan sel-sel, fungsi sel-sel dsb.
@@ -5285,7 +5285,7 @@ dash	kb. 1 sedikit. 2 tanda garis/pisah/alangan (-). 3 garis. 4 lari cepat.. -kk
 dashboard	kb. papan (pedoman) instrumen, dasbor.
 dastardly	ks. bersifat pengecut. d.  deed perbuatan yang bersifat pengecut.
 data	kb. (j. dari datum). data, fakta, bahan-bahan keterangan.
-date	kb. 1 tanggal. 2 janji, perjanjian. 3 kencan, teman gadis, pacar. 4 Fruit ; kurma. -kkt. membubuhi tanggal. -kki. 1 berkencan, berpacaran. -dated  ks. tidak berlaku.  -dating  kb.1 perkencanan, berkencan, berpacaran . 2 penentuan tanggal.
+date	"kb. 1 tanggal. 2 janji, perjanjian. 3 kencan, teman gadis, pacar. 4 Fruit ; kurma. -kkt. membubuhi tanggal. -kki. 1 berkencan, berpacaran. -dated  ks. tidak berlaku.  -dating  kb.1 perkencanan, berkencan, berpacaran . 2 penentuan tanggal."
 datebook	kb. buku catatan perjanjian.
 dative	kb., ks. datif. d. case kasus datif.
 datum	lih  DATA.
@@ -5333,7 +5333,7 @@ dearth	kb. kekurangan. d. of firewood kekurangan kayu bakar.
 death	kb. 1 kematian. 2 ajal, maut. at death's  door  sedang  sekarat, hampir mati. to do to d. membunuh. deathly kk. seperti mayat. d. pale pucat pasi.
 deathbed	kb. akhir hidup, waktu meninggal dunia.  On his d. he forgave his son Pada waktu ia akan meninggal ia mengampuni putranya. d. wish keinginan yang penghabisan.
 deathblow	kb. hal yang mengakhiri sesuatu, pukulan maut.
-deb	=  DEBUTANTE.
+deb	#NAME?
 debacle	kb. kegagalan, bencana.
 debar	kkt. (debarred) menghalangi, merintangi.  Poor health often debars young people from engaging in sports  Kesehatan yang kurang baik seringkali menghalangi para pemuda ikut berolahraga.
 debark	kki. turun dari kapal, mendarat. We d. at Southampton  Kami turun dari kapal di Southampton.
@@ -5361,7 +5361,7 @@ dec.	(December)  Desember.
 decade	kb. dasawarsa, masa sepuluh tahun.
 decadence	kb. keadaan mundur, kemerosotan, kemunduran, dekadensi.
 decadent	ks. merosot. a d. period masa dekadensi/kemerosotan.
-decaffeinate	kkt. mengeluarkan "caffeine".  decaffeinated coffee  kopi yang sudah dilarutkan "caffeine"-nya, kopi tanpa caffeine.
+decaffeinate	"kkt. mengeluarkan ""caffeine"".  decaffeinated coffee  kopi yang sudah dilarutkan ""caffeine""-nya, kopi tanpa caffeine."
 decant	kkt. menuangkan.
 decanter	kb. karaf anggur.
 decapitate	kkt. memenggal leher.
@@ -5453,7 +5453,7 @@ deerskin	kb. kulit rusa.
 def.	(definite)  pasti, tentu.
 deface	kkt. mencacati, merusakkan, menodai, mengotori (a monument).
 defacement	kb. pencacatan, perusakan, penodaan.
-defaecate	=  DEFECATE.
+defaecate	#NAME?
 defamation	kb. fitnah(an), penistaan. He was sued for d. of character  Dia dituntut karena memfitnah.
 defamatory	ks. yang bersifat memfitnah.  d. statements  ucapan-ucapan yang bersifat memfitnah.
 defame	kkt. memffitnah, mencemarkan nama baik. to d. opponent mencemarkan nama baik seorang lawan.
@@ -5467,7 +5467,7 @@ defect	kb. 1 kerusakan. 2 cacat.  -kki. menyeberang.
 defection	kb. penyebrangan, peninggalan.
 defective	ks. 1 tidak sempurna, cacat. 2 rusak. d. parts  bagian-bagian yang rusak.  3 kurang baik. d. hearing pendengaran yang kurang baik.
 defector	kb. penyebrang, orang yang meninggalkan partainya, pasukannya dsb.
-defence	=  DEFENSE.
+defence	#NAME?
 defend	kkt. membela, mempertahankan.  -defending champion juara bertahan.
 defendant	kb. terdakwa, tergugat. d. in the lawsuit terdakwa dalam perkara pengadilan itu.
 defender	pembela.
@@ -5496,7 +5496,7 @@ deflationary	ks. bersifat deflasi. d. measures  tindakan-tindakan bersifat defla
 deflect	kkt. 1 membelokkan.  The wind deflected the arrow's path  Angin membelokkan jalan panah itu. 2  menangkis, mengelakkan. to d. a blow menangkis pukulan.
 deflection	kb. 1 pembelokan. 2 pengelakan. 3 defleksi.
 deflector	ks.  deflektor.
-deflexion	=  DEFLECTION.
+deflexion	#NAME?
 deflower	kkt. 1 merusakkan, menghancurkan. 2 merogol (anak dara).
 defoliate	kkt. menggundulkan. The tree was wholly defoliated  Pohon itu telah gundul seluruhnya.
 deforest	kkt. menebang/menghilangkan  hutan.
@@ -5737,7 +5737,7 @@ deskbound	ks. bekerja dibelakang meja. In this job I am  d.  Dalam jabatan ini s
 desolate	ks. 1 terpencil. 2 sepi, sunyi. 3 sedih, muram. 4 tandus,  gersang.  -kkt. 1 merusakkan, menghancurkan. 2 menyedihkan, menyusahkan.
 desolation	kb. 1 ketandusan (of a region). 2 kesedihan (of a person). 3 perusakan, penghancuran.
 despair	kb. keputus-asaan, kepatahan hati, kehilangan harapan. -kki. hilang harapan.  -despairing   ks. yang berputus asa.
-despatch	=  DISPATCH.
+despatch	#NAME?
 desperado	kb. penjahat yang nekat, bajingan, bandit.
 desperate	ks. 1 yang sangat menyedihkan. 2 nekat. 3 putus asa.  to do s.t. d. melakukan yang tidak-tidak.  -desperately kk. mati-matian.
 desperation	kb. kenekatan, keputus asaan, kehilangan harapan.   In d. he committed suicide  Dalam keadaan putus-asa ia membunuh diri.
@@ -5794,7 +5794,7 @@ detract	kki. to d, from 1 mengurangi.  to d. from the beauty mengurangi keindaha
 detractor	kb. pengumpan, pencela, pemfitnah, tukang fitnah.
 detriment	kb. kerusakan, kerugian. to the d. of his health sehingga merusak kesehatannya.
 detrimental	ks. yang merusak/mengganggu. Lack of exercise can be d. to o's health  Kurang latihan badan dapat mengganggu kesehatan seseorang.
-deuce	kb. 1 dua (main kartu). 2 Tenn.: jus, 4 0 sama. 3 kurang ajar, gerangan. Who in the d. took my paper ? Kurang ajar ; siapa yang mengambil koranku ?
+deuce	"kb. 1 dua (main kartu). 2 Tenn.: jus, 4 0 sama. 3 kurang ajar, gerangan. Who in the d. took my paper ? Kurang ajar ; siapa yang mengambil koranku ?"
 devaluate	kkt. mendevaluasikan.
 devaluation	kb. devaluasi.
 devastate	kkt. merusak(kan), menghancurkan. -devastating  ks. 1 yang menghancurkan. 2 sangat kena, sangat efektif.  -devastatingly kk. meluluhkan, menghancurkan, amat.
@@ -5848,7 +5848,7 @@ dialectic(s)	kb. dialektika.
 dialectical	ks.  berdasarkan dialektika. d. materialism materialisme (berdasarkan dialektika).
 dialectician	kb. ahli dialektika.
 dialectology	kb. dialektologi.
-dialog	=  DIALOGUE.
+dialog	#NAME?
 dialogue	kb. dialog, percakapan dwicakap.
 diameter	kb. garis tengah.
 diametrical	ks. diametral, yang samasekali bertentangan mengenai. -diametrically kk. samasekali bertentangan dengan pendapat kami.
@@ -5879,12 +5879,12 @@ did	lih  DO.
 didacric	ks. yang bersifat mendidik. d. novel roman yang bersifat mendidik.
 didn't	(did not) lih DID.
 die	kb. (j. dice) mata dadu.  -kki. 1 mati. 2 mati, meninggal dunia. to d. hard sukar lenyap, kuat bertahan. to d. down 1 menghilang. 2 reda. - the dying  kb. yang akan mati.  ks. 1 hampir mati. 2 hampir hilang.
-dieresis	=  DIARESIS.
+dieresis	#NAME?
 diesel	kb. lokomotif disel. -ks. disel.  d. oil minyak disel/solar. d.-powered truck truk yang bertenaga disel.
 diet	kb. 1 diet.  to follow a strict d. mengikuti diet yang keras. 2 makanan,  diet. low-fat d. makanan yang sedikit lemaknya.
 dietary	ks. yang berhubungan dengan makanan. d. rules  peraturan-peraturan diet, peraturan-peraturan susunan makanan.
 dietetic	ks. yang berhubungan dengan diet atau susunan makanan. d. foods makanan diet.
-dietician	=  DIETITIAN.
+dietician	#NAME?
 dietitian	kb. ahli/penata diet.
 differ	kki. berbeda.  Opinions d. Pendapat-pendapat berbeda.
 difference	kb. 1  perbedaan.  2 pertentangan, perselisihan. 3 pertikaian. 4 selisihnya. 5 sisa.
@@ -5922,7 +5922,7 @@ dilemma	kb. 1 pilihan, dilema. 2 malu. on the horns of a d. bagai makan buah sim
 dilettante	kb., ks. penggemar, pencinta kesenian (tanpa menjadi ahli).
 diligence	kb. kerajinan, ketentuan.
 diligent	ks. rajin, tekun.
-dill	kb. tumbuh-tumbuhan yang bijinya harum dipakai untuk asinan, masak-masakan, minyak wangi dan obat-obatan. d. pickle acar timun yang memakai "dill".
+dill	"kb. tumbuh-tumbuhan yang bijinya harum dipakai untuk asinan, masak-masakan, minyak wangi dan obat-obatan. d. pickle acar timun yang memakai ""dill""."
 dilly	kb. Sl.: (j. -lies) Sl.: orang atau hal yang dianggap luar biasa. She's a d. Perempuan itu betul-betul hebat.
 dilly-dally	kki. (dilly-dallied) membuang-buang waktu, berlengah-lengah.
 dilute	kkt. mencairkan, menipiskan. -diluted ks. yang ditambah air. d. orange juice air jeruk yang ditambah air.
@@ -6004,7 +6004,7 @@ disband	kkt. membubarkan. -kki. bubar. The team disbanded Regu itu bubar.
 disbelief	kb. ketidak percayaan, kesangsian. to receive the news with d. menerima kabar itu dengan perasaan tidak percaya.
 disburse	kkt. mengeluarkan, membayar.
 disbursement	kb. pengeluaran, pembayaran.d. of fund pembayaran dana-dana.
-disc	=  DISK.
+disc	#NAME?
 disc.	(discount) potongan.
 discard	kb. 1 barang-barang yang  dibuang 2 Bridge : kartu-kartu yang dibuang. -kkt. membuang (clothes, cards ,etc). -kki. membuang (cards).
 discern	kkt. melihat. to d. the difference between melihat perbedaan antara.  -discerning ks. tajam, cerdas. d. mind pikiran yang tajam.
@@ -6201,7 +6201,7 @@ dissolve	kkt. 1 membubarkan.  to d. a partnership  membubarkan persekutuan.   2 
 dissonance	kb. 1 ketidakcocokan, ketidaksesuaian. 2 hiruk pikuk (of auto horn). 3 Mus.: kejanggalan bunyi.
 dissonant	ks. tidak cocok/sesuai. d. music  musik yang tidak harmonis.
 dissuade	kkt. meminta supaya jangan mengerjakan sesuatu.
-dissyllabic	=  DISYLLABIC.
+dissyllabic	#NAME?
 dist.	(district) daerah, distrik.
 distaff	kb. keluarga dari pihak ibu. We are related on d. side Kami ada hubungan keluarga dari pihak ibu.
 distance	kb. 1 jarak.  2 kejauhan. in the d. di kejauhan disana.  to keep at a d. menjauhkan, menjauhi.  to keep o's d. tidak terlalu ramah dengan, menjauhi.
@@ -6249,7 +6249,7 @@ dither	kb. 1 sibuk sekali. to be all in a d. over o's wedding sibuk sekali karen
 ditto	kb. sama, dito. -kkt. menyalin, membuat suatu kopi. to d. a letter menyalin surat.
 div.	(division) 1 bagian. 2 divisi.
 divan	kb. dipan, amben.
-dive	kb. penyelaman (of a submarine). 2 tukikan. 3 Inf.: tempat minuman dan permainan judi yang murah. -kki. 1 terjun. 2 menyelam. 3 Inf.: masuk. 4 berkecimpung, terjun. 5 menghilang. 6 merogoh. -diving kb. 1 penyelaman. 2 Sport ; loncat indah.
+dive	"kb. penyelaman (of a submarine). 2 tukikan. 3 Inf.: tempat minuman dan permainan judi yang murah. -kki. 1 terjun. 2 menyelam. 3 Inf.: masuk. 4 berkecimpung, terjun. 5 menghilang. 6 merogoh. -diving kb. 1 penyelaman. 2 Sport ; loncat indah."
 diver	kb. penerjun. 2 penyelam, juru selam.
 diverge	kki. 1 berbeda. 2 menyimpang, bercabang. The roads d. two miles farther on Jalan-jalan itu bercabang pada jarak dua mil lagi.
 divergence	kb. perbedaan. a d. of opinion perbedaan pendapat.
@@ -6410,11 +6410,11 @@ downstream	kk. hilir, menghilir. He lives d. Ia tinggal dihilir. to go d. berlay
 downtown	ks. the d. section kota bagian yang ramai. -kk. kota (bagian yang ramai tempat perdagangan). to go d. pergi kekota.
 downturn	kb. kecenderungan untuk menurun.
 downward	ks. yang menurun. d. trend kecenderungan untuk menurun. -kk. kebawah. bent d. dilengkungkan kebawah.
-downwards	=  DOWNWARD  kk.
+downwards	#NAME?
 downwind	ks., kk. menurut jurusan angin.
 downy	ks. tertutup dengan bulu halus, berbulu halus.
 dowry	kb. (j. -ries) mas kawin, mahar.
-dowse	=  DOUSE.
+dowse	#NAME?
 doxology	kb. (j. -gies) kidung-puji, zikir, lagu-lagu pujian.
 doz.	(dozen)  lusin.
 doze	kb. tidur sebentar/sejenak. -kki. tidur-tiduran, tidur ayam, mengantuk. to d. off tertidur sebentar.
@@ -6449,8 +6449,8 @@ drape	kb. (kain) tirai, gorden. -kkt. 1 mengenakan. to d. a shawl the shoulders 
 drapery	kb. (j. -ries) bahan gorden.
 drastic	ks. tegas, ganas. to take d. measures mengambil langkah - langkah tegas. -drastically kk secara drastis/radikal.
 drat	kkt., kseru. Inf.: D. it ! It's raining again Persetan ! Hujan lagi.
-draught	=  DRAFT.
-draughtsman	=  DRAFTSMAN.
+draught	#NAME?
+draughtsman	#NAME?
 draw	kb. 1 tarikan. 2 seri. -kkt. (drew, drawn) 1 menggambar (a picture). 2 menarik, menutup (a curtain). 3 mengambil(kan). 4 mendatangkan. 5 menghela. 6 menyebabkan. 7 mendapat. 8 menyeret. 9 memindahkan. 10 membuang isi perut. (of foul).
 drawback	kb. kekurangan. d. to a house kekurangan pada rumah.
 drawbridge	kb. jembatan jungkatan/tarikan.
@@ -6553,7 +6553,7 @@ dumb	ks. bisu, kelu. Animals are d. Binatang itu bisu. 2 dungu, bodoh, bebal. a 
 dumbbell	kb. 1 (exercise) halter. 2 Sl.: orang bodoh.
 dumbfound	kkt. menakjubkan, mengherankan. -dumbfounded ks. tercengang, ternganga. I was d. by his remark Saya tercengang mendengar ucapannya itu.
 dumbwaiter	kb. rak piring dan cangkir yang dapat naik-turun ke ruangan atas.
-dumfound	=  DUMBFOUND.
+dumfound	#NAME?
 dummy	kb. (j. -mies) 1 boneka untuk menggantungkan pakaian di etalase. 2 boneka yang dipakai oleh tukang jahit untuk mengenakan baju. 3 orang-orangan yang dipakai sebagai sasaran menembak. 4 contoh, model. 5 Bridge : dumi. -ks. kosong.
 dump	kb. 1 tempat sampah. 2 Sl.: tempat yang kotor. -dumps k. kesedihan. -kkt. 1 membuang. 2 melimpahkan. 3 membanjiri, mengeluarkan. -dumping kb. dumping
 dumpling	kb. kue bola. apple d. kue bola berisi buah apel.
@@ -6603,7 +6603,7 @@ dyak	kb. 1 orang Dayak. 2 bahasa Dayak.
 dye	kb. celup (an), bahan celup. -kkt. mencelup. to d. a dress green mencelup gaun menjadi hijau. -kki. dicelup.  -dyed-in-wool ks. sejati tulen.  -dyeing kb. (pen) celupan.
 dyer	kb. tukang celup.
 dying	lih  DIE.
-dyke	=  DIKE.
+dyke	#NAME?
 dynamic	ks. dinamis, dinamik, bersemangat. d. personality  kepribadian yang  dinamis.
 dynamics	kb. 1 ilmu dinamika. 2 tenaga gerak. the d. of a hurricane tenaga gerak topan.
 dynamism	kb. dinamisme, tenaga yang dinamis.
@@ -6703,7 +6703,7 @@ eddy	kb. (j. -dies) olakan, kisaran, pusaran arus. -kki. (eddied) berkisar, berp
 eden	kb. taman firdaus.
 edge	kb. 1 tepi. 2 pinggir. 3 tebing. -kkt. memberi pinggir. to e. o's way berjalan miring.
 edgeways	edgeways
-edgewise	=  EDGEWAYS.
+edgewise	#NAME?
 edginess	kb. 1 kegelisahan, kegugupan. r ketajaman.
 edgy	ks. lekas terganggu, tidak tenang.
 edible	ks. dapat dimakan.
@@ -6766,7 +6766,7 @@ egotistic(al)	ks. congkak, sombong, angkuh, mementingkan diri sendiri.
 egret	kb. sejenis burung bangau.
 egypt	kb. Mesir.
 egyptian	kb. orang Mesir. -ks. Mesir. E. currency mata uang Mesir.
-eh	kseru. bukan ?; ..., kan ?; ..., ya ?.
+eh	"kseru. bukan ?; ..., kan ?; ..., ya ?."
 eight	kn. delapan. e. books delapan buku. e. o'clock jam delapan.
 eighteen	kn. delapan belas.
 eighteenth	kn. yang kedelapan belas. He arrives on the e.  Dia akan tiba tanggal delapan belas.
@@ -6775,7 +6775,7 @@ eighth	kb., ks. yang kedelapan. This is the e. cup of coffee Ini cangkir yang ke
 eightieth	ks. yang kedelapan puluh.
 eighty	kb., ks. (j. ties) delapan puluh e. two delapan puluh dua. e. third yang kedelapan puluh tiga.
 either	ks. 1 salah satu dari dua. 2 tiap. -kg. 1 salah satu. 2 salah  seorang. -kk. pun tidak. either-or ks. salah satu dari dua.
-ejaculate	kkt. 1 berkata dengan tiba-tiba. "My God," she ejaculated in horror "Ya Allah", ujarnya dengan ketakutan. 2 mengeluarkan dengan tiba-tiba.
+ejaculate	"kkt. 1 berkata dengan tiba-tiba. ""My God,"" she ejaculated in horror ""Ya Allah"", ujarnya dengan ketakutan. 2 mengeluarkan dengan tiba-tiba."
 ejaculation	kb. 1 ujar, seruan. 2 pengeluaran dengan tiba-tiba, penyemburan.
 eject	kkt. 1 mengusir. to e. s.o. from a house mengusir seseorang dari rumah. 2 menyemprotkan, mengeluarkan, menyemburkan. to e. lava menyemprotkan lahar.
 ejection	kb. 1 pengusiran. 2 pelemparan, penyemburan (lava). Av.: e. seat tampat duduk peloncat otomatis dalam waktu darurat.
@@ -7003,11 +7003,11 @@ enemy	kb. (j. -mies) musuh, lawan. He's his own worst e. Dia yang merupakan musu
 energetic	ks. giat, penuh semangat (be)kerja. -energetically kk. dengan penuh semangat (be)kerja.
 energy	kb. (j. -gies) 1 tenaga. atomic e. tenega atom. 2 kekuatan. 3 tenaga bekerja, daya.
 enervate	kkt. melemaskan, melemahkan. The hot, humid climate enervates me Iklim yang panas dan lembab itu melemaskan saya. -enervating ks. melemahkan.
-enfold	=  INFOLD.
+enfold	#NAME?
 enforce	kkt. menyelenggarakan, menjalankan.  to e. the law menyelenggarakan undang-undang, melaksanakan (kekuasaan) undang-undang.
 enforceable	ks. dapat diselenggarakan/dilaksanakan.
 enforcement	kb. pelaksanaan, penyelenggaraan. e. of the law pelaksanaan undang-undang.
-enforcible	=  ENFORCEABLE.
+enforcible	#NAME?
 enfranchise	kkt. memberi hak untuk memberi suara kepada.
 eng.	1 [engineer] insinyur. 2 [engineering] keahlian tehnik.
 engage	kkt. 1 memesan. 2 menggunakan, menyewa. 3 melawan. 4 mengajak, mengikutsertakan. 5 memintai. -kki. to e. in battle berperang. -engaged ks. to be e. 1 bertunangan. 2 sibuk, sedang dipakai/bicara. -engaging ks. yang menarik hati.
@@ -7020,7 +7020,7 @@ england	kb. negeri Inggris.
 english	kb., ks. bahasa Inggris. E.-born ks. kelahiran Inggris. E.-speaking ks. berbahasa Inggris.
 englishman	kb. (j. -men) orang/pria Inggris.
 englishwoman	kb. (j. -women) wanita Inggris.
-engrain	= INGRAIN.
+engrain	#NAME?
 engrave	kkt. 1 mengukir, melukis. 2 memahatkan, menggoreskan. -engraving kb. 1 barang ukiran/pahatan. 2 pengukiran, keahlian mengukir atau memahat.
 engraver	kb. 1 pengukir, pemahat. 2 pembikin klise.
 engross	kkt. memikat, mengasyikkan. -engrossed ks. terpikat, asyik. -engrossing ks. yang mengasyikkan.
@@ -7051,8 +7051,8 @@ enormous	ks. sangat besar, hebat. an e. house rumah yang sangat besar. -enormous
 enough	kb. cukup.  -ks. cukup
 enpassant	kk. sambil lalu.
 enplane	kki. naik pesawat terbang.
-enquire	=  INQUIRE.
-enquiry	=  INQUIRY.
+enquire	#NAME?
+enquiry	#NAME?
 enrage	kkt. membuat marah sekali. That enraged him Itu membuat dia marah sekali.
 enrapture	kkt. mempesonakan, menawan hati, memberanikan, menggairahkan.
 enrich	kkt. 1 memperkaya. (o's). 2 menyuburkan.  enriched milk susu yang  telah dipertinggi nilai gizinya.
@@ -7130,7 +7130,7 @@ envision	kkt. memimpikan. to e. o's son a general memimpikan puteranya sebagai j
 envoy	kb. duta, utusan, wakil.
 envy	kb. (j. -vies) cemburu, iri (hati). -kkt. (envied) iri pada, mengirikan.
 enzyme	kb. enjim(a), enzim.
-eon	=  AEON.
+eon	#NAME?
 epaulet(te)	kb. epolet, tanda pundak, balok/tanda pangkat.
 ephemeral	ks. berlangsung sebentar saja. e. beauty kecantikan yang berlangsung hanya sehari.
 epic	kb. epic, syair kepahlawanan. -ks. hebat sekali. e. deeds perbuatan-perbuatan yang hebat/berani sekali.
@@ -7601,7 +7601,7 @@ fad	kb. mode, iseng(-iseng). It's a f. Hanya iseng saja.
 faddist	kb. pengikut mode.
 fade	kkt. memudarkan. -kki. 1 meluntur, menjadi pudar.  2 menghilang. 3 layu. to f. away 1 menjadi kabur, berangsur hilang. 2 mati, wafat. 3 menghilang, berangsur pergi.  -fading kb. 1 kehilangan warna. 2 TV, Tel.: kehilangan kekuatan suara atau gambar.
 fadeproof	ks. tak/tahan  luntur.
-faeces	=  FECES.
+faeces	#NAME?
 fag	kb. ujung, akhir. f. end akhir ujung, sisa yang paling jelek. -kki. (fagged) Inf.: to f. out meletihkan. I'm fagged out Saya letih sekali.
 faggot	kb.  =FAGOT.
 fagot	kb. berkas kayu api, seikat kayu bakar.
@@ -7632,7 +7632,7 @@ fallible	ks. dapat berbuat keliru/salah.
 fallopian	ks. f. tubes saluran/pembuluh telur ke kandungan rahim.
 fallout	kb. jatuhan (radioaktif). f. shelter lubang/ruang perlindungan dibawah tanah terhadap radioaktif.
 fallow	ks. kosong, belum ditanami. to lie f. tandus.
-false	ks. 1 palsu. 2 bohong. 3 tidak benar. 4 sumbang. f. colors 1 bendera palsu. 2 pembawaan diri yang dibikin-bikin. f. pretenses  alasan-alasan palsu.
+FALSE	ks. 1 palsu. 2 bohong. 3 tidak benar. 4 sumbang. f. colors 1 bendera palsu. 2 pembawaan diri yang dibikin-bikin. f. pretenses  alasan-alasan palsu.
 falsehood	kb. kebohongan, dusta.
 falsetto	kb., ks. suara buatan bernada tinggi, suara tinggi yang tidak wajar.
 falsies	kb., j. Inf.: sumpalan, isi BH supaya buah dada kelihatan lebih montok
@@ -7841,7 +7841,7 @@ fibre	kb. =  FIBER.
 fibrous	ks. bersabut, berserat, berbenang- benang, berserabut.
 fibula	kb. tulang betis.
 fickle	ks. berubah-ubah, tidak tetap, plin-plan. a f. girl seorang gadis yang pikirannya berubah-ubah.
-fiction	kb. 1 fiksi, cerita rekaan. 2 khayalan. The "average" American is a f. Yang disebut orang Amerika "pukul rata" hanya khayalan saja.
+fiction	"kb. 1 fiksi, cerita rekaan. 2 khayalan. The ""average"" American is a f. Yang disebut orang Amerika ""pukul rata"" hanya khayalan saja."
 fictional	ks. (bersifat) khayal.
 fictitious	ks. 1 khayalan. 2 samaran. 3 yang dibuat-buat.
 fiddle	kb. Inf.: 1 biola.  2 (Indonesian) rebab. -kkt. menggesek(kan). to f. with memainkan.
@@ -7979,7 +7979,7 @@ fix	kb. 1 kesulitan. 2 Nav.: penentuan posisi. 3 Sl.: suapan. 4 Narc.: Sl.: dosi
 fixation	kb. fiksasi, pendapat/perasaan yang mendalam. a f. about cleanliness fiksasi mengenai kebersihan, perasaan yang mendalam mengenai kebersihan.
 fixer	kb. 1 tukang pasang. 2 Inf.: tukang suap.
 fixture	kb. perlengkapan tetap, peralatan tetap. She's become a f. iin the office Ia telah menjadi perlengkapan tetap di kantor itu.
-fiz	=  FIZZ.
+fiz	#NAME?
 fizz	kb. 1 desis (air). 2 minuman yang menguap. -kki. meruap, mendesis.
 fizzle	kb. kegagalan. -kki. 1 mendesis (of rockets, firecracker). 2melempem,gagal. The project fizzled out Proyek itu gagal/mati.
 fla	(Florida) negara bagian A.S.
@@ -8154,8 +8154,8 @@ foam	kb. 1 busa (from the mouth). 2 buih, busa. (of beer).  -kki. 1 berbusa.  2 
 focus	kb. 1 titik api. 2 pusat. 3 Med.: sarang (of infection). -kkt. 1 memusatkan. 2 menyetel lensa.  -kki melihat dengan jelas.
 fodder	kb. makanan hewan/ternak.
 foe	kb. musuh, lawan.
-foetal	=  FETAL.
-foetus	=  FETUS.
+foetal	#NAME?
+foetus	#NAME?
 fog	kb. kabut. f. bank dinding kabut. -kkt. (fogged) mengaburkan. to f. over/up menutup dengan kabut. f. light lampu (kuning) untuk menembus kabut.
 fogbound	ks. terhalang oleh kabut.
 fogey	kb. =  FOGY.
@@ -8312,7 +8312,7 @@ fornicate	kki. bersetubuh diluar nikah, berzina.
 fornication	kb. perbuatan zina, persetubuhan diluar nikah.
 forsake	kkt. (forsook, forsaken) meninggalkan, mengabaikan. to f. home and family meninggalkan rumah dan keluarga.
 forsaken	lih  FORSAKE.
-forseeable	=  FORESEEABLE.
+forseeable	#NAME?
 forsook	lih  FORSAKE.
 forswear	kkt. (forswore, forsworn) bersumpah untuk menghentikan. to f. o.s. makan sumpah, bersumpah palsu.
 forswore	lih  FORSWEAR.
@@ -8449,7 +8449,7 @@ friendless	ks. tak berteman.
 friendliness	kb. keramah-tamahan.
 friendly	ks. ramah (tamah). He's a f. person Dia peramah. f. greeting  salam yang ramah.
 friendship	kb. persahabatan. I did it out of f. Saya melakukannya karena persahabatan.
-frier	=  FRYER.
+frier	#NAME?
 fries	lih  FRY.
 frieze	kb. dekorasi atau hiasan yang melintang pada dinding didalam atau diluar rumah/gedung.
 frigate	kb. pergat(a).
@@ -8570,7 +8570,7 @@ futile	ks. sia-sia. to make a f. effort gagal dalam usaha.
 futility	kb. (j. -ties) kesia-siaan, kegagalan.
 future	kb. 1 masa depan. 2 keakanan. in the f. lain kali, seterusnya. -ks. 1 yang akan datang. 2 bakal.
 futurity	kb. (j. -ties) keakanan.
-fuze	=   FUSE..
+fuze	#NAME?
 fuzz	kb. 1 bulu halus (on peaches, etc.). 2 rambut halus.
 fuzziness	kb. 1 Phot.: kekaburan, ketidakjelasan. 2 keadaan berbulu halus.
 fuzzy	ks. 1 kabur, tidak jelas. 2 berbulu halus (of a chick).
@@ -8629,7 +8629,7 @@ gambler	kb. permainan judi, penjudi.
 game	kb. 1 permainan. 2 pertandingan. 3 binatang buruan. 4 Inf.: pekerjaan. 5 maksud. to play a waiting g. menantikan saat yang baik.  g. license izin perburuan.  -gaming ks. berjudi.  -gamely kk. dengan gagah berani.
 gamecock	kb. ayam sabungan.
 gamekeeper	kb. pengawas binatang perburuan/liar.
-gamey	=   GAMY.
+gamey	#NAME?
 gamma	kb. gamma. g. ray sinar gamma.
 gamut	kb. 1 tangga nada. 2 keseluruhan (nya).
 gamy	ks. berbau daging yang hampir busuk.
@@ -8755,7 +8755,7 @@ gentile	kb. 1 seorang bukan Yahudi. 2 kafir (menurut orang Islam).
 gentility	kb. (j. -ties) keturunan bangsawan/ningrat, tingkah-laku yang sopan, budibahasa yang halus.
 gentle	ks. 1 lemah-lembut. 2 sepoi-sepoi. 3 jinak.  the gentle(r) sex kaum wanita / Hawa. -ks. berperasaan baik, ramah. -gently kk. 1 dengan hati-hati. 2 dengan lemah-lembut.
 gentleman	kb. (j. -men). 1 tuan, saudara. 2 orang pria.  g.'s agreement perjanjian yang ditandatangani, tetapi dianggap berlaku atas pengertian bersama.
-gentlemanlike	=   GENTLEMANLY.
+gentlemanlike	#NAME?
 gentleness	kb. kelemah-lembutan, kehalusan.
 gentlewoman	kb. (j. -women). wanita baik-baik, wanita dari keluarga baik-baik, wanita yang berkedudukan baik.
 gently	lih  GENTLE.
@@ -8835,8 +8835,8 @@ gingersnap	kb. kue kecil yang garing dan dibubuhi jahe dan manisan.
 gingham	kb. (kain) genggang.
 gingivitis	kb. radang gusi.
 ginseng	kb. jinsom.
-gip	=  GYP.
-gipsy	=  GYPSY.
+gip	#NAME?
+gipsy	#NAME?
 giraffe	kb. zirafah, zirafah, jerapah.
 gird	kkt. bersiap-siap. He girded himself for a rough struggle Dia bersiap-siap untuk suatu perkelahian yang seru.
 girder	kb. bendul, balok penopang.
@@ -8862,7 +8862,7 @@ glade	kb. lapangan yang terluang ditengah-tengah tanah rimba.
 gladiator	kb. seorang budak, tawanan atau orang upahan yang disuruh berkelahi dalam tontonan umum.
 gladiolus	kb. (j. -li, -uses) gladiol.
 gladness	kb. kesenangan hati, kegembiraan.
-glamor	=  GLAMOUR.
+glamor	#NAME?
 glamorize	kkt. mengagungkan.
 glamorous	ks. sangat menarik dan mempesonakan.
 glamour	kb. daya tarik.
@@ -8975,7 +8975,7 @@ goldsmith	kb. pandai/tukang emas.
 golf	kb. golf. g. club a) tongkat/ketokan/ getokan golf. b) perkumpulan. g. course/links lapangan golf.
 golfer	kb. pemain golf.
 golly	kseru. astaga !
-golosh	=  GALOSH.
+golosh	#NAME?
 gone	lih  GO.
 goner	kb. Inf.:  yang mati/amblas. We're goners if we can't  escape Kita akan menjadi korban kalau tak dapat melarikan diri.
 gong	gong ,gung.
@@ -9118,7 +9118,7 @@ greatness	kb. kebesaran, kejayaan, kemegahan.
 grecian	ks.yang berhubungan dengan Yunani.
 greece	kb. Negeri  Yunani.
 greed	kb. ketamakan, kelobaan, kerakusan.
-greediness	=  GREED.
+greediness	#NAME?
 greedy	ks. tamak, loba, rakus. g. for money lapar uang. -greedily kk. dengan rakus/lahap/tamak/loba.
 greek	kb. 1 orang Yunani. 2  bahasa Yunani. It's G. to me Saya tidak mengerti sama sekali. -ks. yang berhubungan dengan Yunani. the G. Church Gereja Yunani Kuno.
 green	kb. 1 (warna) hijau. 2 Golf : lapangan green. 3 (food) sayuran berwarna hijau (seperti bayam). -ks. 1 hijau. 2 muda, hijau. 3 yang belum  berpengalaman. g. light a) lampu hijau. b) izin, permisi. g. pepper cabe(hijau).
@@ -9132,7 +9132,7 @@ greet	kkt. menyambut (the guests). -greeting kb. 1 sambutan.  warm g. sambutan y
 gregarious	ks. 1 seorang yang suka berteman, yang suka sekali berkumpul-kumpul. 2 yang suka hidup berkelompok (of cattle, sheep).
 grenade	kb. granat.
 grew	lih  GROW.
-grey	=  GRAY.
+grey	#NAME?
 greyhound	kb. sejenis anjing yang tinggi dan langsing (biasanya dipakai untuk pacuan).
 grid	kb. 1 kisi tempat pemanggangan (ikan, daging). 2 jaringan (listrik, gas dsb).
 griddle	kb. wajan ceper.
@@ -9400,7 +9400,7 @@ handwringer	kb. orang putus asa.
 handwriting	kb. tulisan tangan. h. on the wall alamat buruk.
 handy	ks. 1 cekatan, ringan tangan. 2 berguna. 3 dekat. -handily kk. dengan mudah.
 handyman	kb. (j. -men) tukang.
-hang	kb. cara bergantung.-kkt. (hung;hanged kalau dihukum mati). 1 menggantung. 2 menggantungkan 3 menundukkan (o's head). 4 melekatkan, menempelkan. (wallpaper). -hanging kb. 1 mati di gantungan, hukuman gantung. 2 hiasan yang digantungkan.
+hang	"kb. cara bergantung.-kkt. (hung;hanged kalau dihukum mati). 1 menggantung. 2 menggantungkan 3 menundukkan (o's head). 4 melekatkan, menempelkan. (wallpaper). -hanging kb. 1 mati di gantungan, hukuman gantung. 2 hiasan yang digantungkan."
 hangar	kb. (h) anggar.
 hangdog	ks. malu, hina. He has a h. look Mukanya suram.
 hanger	kb. gantungan. hanger-on kb. (j. hangers-on) pengikut-pengikut.
@@ -9614,7 +9614,7 @@ helper	kb. pembantu, penolong.
 helpful	ks. suka menolong, berguna, bermanfaat.
 helplessness	kb. keadaan tdk berdaya.
 helpmate	kb. pembantu, suami atau istri.
-helpmeet	= HELPMATE.
+helpmeet	#NAME?
 helpness	ks. tdk berdaya, mati kutu.
 helter-skelter	kk. dlm keadaan kacau balau, puntang-panting dan tergesa-gesa.
 hem	kb. keliman, depun (of dress. -kkt. (hemmed) mengelim (a skirt).to h. and haw  berbicara dgn ragu-ragu. to h. in mengepung, mengurung.
@@ -9694,7 +9694,7 @@ hi-fi	[high fidelity] kb. Inf.: perekaman dan pemancaran suara kembali dengan te
 hiatus	kb. rumpun, kekosongan, ruang kosong, ompong.
 hibernate	hibernate
 hibiscus	kb. waru, bunga raya/sepatu.
-hiccough	=  HICCUP.
+hiccough	#NAME?
 hiccup	kb. sedakan, sedu, ketegukan, kecegukan. -kki. tersedak, bersedu.
 hick	kb. Inf.: orang udik/dusun/kampungan.
 hickory	kb. (j. -ries) sejenis pohon di A.S. yang buahnya berkulit keras.
@@ -9798,7 +9798,7 @@ hold	lih HOLD.
 holder	kb. 1 tempat. cigarette h. tempat rokok. 2 pemilik (of shares). 3 pemegang (of records).
 holdover	kb. 1 peninggalan. 2 pegawai (lama) yang masih dipertahankan.
 holdup	kb. perampokan, penghadangan, penggarongan, penodongan, pembegalan. h. man penodong, tukang todong, perampok, pembegal
-hole	kb. 1 lubang, lobang. 2 rongga. 3 liang. 4 (water) lubuk. 5 kekurangan, kelemahan, kesalahan. 6 Golf ; lubang, hole. -kki. to h. up pergi menjauhkan/mengasingkan. diri. hole in the wall kb. gubuk kecil. ks. kecil, miskin.
+hole	"kb. 1 lubang, lobang. 2 rongga. 3 liang. 4 (water) lubuk. 5 kekurangan, kelemahan, kesalahan. 6 Golf ; lubang, hole. -kki. to h. up pergi menjauhkan/mengasingkan. diri. hole in the wall kb. gubuk kecil. ks. kecil, miskin."
 holiday	kb. hari besar/raya. Where are you spending the holidays ? Dimana kau menghabiskan/meliwatkan hari-hari liburmu ?
 holiness	kb. kesucian, kekudusan. His H. the Pope Sri Paus.
 holland	kb. Negeri Belanda.
@@ -9841,7 +9841,7 @@ homonym	kb. homonim, kata sebunyi.
 homophone	kb. huruf sebunyi.
 homosexual	kb. homoseks. -ks. homoseksuil.
 homosexuality	kb. homoseksualitas.
-homy	=   HOMEY.
+homy	#NAME?
 hone	kkt. mengasah, mengikir. -honing kb. pengasahan,  pengikiran.
 honest	ks. jujur, lurus hati.  h. face muka yang jujur. -honestly kk. secara jujur, dengan terus terang.
 honesty	kb. kejujuran, kelurusan hati. in all h. dengan terus terang.
@@ -9865,13 +9865,13 @@ hoodoo	kb. Inf.: sial, naas. to put a h. on s.o. menjadikan seseorang sial.
 hoodwink	kkt. menipu, memperdayakan.
 hoof	kb. (j. hooves) kuku ( binatang).  -kkt. to h. it Inf.: berjalan.
 hook	kb. 1 sangkutan, cantelan (of clothes). 2 (fish) kail. 3 kait(an), pengait. 4 hak (on door, window). -kkt. 1 menyangkutkan. 2 mengail (fish). 3 memancing. hook-nosed ks. berhidung kakaktua. -hooked ks. 1 bengkok (nose). 2 ketagihan, doyan.
-hookey	=   HOOKY.
+hookey	#NAME?
 hookup	kb. 1 pemasangan, persambungan. 2 siaran radio atau televisi.
 hookworm	kb. cacing tambang.
 hooky	kb. Sl.: to play h. membolos.
 hooligan	kb. =  HOODLUM.
 hoop	kb. 1 gelindingan. 2 simpai (of barrel, drum). h. skirt rok bergelung/kembang.
-hooray	=  HURRAH.
+hooray	#NAME?
 hoot	kb. teriak(an). Inf.: to care/give a h. peduli. -kkt. meneriaki. -kki. berteriak-teriak. -hooting kb. ejekan.
 hooves	lih  HOOF.
 hop	kb. 1 loncatan, lompatan. 2 penerbangan. 3 buah hop. 4 pesta dansa/tari-menari. -kkt. (hopped) 1 Inf.: meloncat (aboard a freight train). 2 turun naik. -kki. melompat, meloncat. -hopping kk. sangat. He was h. mad  Dia  sangat marah.
@@ -10144,7 +10144,7 @@ identified	lih  IDENTIFY.
 identifies	lih  IDENTIFY.
 identify	kkt. (identified) mengenal(i) memperkenalkan. -kki. to i. with a party memihak kepada suatu partai.
 identity	kb. (j. -ties) identitas, ciri-ciri, tanda-tanda (khas). i. card kartu pengenal, surat keterangan diri.
-ideogram	=  IDEOGRAPH.
+ideogram	#NAME?
 ideograph	kb. tulisan/huruf gambar.
 ideological	ks. ideologis. i. struggle perjuangan ideologi.
 ideology	kb. (j. -gies) ideologi, adicita.
@@ -10165,7 +10165,7 @@ idolize	kkt. memberhalakan, memuja. She idolizes her husband Ia memuja suaminya.
 idyl(l)	kb. syair/prosa yang menggambarkan keindahan alam.
 idyllic	ks. idilis.
 ie, i.e.	[Indo-European] Indo-Eropah.
-if	kb. LET'S have no "ifs" Jangan selalu mengatakan kalau-kalau. -ksam. 1 jika, kalau, jikalau.  2 apakah, kalau. if only kalau, sekiranya, semoga. as if seolah-olah, seakan-akan.
+if	"kb. LET'S have no ""ifs"" Jangan selalu mengatakan kalau-kalau. -ksam. 1 jika, kalau, jikalau.  2 apakah, kalau. if only kalau, sekiranya, semoga. as if seolah-olah, seakan-akan."
 igloo	kb. rumah salju bangsa Eskimo.
 igneous	igneous
 ignite	kkt. 1 menyalakan (s fire). 2 membakar (zeal, spirit). -kki. terbakar, kena api, menjadi panas dan menyala. The paper ignited Kertas itu menjadi panas dan menyala.
@@ -10177,7 +10177,7 @@ ignorance	kb. 1 ketidaktahuan. to plead i. of the law memberi alasan karena tida
 ignorant	ks. bodoh, dungu, bebal. to be i. of the possibilities tidak mengetahui kemungkinan-kemungkinan.
 ignore	kkt. 1 mengabaikan, tak mengindahkan, tidak mengambil perduli. to i. an order mengabaikan perindah. 2 menganggap (seseorang) tidak ada, mengesampingkan, menganggap sepi. She ignoresme Ia mengganggap saya tak ada.
 iguana	kb. sejenis biawak.
-ikon	=  icon.
+ikon	#NAME?
 ileum	kb. bagian usus yang paling bawah.
 iliac	kb. lih  SACROILIAC.
 ilium	kb. tulang pangkal paha.
@@ -10328,7 +10328,7 @@ imply	kkt. (implied) menyatakan secara tdk langsung.-implied ks. termasuk, penuh
 impolite	ks. tdk sopan, kasar.
 impoliteness	kb. ketidaksopanan.
 imponderable	kb. the imponderables j. faktor-faktor yg tdk dpt diperhitungkan.-ks.yg tak dpt diperhitungkan.
-import	kb.; im'powrt kkt./ kb. 1 impor. i. trade perdagangan impor.2 maksud, makna, arti.3 kepentingan.-imports j. barang-barang impor.-kkt. mengimpor, mendatangkan barang-barang dari luar negeri. imported goods barang-barang impor/ yg diimpor.
+import	"kb.; im'powrt kkt./ kb. 1 impor. i. trade perdagangan impor.2 maksud, makna, arti.3 kepentingan.-imports j. barang-barang impor.-kkt. mengimpor, mendatangkan barang-barang dari luar negeri. imported goods barang-barang impor/ yg diimpor."
 importance	kb. pentingnya, kepentingan.
 important	ks. penting. i. reason alasan penting. He looks i. Lagaknya/Tingkah lakunya spt orang yg berkuasa/ berkedudukan penting.
 importation	kb. 1 pemasukan.2 barang impor.
@@ -10456,7 +10456,7 @@ incl.	[including, inclusive] termasuk.
 inclement	ks. buruk (of weather).
 inclination	kb. 1 kecenderungan. 2 kecondongan, kehendak hati. 3 kesudian. 4 Math.: inklinasi.
 incline	kb. (pen) dakian, lerengan, tempat yang mendaki. -kkt. mencondongkan. -kki. melereng. -inclined ks. cenderung.
-inclose	=  ENCLOSE.
+inclose	#NAME?
 include	kkt. memasukkan. Please i. all the items Tolong masukkan semua barang-barang itu.
 inclusion	inclusion
 inclusive	ks. 1 sampai dengan. From March to June i. dari bulan Maret sampai dengan bulan Juni. 2 termasuk. i. of tax termasuk pajak.
@@ -10535,7 +10535,7 @@ indemnify	kkt. (indemnified) mengganti kerugian kepada.
 indemnity	kb. (j. -ties) ganti kerugian.
 indent	kb. lekuk. -kkt. 1 memasukkan. I. five spaces  Masukkan lima spasi. 2 melekukkan. -indented ks. bertakuk.
 indentation	kb. lekuk(an).
-independence	kb. kemerdekaan, kebebasan. I. Day Hari Kemerdekaan (di A.S. tanggal 4 Juli; di Indonesia tgl 17 Agustus).
+independence	"kb. kemerdekaan, kebebasan. I. Day Hari Kemerdekaan (di A.S. tanggal 4 Juli; di Indonesia tgl 17 Agustus)."
 independent	kb. orang yang tidak berpartai. -ks. 1 merdeka. 2 sendiri. 3 yang berdiri sendiri, yang berjiwa bebas. 4 bebas. -independently kk. secara bebas.
 indescribable	ks. tidak terlukiskan. -indescribably kk. i. beautiful tidak terlukiskan keindahannya.
 indestructible	ks. tidak dapat dihancurkan/dirusakkan.
@@ -10595,7 +10595,7 @@ indomitable	ks. gigih, yang sukar dikekang.
 indonesia	kb. Indonesia.
 indonesian	kb. 1 orang Indonesia. 2 bahasa Indonesia. -ks. Indonesia.
 indoor	ks. 1 didalam rumah atau gedung. 2 dalam.  -indoors kk. didalam (rumah atau gedung).
-indorse	=  ENDORSE.
+indorse	#NAME?
 indubitable	ks. sudah tentu, pasti. -indubitably kk. sudah tentu, pasti.
 induce	induce
 induct	kkt. melantik, memasukkan. He was inducted into the army Dia dilantik masuk tentara.
@@ -10699,7 +10699,7 @@ inflation	kb. 1 pemompaan (tire, balloon).2 Econ, : inflasi.
 inflationary	ks. yang berhubungan dengan inflasi. i. tendency kecenderungan untuk inflasi. i. spiral lingkaran inflasi yang berpilin-pilin, lonjak(an) lambungan inflasi.
 inflect	kkt. mengubah (o's voice). -kki. berinfleksi. That language inflects  for number and gender Bahasa itu berinfleksi untuk bilangan dan jenis. -inflected ks. berinfleksi. i. language bahasa yang berinfleksi.
 inflection	kb. Gram.: infleksi. 2 perubahan/nada suara.
-inflectional	ks. yang berinfleksi. "s" is an i. form indicating plural in English "s" adalah bentuk infleksi yang menunjukkan bentuk jamak dalam bahasa Inggris.
+inflectional	"ks. yang berinfleksi. ""s"" is an i. form indicating plural in English ""s"" adalah bentuk infleksi yang menunjukkan bentuk jamak dalam bahasa Inggris."
 inflexibility	kb. kekejutan, kekejuran, kekakuan.
 inflexible	ks. 1 kejur. i. rod sebuah tongkat/cambuk yang tak dapat dilekukkan. 2 keras, tidak dapat diubah. i. habits kebiasaan-kebiasaan yang tidak berubah-ubah.
 inflexion	kb.  =  INFLECTION.
@@ -11135,7 +11135,7 @@ invigorate	kkt. memperkuat, menyegarkan. This lotion invigorates the skin Air pe
 invincible	ks. tak terkalahkan. i. courage keberanian yang tidak terkalahkan.
 inviolable	ks. tidak diganggu-gugat. The king's person was i. Diri raja tidak dapat diganggu-gugat.
 invisibility	kb. limunan.
-invisible	ks. tak kelihatan, limunan, siluman, gaib. Bacteria are i ; to the naked eye Kuman-kuman tidak dapat dilihat dengan mata biasa. i. ink tinta limunan.
+invisible	"ks. tak kelihatan, limunan, siluman, gaib. Bacteria are i ; to the naked eye Kuman-kuman tidak dapat dilihat dengan mata biasa. i. ink tinta limunan."
 invitation	kb. undangan, uleman.
 invite	kkt. 1 mengundang. 2 mempersilakan. 3 meminta. -inviting ks. yang menarik. The water doesn't look very i. Air itu tidak begitu menarik kelihatannya.
 invocation	kb. doa. to  deliver the i. membacakan doa.
@@ -11249,7 +11249,7 @@ istinerary	kb. (j. -ries) rencana perjalanan.
 it	kb. Sl.: daya seks. -kg. 1 dia, ia. 2 -nya. 3 itu.
 it'll	[it will] lih  WILL.
 it's	it's
-it(al).	[Italy] Itali(a). 2 [Italian) orang Itali ; bahasa Itali.
+it(al).	"[Italy] Itali(a). 2 [Italian) orang Itali ; bahasa Itali."
 italian	kb., ks. 1 orang Itali. 2 bahasa Itali. I. accent logat Itali.
 italicize	kkt. menuliskan dengan huruf miring.
 italics	kb., j. huruf miring, kursif. The i. are mine Tulisan miring itu saya yang membuatnya.
@@ -11309,7 +11309,7 @@ jangle	kkt. membunyikan (bells). -kki. berkerincing. jangled nerves saraf yang t
 janitor	kb. (pen)jaga gedung/rumah-rumah, portier, pembersih kantor.
 janitorial	ks. mengenai jaga rumah. j. service penjagaan gedung.
 january	kb. (j. -ries) bulan Januari. in J. dalam bulan Januari.
-jap.	1 [Japan] Jepang. 2 [Japanese] orang Jepang ; bahasa Jepang.
+jap.	"1 [Japan] Jepang. 2 [Japanese] orang Jepang ; bahasa Jepang."
 japan	kb. (negeri) Jepang.
 japanese	kb. 1 orang Jepang. 2 bahasa Jepang. -ks. Jepang. J. Embassy Kedutaan Besar Jepang.
 jar	kb. kendi, buli-buli, botol, guci. -kkt. (jarred) 1 menggetarkan. 2 mengejutkan. 3 menggegerkan. -kki. to j. on o's nerves mengganggu saraf. -jarring ks. menggelegar, menderu-deru/gemuruh. j. sound suara/bunyi yang menggelegar.
@@ -11409,7 +11409,7 @@ joiner	kb. 1 Inf.: seseorang yang suka menjadi anggota perkumpulan-perkumpulan. 
 joint	kb. 1 Anat.: tulang sendi. 2 Sl.: tempat kelas rendah (restoran, bar, hotel). 3 lipatan (of knife). -ks. bersama. -jointly kk. bersama-sama.
 joist	kb. kasau, kasok, balok silang.
 joke	kb. lelucon, dagelan. to crack a j. berkelakar, menceritakan lelucon. -kki. berkelakar, bergurau. -joking kb. senda-gurau. -jokingly kk. secara berkelakar/bersenda-gurau, tidak sungguh-sungguh.
-joker	kb. 1 badut, pelawak. 2 batu penarung, "udang dibalik batu". 3 Sl.: siapa orangnya.
+joker	"kb. 1 badut, pelawak. 2 batu penarung, ""udang dibalik batu"". 3 Sl.: siapa orangnya."
 jokester	kb. badut, pelawak.
 jolly	ks. gembira, riang, ria. -kkt. membuat gembira, menghibur. Try to j. him a bit  Cobalah hibur dia sedikit.
 jolt	kb. 1 sentakan. 2 pukulan. -kkt. menggoyangkan. -kki. terguncang- guncang, tergoyang-goyang.
@@ -11453,7 +11453,7 @@ juice	kb. 1 air/sari buah. orange j. air jeruk. 2 getah. gastric j. getah lambun
 juiceless	ks. tidak berair.
 juiciness	kb. keadaan/sifat banyak  airnya/sarinya.
 juicy	ks. 1 yang banyak airnya, yang mengandung banyak air. 2 Inf.: yang menarik, nakal. j. pasage in a novel beberapa kalimat yang nakal dalam roman.
-jujitsu	=  JIU-JITSU.
+jujitsu	#NAME?
 jukebox	kb. Sl.: gramopon otomat.
 jul.	[July] bulan Juli.
 julep	kb. mint j. semacam minuman dibuat dari wiski atau brendi, gula dan es dan bumbu yang segar.
@@ -11507,7 +11507,7 @@ juvenile	kb. anak-anak, anak muda. -ks. muda. j. literature bacaan anak muda.
 juxtapose	kkt. mendekatkan, menjajarkan.
 juxtaposition	kb. penjajaran.
 k,k	kb. huruf yang kesebelas dari abjad Inggris.
-k.o., ko	[knockout] kb. Sl.; pukulan yang membuat tidak berdaya. -kkt. menggulingkan, menjatuhkan.
+k.o., ko	"[knockout] kb. Sl.; pukulan yang membuat tidak berdaya. -kkt. menggulingkan, menjatuhkan."
 k.p.	[Kitchen Police] kb. 1 tugas dapur (tentara). 2 prajurit yang bertugas di dapur.
 kaiser	kb. kaisar, maharaja.
 kale	kb. sayur hijau, semacam kanggkung atau bayam.
@@ -11552,7 +11552,7 @@ kickback	kb. Sl.: 1 pembayaran kembali. 2 reaksi.
 kicker	kb. 1 orang yang menyepak bola. 2 Inf.: orang yang suka mengeluh.
 kickoff	kb. Inf.: pembukaan, permulaan (of a compaign, football).
 kid	kb. 1 anak. 2 anak kambing. -ks. muda. -kkt. (kidded) memperolok-olok, mempermain- mainkan. Inf.: to k. o.s. membohongi dirinya sendiri. -kki. memperolok-olok
-kiddie	=  KIDDY.
+kiddie	#NAME?
 kiddy	kb. (j. -dies) kanak-kanak, anak muda. k. car kereta roda tiga mainan anak-anak.
 kidnap	kkt. (kidnapped) menculik. -kidnapping kb. penculikan.
 kidnap(per)	kb. penculik.
@@ -11934,7 +11934,7 @@ lemur	kb. semacam kukang, kubung, pukang.
 lend	kki. (lent) 1 meminjamkan. 2 meminjami. 3 memberi. lend-lease kb. perjanjian pinjam-sewa. -lending kb. meminjamkan.
 length	kb. 1 panjang.  2 lamanya. 3 jarak, jauhnya. 4 potong. at l. 1 panjang lebar. 2 akhirnya. ful l. sepanjang.  to go to any l. berbuat apa saja. to keep at arm's l. menjauhkan diri, menjaga adanya jarak.
 lengthen	kkt. memperpanjang (run away, coat). -kki. menjadi panjang, bersambung menjadi. The shadows lengthened Bayangan menjadi panjang.
-lengthways	=  LENGTHWISE.
+lengthways	#NAME?
 lengthwise	kk. menurut panjangnya. Slice l. Belah dua memanjang.
 lengthy	ks. 1 panjang. 2 lama. 3 jauh.
 leniency	kb. kemurahan hati, kelonggaran. to show l. towards memberi kelonggaran dalam,  bersikap mengampunkan terhadap.
@@ -12040,7 +12040,7 @@ lightning	kb. kilat, halilintar. L. struck the house Halilintar menyambar rumah.
 lightship	kb. kapal suar.
 lightweight	kb. Sport : petinju kelas ringan. Intellectually, he's a l. Berbicara perkara intelek, dia termasuk kelas ringan. -ks. kecil, kelas ringan. l. camera alat pemotret yang kecil.
 lignite	kb. batu bara muda.
-likable	=  LIKEABLE.
+likable	#NAME?
 like	kb. kesukaan. -ks. 1 sama. 2 seperti. like-minded ks. sependapat, sependirian. -liking kb. 1 kegemaran. 2 kesukaan.
 likeable	ks. yang menyenangkan.
 likelihood	kb. kemungkinan. in all l. mungkin sekali.
@@ -12134,7 +12134,7 @@ litturgical	ks. yang berkaitan dengan liturgi/peribadatan.
 liturgy	kb. (j. -gies) liturgi(a), tata kebaktian, peribadatan.
 livable	ks. yang enak didiami.
 live	ks. yang hidup. l. snake ular yang hidup.   2 langsung. l. show pertunjukan yang diambil langsung. l. bomb bom yang belum dinyalakan. l. coals bara api. l. match korek api. l. party pesta yang gembira.
-liveable	=  LIVEABLE.
+liveable	#NAME?
 livelihood	kb. mata pencaharian. to teach for a l. mengajar unutk mendapatkan nafkah penghidupan.
 liveliness	kb. 1 kegiatan, keaktipan. 2 kegembiraan.
 livelong	ks. sepanjang. the l. day sepanjang hari.
@@ -12500,13 +12500,13 @@ mannequin	kb. peragawati, boneka pajangan.
 manner	kb. 1 cara. m. of speaking cara berbicara. 2 gaya. 3 sikap. -manners j. kelakuan, tatakrama. good manners kelakuan baik. -mannered ks. dibuat-buat.
 mannerism	kb. kelakuan, perangai, lagak.
 mannish	ks. seperti seorang laki-laki.
-manoeuvre	=  MANEUVER.
+manoeuvre	#NAME?
 manpower	kb. tenaga manusia/kerja.
 manse	kb. rumah pendeta, pastori.
 mansion	kb. rumah yang besar.
 manslaughter	kb. pembunuhan (tidak direncanakan).
 mantel	kb. papan/rak diatas tungku.
-mantelpiece	=  MANTEL.
+mantelpiece	#NAME?
 mantle	1 mantel. 2 lapisan (of snow). 3 Cloth.: mantol, mantel.
 manual	kb. buku (pedoman). 2 papan tuts (orgel). -ks. kasar, tangan. m. labor pekerjaan kasar/tangan. m. training latihan kerajinan-tangan. -manually kk. dengan tangan.
 manufacture	kkt. mempaberik/membuat/ menghasilkan dengan tangan/mesin. manufacturing town kota paberik.
@@ -12696,7 +12696,7 @@ medal	kb. medali, bintang, bronze m. medali perunggu. M. of Honor Bintang Kehorm
 meddle	kki. mencampuri. to m. in other people's business mencampuri urusan orang lain.
 meddlesome	ks. suka mencampuri urusan orang lain.
 media	j. 1 lih  MEDIUM. 2 wasilah.
-mediaeval	=  MEDIEVAL.
+mediaeval	#NAME?
 medial	ks. ditengah-tengah. in m. position ditengah-tengah, bertempat ditengah.
 median	kb. angka median/penengah, angka yang berada ditengah-tengah. 2 jalur hijau (of a highway). -ks. rata-rata. m. salary gaji rata-rata.
 mediate	kkt., kki. menengahi. to m. a dispute bertindak sebagai penengah dalam sengketa.
@@ -12748,7 +12748,7 @@ memorial	kb. tanda peringatan (seperti patung, tugu, taman dll). m. service upac
 memorization	kb. penghafalan.
 memorize	kkt. menghafalkan.
 memory	kb. (j. -ries) 1 ingatan, daya ingatan. in the m. of any inhabitant pada ingatan setiap penduduk. 2 kenang-kenangan. pleasant memories kenang-kenangan yang menyenangkan.
-men	=  MAN.
+men	#NAME?
 menace	kb. ancaman.
 menagerie	kb. kumpulan binatang liar dikurung didalam kandang.
 mend	kb. tambalan (in a coat).  -kkt. 1 menambal (clothes). 2 mmperbaiki (road, a breach). 3 membetulkan (an error). 4 menisik(i) (socks).
@@ -12817,7 +12817,7 @@ methodist	kb. Metodis.
 methodological	ks. secara metodologi.
 methodology	kb. (j. -gies) metodologi.
 meticulous	ks. sangat teliti, cermat sekali.
-metre	=  METER.
+metre	#NAME?
 metric	ks. metrik. m. sysrem sistem metrik.
 metrical	ks. metris, berirama, yang berhubungan dengan matra.
 metrics	kb. ilmu irama lagu, ilmu tentang meter.
@@ -12830,7 +12830,7 @@ mew	kki. (me)ngeong.
 mex.	[Mexico] Meksiko.
 mexican	kb., ks. orang Meksiko.
 mezzanine	kb. loteng tengah (di hotel atau gedung).
-miaow	=  MEOW.
+miaow	#NAME?
 miasma	kb. racun yang keluar dari tanah/rawa.
 mica	kb. mika.
 mice	lih  MOUSE.
@@ -13234,7 +13234,7 @@ motorman	kb. (j. -men) masinis trem listerik atau trem dibawah tanah.
 motorship	kb. kapal motor.
 mottled	ks. burik, bercorang-coreng.
 motto	kb. motto, semboyan.
-mould	=  MOLD.
+mould	#NAME?
 mound	kb. gundukan (tanah), busut, burial m. tumpukan tanah kuburan.
 mount	kb. 1 gunung, puncak. 2 kuda tunggangan. -kkt. 1 menaiki, menunggang (a horse). 2 menyusun (a  program). 3 menempelkan (stamps). 4 menjaga. -kki. naik. -mounting kb. ganjalan/bantalan.
 mountain	kb. gunung. m. chain bukit barisan. m. peak/top puncak gunung. m. range pegunungan.
@@ -13825,7 +13825,7 @@ nylon	kb. nilon. -nylons j. kauskaki. nilon.
 nymph	kb. bidadari, peri.
 o	kseru. he, hai, wahai.
 o'clock	jam, pukul. at 7 o. pukul tujuh.
-o'er	=  OVER.
+o'er	#NAME?
 o, o	kb. 1 huruf kelimabelas dari abjad Inggeris. 2 nol.
 o.	1 [Ohio] negarabagian A.S. 2 [Ocean] Lautan, Samudra. 3 [Ontario] propinsi di Kanada Selatan.
 o.k.	kb. Inf.: persetujuan, kebenaran. to put o's O.K. on s.t. memberi acece kepada sesuatu. -ks. It's O.K. with me Saya setuju. Saya tak apa-apa. -kkt. menyetujui, meng-oke-kan. -kseru. baiklah, oke, jadi.
@@ -13939,7 +13939,7 @@ odious	ks. membencikan, menjijikkan.
 odium	kb. kebencian, kejijikan.
 odor	kb. bau (busuk), hawa daba. to he in bad o. mendapat nama buruk.
 odyssey	kb. pengembaraan, perjalanan penuh dengan petualangan.
-oesophagus	=  ESOPHAGUS.
+oesophagus	#NAME?
 of	kd. 1 a glass of milk segelas susu. 2 dari. 3 kurang. 4 akan. 5 untuk. 6 karena. 7 diantara.
 off	kb. mati (of a swich). -ks. 1 salah. 2 mati, putus (of electricity, water. 3 Inf.: gila, miring. -kk. lagi. off-and-on ks. tak begitu tetap. off-balance ks., kk. jadi bingung, dalam keadaan terhuyung-huyung
 off.	1 [officer] opsir, perwira. 2 [official] resmi. 3 [office] pejabat.
@@ -13965,7 +13965,7 @@ offshoot	kb. cabang. 2 bagian.
 offshore	ks. jauh dari pantai, (di) lepas pantai. o. drilling pengeboran jauh dari pantai. o. breeze angin pantai.
 offspring	kb. keturunan, anak-cucu.
 often	kk. sering (kali), kerapkali, acapkali.
-oftentimes	=  OFTEN.
+oftentimes	#NAME?
 ogle	kkt. mengerling kepada, menjeling.
 ogre	kb. gergasi, raksasa.
 oh	kseru . o,  aduh ! ah, masa !  oh my ! astaga ! to oh and ah over mengeluarkan kata-kata senang.
@@ -13983,7 +13983,7 @@ old	kb. dahulu kala.  -the old j. kaum tua. -ks. 1 tua.  2 lama. 3 kuno. old- ti
 olden	ks. kuno, dahulu. in o. days di zaman kuno.
 oldie	kb. Inf.: yang sudah lama dan terkenal.
 oldster	kb. orang tua.
-oleo	=  OLEOMARGARINE.
+oleo	#NAME?
 oleomargarine	kb. margarine, mentega tiruan.
 olfactory	ks. pencium. o. organ alat pencium.
 oligarchy	kb. (j. -chies) oligarki, pemerintahan oleh kelompok kecil.
@@ -14265,7 +14265,7 @@ outstrip	kkt. (outstripped) melebihi, melampaui.
 outtalk	kkt. berbicara lebih baik, menang dalam percakapan.
 outvote	kkt. mengalahkan dalam pemilihan.
 outward	ks. disebelah luar, keluar. o. voyage pelayaran keluar. -kk keluar. outward-bound ks. dengan jurusan/tujuan luar. -outwardly kk. pada lahirnya, dari luar, kelihatannya.
-outwards	=  OUTWARD kk.
+outwards	#NAME?
 outwear	kkt. (outwore, outworn) lebih tahan daripada (of clothes). -outworn  ks. lungsuran, usang, bekas pakai. o. clothes pakaian-pakaian usang.
 outweigh	kkt. 1 lebih berat  daripada. 2 labih banyak daripada. The advantages o. the disadvantages Keuntungannya lebih banyak daripada kerugiannya.
 outwit	kkt. (outwitted) memperdayakan, mengecoh.
@@ -14490,7 +14490,7 @@ pal	kb. Inf.: sahabat, kawan. -kki. Inf.: to p. around kemana-mana berteman.
 palace	kb. istana.
 palanguin	kb. tandu, joli.
 palatable	ks. 1 enak, lezat. 2 cocok (to dengan).
-palatal	ks. palatal, mengenai langit-langit. p. "l" huruf l yang dibunyikan dengan lidah didekatkan kepada langit-langit.
+palatal	"ks. palatal, mengenai langit-langit. p. ""l"" huruf l yang dibunyikan dengan lidah didekatkan kepada langit-langit."
 palatalization	kb. membunyian/pengucapan dengan mendekatkan lidah kepada langit-langit.
 palate	kb. 1 langit-langit mulut. 2 cita-rasa, selera.
 palatial	ks. mewah, bagus sekali (seperti istana).
@@ -14544,7 +14544,7 @@ pansy	kb. (j. -sies) 1 sejenis bunga. 2 Sl.: pria pesolek, banci. 3 Sl.: pria ya
 pant	kb., napas pendek dan cepat. -kki. terengah-engah, ngap-ngap. -panting kb. suara terengah-engah.
 pantheism	kb. panteisme.
 panther	kb. harimau kumbang.
-pantie	=  PANTY.
+pantie	#NAME?
 pantomime	kb. pentomim, pertunjukan bisu. -kki. bermain pantomim.
 pantry	kb. (j. -ries) kamar sepen.
 pants	kb., j. 1 pantalon (pria), celana panjang (pria). 2 celana panjang (wanita).
@@ -15042,7 +15042,7 @@ pew	kb. bangku gereja.
 pewter	kb. 1 campuran timah putih dan timah hitam. 2 barang-barang yang dibuat daripadanya.
 ph.b.	[Bachelor of Pilosophy] Bakaloreat Ilmu Filsafat.
 ph.d.	[Doctor of Philosophy] Doktor Ilmu Filsafat.
-phalange	=  PHALANX.
+phalange	#NAME?
 phalanx	(j. -anxes atau -anges) kb. tulang jari (tangan, kaki), ruas kaki.
 phallus	kb. 1 lingga lambang kemaluan lelaki.  Anat.: zakar.
 phantasy	kb. (j. -sies) lih  FANTASY.
@@ -15116,7 +15116,7 @@ photosynthesis	kb. fotosintesis.
 phrase	kb. 1 ungkapan, ucapan. 2 Gram.: kominasi/susunan kata-kata. 3 Mus.: bagian. -kkt. menyusun, mengutarakan (a sentence, utterance). -phrasing kb, penyusunan kata-kata.
 phrasebook	kb. buku ungkapan-ungkapan.
 phraseology	kb. (j. -gies) penyusunan kata-kata, cara menyatakan pikiran.
-phrenetic	=  FRENETIC.
+phrenetic	#NAME?
 phthisis	kb. tebese, penyakit paru-paru.
 phyla	lih  PHYLUM.
 phylum	kb. (j. phyla) pembagian/pentarafan yang pertama daripada jenis binatang dan tumbuh-tumbuhan.
@@ -15261,7 +15261,7 @@ pitiful	ks. tidak memuaskan, menyedihkan.
 pitiless	ks. kejam, bengis.
 pittance	kb. sedikit sekali.
 pitterpatter	kb. ketipak-ketipuk.
-pittypat	=  PITAPAT.
+pittypat	#NAME?
 pituitary	ks. p. gland kelenjar dibawah otak.
 pity	kb. (j. -ties) kasihan, sayang. -kkt. mengasihani. -pityingly kk. dengan berbelas kasihan.
 pivot	kb. poros, pasak, paksi, sumbu. -kki. berputar.
@@ -15304,7 +15304,7 @@ plantation	kb. perkebunan.
 planter	kb. 1 penanam. 2 pemilik/pengusaha perkebunan.
 plaque	kb. tanda peringatan, (logam) piagam.
 plasma	kb. plasma.
-plaster	kb. plester, gips. -kkt. 1 memlester, menurap, melepa (a wall). 2 meliputi. -plastered ks. Sl.; mabuk. -plastering kb. 1 penurapan. 2 lapisan plester, plesteran.
+plaster	"kb. plester, gips. -kkt. 1 memlester, menurap, melepa (a wall). 2 meliputi. -plastered ks. Sl.; mabuk. -plastering kb. 1 penurapan. 2 lapisan plester, plesteran."
 plasterboard	kb. eternit.
 plasterer	kb. tukang plester.
 plastic	kb. plastik. p. cup mangkuk plastik.
@@ -15373,7 +15373,7 @@ plow	kb. bajak, luku, tenggala. -kkt. 1 meluku, menenggala, membajak (tanah). 2 
 plowshare	kb. mata bajak.
 ploy	kb. 1 cara. 2 kesenangan bersama.
 pluck	kb. keberanian. -kkt. 1 memetik (flowers, guitar). 2 membului (chicken). 3 mencabuti (eyebrow). 4 menarik, merenggut.
-plucky	ks. berani. He's a p. son-of-a-gun Ia seorang "setan"/pemberani.
+plucky	"ks. berani. He's a p. son-of-a-gun Ia seorang ""setan""/pemberani."
 plug	kb. 1 steker. 2 kayu penyumbat, sumbat (for a hole). 3 busi. 4 kuda tua. 5 Inf.: kata-kata baik.
 plugger	kb. 1 orang yang mempropagandakan sebuah produk. 2 orang yang bekerja keras.
 plum	kb. 1 prem. p. pudding pudding prem. 2 keuntungan. Getting him is a real p. Mendapatkan dia betul-betul suatu keuntungan.
@@ -15429,7 +15429,7 @@ poisonous	ks. beracun, berbisa. p. rumor desas-desus yang jahat/berbisa.
 pok(e)y	ks. 1 bertindak/bergerak lamban. 2 bodoh, tolol, dungu. 3 kecil, sempit (of a room).
 poke	kb. 1 kantung. 2 sodokan.  -kkt. 1 menyodok, menusuk (in the back, ribs). 2 meninju (in the nose). 3 mempermainkan (fun). 4 menonjolkan. 5 mengulurkan. 6 mencongkel. -kki. mengaduk-aduk.
 poker	kb. alat pengorek api. 2 poker (semacam main kartu). Inf.: p. face muka yang tak menunjukkan perasaan.
-pol.	1 [Polish] dari Polandia; bahasa Polandia. 2 [Poland] Polandia.
+pol.	"1 [Polish] dari Polandia; bahasa Polandia. 2 [Poland] Polandia."
 polar	ks. 1 yang berhubungan dengan kutub. p. bear beruang kutub. 2 berlawanan. p. attitude sikap yang berlawanan.
 polarity	kb. (j. -ties) 1 sifat berlawanan. 2 muatan kutub.
 polarization	kb. polarisasi.
@@ -15651,7 +15651,7 @@ practicable	ks. dapat dipraktekkan. His proposal is not p. Usulnya itu tak dapat
 practical	ks. 1 praktis (objection, fountain pen). 2 mudah dilaksanakan. 3 berguna. -practically kk. hampir(-hampir).
 practicality	kb. (j. -ties) kepraktisan, kegunaan.
 practice	kb. 1 latihan. 2 praktek. 3 kebiasaan. 4 perbuatan. -kkt. 1 berlatih (the violin). 2 berpraktek sebagai (medicine, law). 3 menjalankan, mengamalkan, mempraktekkan. 4 berlatih, mempergunakan. 5 mengerjakan. practiced ks. berpengalaman.
-practise	=  PRACTICE.
+practise	#NAME?
 practitioner	kb. pelaksana. general p. dokter praktek umum.
 pragmatic	ks. pragmatis. to take a p. approach to s.t. memandang sesuatu menurut kegunaannya.
 pragmatism	kb. aliran/faham pragmatis.
@@ -15788,7 +15788,7 @@ presbytery	kb. (j. -ries) majelis pengetua agama, pastoran.
 preschool	ks. yang belum masuk sekolah (children, age).
 prescience	kb. terus mata.
 prescient	ks. mengetahui sebelumnya, mengetahui apa yang akan terjadi.
-prescribe	kkt. 1 menulis resep obat. 2 menentukan. to do s.t. in the prescribed time mel;akukan sesuatu dalam waktu yang sudah ditentukan.
+prescribe	"kkt. 1 menulis resep obat. 2 menentukan. to do s.t. in the prescribed time mel;akukan sesuatu dalam waktu yang sudah ditentukan."
 prescription	kb. Med.: resep (dokter).
 prescriptive	ks. memberikan petunjuk/ketentuan-ketentuan, bersifat menentukan.
 presence	kb. kehadiran. She never seaks in his p. Ia belum pernah berbicara bila ia hadir. Your p. is requested at... Diminta kehadiran Saudara pada....
@@ -15838,7 +15838,7 @@ prevaricate	kki. 1 berbohong. 2 berbicara putar-balik.
 prevaricator	kb. orang yang plin-plan, pembohong.
 prevent	kkt. 1 mencegah (an accident). 2 menghalangi. 3 menjaga.
 preventable	ks. dapat dicegah.
-preventative	=  PREVENTIVE kb.
+preventative	#NAME?
 prevention	kb. pencegahan. rust p. pencegahan supaya tidak berkarat.
 preventive	kb., ks. pencegah. a p. against typhoid fever pencegah penyakit tipus.
 preview	kb. 1 pra-pertunjukan. 2 peninjauan. -kkt. mengadakan pertunjukan (pendahuluan) dari sebuah film.
@@ -15949,7 +15949,7 @@ productive	ks. produktip.
 productivity	kb. keproduktipan, daya produksi.
 prof	kb. Inf.: guru besar.
 prof.	[Professor] gurubesar, propesor.
-profane	ks. 1 kototr, tidak senonoh, tidak sopan (language). 2 duniawi, biasa (of literature; lawan sacred). -kkt. mencemarkan (church, the Sabbath).
+profane	"ks. 1 kototr, tidak senonoh, tidak sopan (language). 2 duniawi, biasa (of literature; lawan sacred). -kkt. mencemarkan (church, the Sabbath)."
 profanity	kb. (j. -ties) kb. kata-kata tidak senonoh, carut-marut. to utter profanities mengucapkan kata-kata kotor.
 profess	kkt. 1 menyatakan. to p. adminration for menyatakan kekaguman terhadap. 2 mengakui. -professed ks. terkenal, dikenal. -professedly kk. kelihatannya, diakui.
 profession	kb. 1 pekerjaan. What is your p.? Apakah pekerjaanmu ?  2 pernyataan (of faith).
@@ -16003,7 +16003,7 @@ prominence	kb. 1 keulungan, keadaan terkemuka (of s.o.).  to come into p. menjad
 prominent	ks. 1 terkemuka. p. citizen penduduk yang terkemuka. 2 menyolok, menonjol. -prominently kk. secara jelas/menyolok/menonjol. p. displayed dipamerkan secara jelas.
 promiscuity	kb. (j. -ties) 1 persetubuhan dengan siapa saja. 2 percampuran.
 promiscuous	ks. tidak memilih-milih. p. intercourse a) persetubuhan dengan siapa saja. b) pergaulan dengan siapa saja.  -promiscuously kk. bercampur-aduk, kacau-balau, tak membeda-bedakan.
-promiscuousness	=  PROMISCUITY.
+promiscuousness	#NAME?
 promise	kb. 1 janji.to break o's p. melanggar janjinya. 2 bakat. 3 harap. -kkt.  1 berjanji. 2 menjanjikan. -promising ks. memberi harapan. p. dramatist dramawan yang memberi harapan.
 promissory	ks. p. note surat kesanggupan/pinjaman, promes.
 promontory	kb. (j. -ries) tanjung.
@@ -16118,7 +16118,7 @@ prov.	[province] propinsi.
 provable	ks. dapat dibuktikan.
 prove	kkt. (proved, proved atau proven). membuktikan. -kki. ternyata. -proven ks. yang terjamin.
 proven	lih   PROVE.
-provenance	=  PROVENIENCE.
+provenance	#NAME?
 provender	kb. 1 makanan hewan yang kering. 2 makanan.
 provenience	kb. asal, sumber.
 proverb	kb. pepatah, peribahasa. -Proverbs Bible.: Surat Amsal Sulaiman.
@@ -16326,7 +16326,7 @@ pwd,p.w.d.	[Public Works Department] Jawatan Umum (D.P.U.).
 pwt.	[pennyweight] kira-kira satu gram.
 px	[Post Exchange] kb. kantin AB/tentara, toko tentara.
 pygmy	kb. (j. -mies) orang kerdil.
-pyjamas	=  PAJAMAS.
+pyjamas	#NAME?
 pylon	kb. tiang (yang tinggi), tonggak menara.
 pylorus	kb. lubang antara perut dan usus.
 pyorrhea	kb. penyakit pada gusi.
@@ -16976,7 +16976,7 @@ rejoin	kkt. menggabungkan lagi (o's family, a firm). -kki. membalas, menjawab.
 rejoinder	kb. jawaban, balasan.
 rejuvenate	kkt.  menjadikan muda kembali, memudakan, mempermuda.
 rejuvenation	kb. peremajaan lagi.
-rel.	1 [religious] religius, beragama. 2 [relative] sanak, famili; nisbi, relatip; berhubungan dengan. 3 [relating] mengenai, berhubungan dengan.
+rel.	"1 [religious] religius, beragama. 2 [relative] sanak, famili; nisbi, relatip; berhubungan dengan. 3 [relating] mengenai, berhubungan dengan."
 relapse	sakit lgi. to suffer a r. kambuh, bentan. -kki. jatuh sakit lagi. to r. into silence kembali keadaan menjadi sunyi senyap.
 relate	kkt. 1 menceritakan (an account). 2 mempertalikan, menghubungkan (two matters). -kki. berkenaan, berhubungan (to dengan). -related ks. 1 berhubungan. 2 bertalian.
 relation	kb. 1 hubungan (between two countries). 2 pamili, sanak. relations j. persetubuhan. to have relations with bersetubuh dengan.
@@ -17355,7 +17355,7 @@ revolutionist	kb. seorang revolusioner.
 revolutionize	kkt. merevolusionerkan, merombak (keadaan). mengubah dengan cepat.
 revolve	kkt. memutar(kan) (a door, a wheel). -kki. 1 berputar, berkisar,berpusar (around mengelilingi) (of a decision). 2 beredar (of the moon) (around sekeliling). -revolving ks. 1 berputar. 2 beredar.
 revolver	kb. pestol, repolper.
-revue	kb. sandiwara modern ; pertunjukan tari-tarian, nyanyian-nyanyian, lelucon dsb.
+revue	"kb. sandiwara modern ; pertunjukan tari-tarian, nyanyian-nyanyian, lelucon dsb."
 revulsion	kb. 1 perubahan (of feeling). 2 reaksi mendadak.
 reward	kb. 1 ganjaran, hadiah. 2 upah, pahala. 3 hukuman. -kkt. 1 mengganjar. 2 memberikan penghargaan (for gallantry). 3 menghadiahi, menghadiahkan. 4 membalas. -rewarding ks. menguntungkan, bermanfaat, berguna.
 rework	kkt. mengerjakan/mengolah lagi.
@@ -17423,7 +17423,7 @@ rim	kb. 1 pelek, lingkaran (of a wheel). 2 bibir (of a cup). 2 pinggir(an) (of a
 rime	kb. 1 embun beku. 2  =  RHYME.
 rind	kb. kulit (buah). watermelon r. kulit buah semangka.
 ring	kb. cincin. 2 komplotan. 3 jaringan. 4 Box.: gelanggang. 5 lingkaran. 6 dering. 7 gelang-gelang/lingkaran tahunan (in a tree). 8 denting (of a glass). 9 nada. 10 Box.: gelanggang tinju. -kkt. (rang, rung) 1 membunyikan (a bell). 2 memukul (an alarm).
-ringer	kb. 1 (bell-) tukang lonceng. 2 Sl.; orang yang amat mirip dengan. He's a dead r. for my friend Ia sangat menyerupai sahabatku. 3 Sl.: pemain gadungan/palsu.
+ringer	"kb. 1 (bell-) tukang lonceng. 2 Sl.; orang yang amat mirip dengan. He's a dead r. for my friend Ia sangat menyerupai sahabatku. 3 Sl.: pemain gadungan/palsu."
 ringing	kb. bunyi dering (of bells). ks. yang berbunyi (seperti bel), nyaring.
 ringleader	kb. pemimpin gerombolan, biangkeladi.
 ringlet	kb. ikal kecil.
@@ -17627,7 +17627,7 @@ ruinous	ks. 1 membinasajkan, menghancurkan (war). 2 menghabiskan segala harta-be
 rule	kb. 1 peraturan. 2 kebiasaan. 3 kekuasaan. 4 kaidah. 5 belebas, mistar.  -kkt. 1 menguasai (s.o.). 2 memerintah (a country). 3 mengepalai (an office). 4 menguasai, mengendalikan (o's possions). 5 memutuskan. 6 menggarisi. --ruling kb. putusan.
 ruler	kb. 1 (chief) raja, penguasa. 2 mistar, belebas, penggaris, garisan.
 rum	kb. sejenis minuman keras yang dibuat dari tebu.
-rumanian	=  ROUMANIAN.
+rumanian	#NAME?
 rumba	kb. sejenis tarian/dansa.
 rumble	kb. 1 gemuruh (of thunder). 2 bunyi gerabak-gerubuk (of a cart). 3 Sl.: kegaduhan, pertengkaran, kehebohan. -kki. 1 bergemuruh (of thunder, a volcano). 2 berderu, menderum (of a vehicle). -rumbling kb. 1 suara gaduh (among the people). 2 keroncongan.
 ruminant	kb. (binatang) pemamah biak.
@@ -17656,7 +17656,7 @@ rus.	(Russian) yang berkaitan dengan Rusia.
 ruse	kb. tipu muslihat, kelicikan.
 rush	kb. 1 kesibukan, kerepotan. 2 desakan, keramaian (of the crowds). 3 menyerang, menyerbu (a position). 4 membuat buru-buru. 5 mendorong. -rushing kb. kesibukan.
 rusk	kb. semacam roti.
-russ.	1[Russia] Rusia. 2 [Russian] orang Rusia ; bahasa Rusia.
+russ.	"1[Russia] Rusia. 2 [Russian] orang Rusia ; bahasa Rusia."
 russia	kb. Rusia.
 russian	kb. 1 orang Rusia/Rus. 2 bahasa Rusia. -ks. yang berkaiatan dengan Rusia.
 rust	kb. karat, tahi besi. -kkt. membuat  berkarat. -kki. 1 berkarat. 2 tidak terpelihara, kurang baik, kelupaan.  rust-colored ks. berwarna kuning-tua/cokelat/merah-cokelat.
@@ -17752,7 +17752,7 @@ salami	kb. semacam sosis.
 salaried	ks. bergaji, menerima gaji.
 salary	kb. (j. -ries) gaji.
 sale	kb. 1 penjualan. 2 obral. to go to a s. pergi ke obral. -sales j. jumlah penjualan.
-saleable	=  SALABLE.
+saleable	#NAME?
 salesclerk	kb. pelayan toko, pramuniaga(wan).
 salesgirl	kb. gadis pelayan toko, pramuniaga(wati).
 saleslady	kb. (j. -dies) wanita pelayan toko, pramuniaga(wati).
@@ -17881,7 +17881,7 @@ saunter	kb. berjalan-jalan. to s. into the room berjalan luntang-lantung masuk k
 sausage	kb. sosis.
 saute	kkt. menggoreng sebentar, menumis dengan sedikit minyak atau mentega.
 savage	kb. orang biadab/liar/ganas. -kk. secara kejam/biadab.
-savageness	=  SAVAGERY.
+savageness	#NAME?
 savagery	kb. (j. -ries) kekejaman, kebuasan.
 savannah	kb. padang rumpiut yang sangat luas (yang tak berpohon).
 savant	kb. sarjana, orang yang terpelajar.
@@ -17958,8 +17958,8 @@ scenery	kb. (j. -ries) 1 pemandangan (in the valley). 2 dekor (for a play).
 scenic	ks. permai, indah (of an area, view). s. highway jalan-raya dengan/yang penuh pemandangan.
 scent	kb. 1 bau.  2 penciuman (of an animal). 3 wangi-wangian. -kkt. 1 memberi wangi-wangian (a room). 2 mencium (o's master, an escapee). 3 mencurigai (trickery). 4 mengharumkan (a handkerchief).
 scepter	kb. tongkat lambang kekuasaan.
-sceptic	=  SKEPTIC.
-sceptical	=   SKEPTICAL.
+sceptic	#NAME?
+sceptical	#NAME?
 sch.	[school] sekolah.
 schedule	kb. 1 daftar perjalanan (bus, plane, train). 2 daftar/rencana pelajaran (of classes). -kkt. merencanakan, mengatur. -scheduled ks. tetap.
 schema	kb. skema, bagan.
@@ -18009,7 +18009,7 @@ scooter	kb. 1 sekuter. m. scooter sepeda motor sekuter. 2 sepeda dorong.
 scope	kb. 1 bidang, lapangan. 2 jangkauan. 3 kesempatan. 4 keleluasaan.
 scorch	kkt. menghanguskan. -scorched ks. gosong, hangus.  -scorching ks. 1 amat panas (heat). 2 yang membakar (criticism).
 scorcher	kb. Inf.: 1 hari yang amat panas. 2 (criticism) kecaman yang pedas sekali.
-score	kb. 1 skor, angka, biji. 2 Mus.: lembaran musik. 3 kodi. 4 alasan, sebab. -kkt. 1 memasukkan, mencetak (a goal). 2 mendapat. 3 mengarang, menyusun (music). 4 menghitung angka/biji (a sport). 5 Bridge : memperoleh "trick/slag".
+score	"kb. 1 skor, angka, biji. 2 Mus.: lembaran musik. 3 kodi. 4 alasan, sebab. -kkt. 1 memasukkan, mencetak (a goal). 2 mendapat. 3 mengarang, menyusun (music). 4 menghitung angka/biji (a sport). 5 Bridge : memperoleh ""trick/slag""."
 scoreboard	kb. papan angka.
 scorecard	kb. kartu catatan angka (pemain - pemain).
 scorekeeper	kb. pencatat angka/hasil pertandingan.
@@ -18150,7 +18150,7 @@ seaworthiness	kb. kelaikan laut.
 seaworthy	ks. laik laut.
 sec	kb. Inf.: detik.  Wait as. ! Tunggu sebentar !
 sec'y	[secretary] sekertaris, panitera.
-sec.	1 [second] detik ; kedua. 2 [secant] garis potong. 3 [secretary] sekretaris, panitera. 4 [section] seksi, bagian.
+sec.	"1 [second] detik ; kedua. 2 [secant] garis potong. 3 [secretary] sekretaris, panitera. 4 [section] seksi, bagian."
 secant	kb. garis potong.
 secede	kki. melepaskan diri (from dari).
 secession	kb. penarikan diri, pemisahan.
@@ -18647,7 +18647,7 @@ sidetrack	kb. jalan simpangan/menyimpang. -kkt. 1 membelokkan/mengalihkan kesamp
 sidewalk	kb. trotoar, kakilima, jalan pinggir.
 sideward(s)	kk. menuju/masuk kesamping.
 sideways	kk. menyamping, miring, membujur, kesamping. to walk s. berjalan menyamping. to place a table s. menaruh meja memanjang kesamping.
-sidewise	=  SIDEWAYS.
+sidewise	#NAME?
 sidle	kki. to s. up to berjalan pelan-pelan menyamping.
 siege	kb. 1 pengepungan. 2 serangan yang berlarut-larut.
 sieve	kb. 1 ayakan, pengayak (flour). 2 saringan, penyaring (for tea).
@@ -18745,7 +18745,7 @@ sinus	kb. lubang yang menghubungkan rongga hidung dengan  batok kepala.
 sinusitis	kb. radang dalam selaput lendir (di lubang rongga hidung).
 sip	kb. sesapan, isapan. a s. of juice sesapan/sedikit air buah. -kkt. (sipped) menyesap, minum sedikit-sedikit. to s. o's tea meminum teh sedikit demi sedikit, menyesap teh.
 siphon	kb. pipa pindah. -kkt. menyedot (liquid). to s. off a) menyedot (excess profits). b) mengalihkan, mengalirkan (traffic over another route).
-sir	kb. (j. sirs, gentlemen) tuan. -kkt. bertuan. Don't s. me ! Jangan sebut/panggil saya "Tuan"/"Bapak"
+sir	"kb. (j. sirs, gentlemen) tuan. -kkt. bertuan. Don't s. me ! Jangan sebut/panggil saya ""Tuan""/""Bapak"""
 sire	kb. bapak. -kkt. menjadi bapak/ayah.
 siren	siren
 sirloin	kb. daging pinggang. s. steak bistik daging pinggang.
@@ -18770,7 +18770,7 @@ sixtieth	kb., ks. yang  keenam puluh.
 sixty	kb., ks. (j. -ties) enampuluh. He'll be s. next week  Ia akan berumur enampuluh tahun minggu depan. the sixties tahun enampuluhan.
 sizable	ks. besar juga, cukup besar, lumayan. s. profit keuntungan yang cukup besar.
 size	kb. 1 ukuran. What s. shirt do you take ? Berapa ukuran kemejamu ? 2 (lem) kanji, dempul. -kki. menganji, mendempul. sizing kb. pengelemen, lem, perekat.
-sizeable	=  SIZABLE.
+sizeable	#NAME?
 sizzle	kki. mendesis. Sl.: It's sizzling today Hari ini panas sekali/terik.
 sizzler	kb. Inf.: hari yang amat panas.
 skate	kb. 1 skat(s), sepatu  luncur/es. 2 Sl.: orang. -kkt. bermain sepatu luncur (di es). -skating kb. bermain skats, bermain sepatu es. es s. rink lapangan permainan skats, lapangan es.
@@ -19263,11 +19263,11 @@ soviet	kb. Sovyet. S. publications publikasi-publikasi Sovyet. S. Union Sovyet.
 sow	kkt. (sowed, sowed atau sown) 1 menaburkan (seeds). 2 menyebarkan (dissension). to s. land with wheat menaburi tanah dengan gandum.
 sower	kb. penabur.
 sown	lih   SOW  kkt.
-sox	=   SOCKS.
+sox	#NAME?
 soy	kb. kedele. s. sauce kecap.
 soya	lih  SOY.
 soybean	kb. (kacang)  kedelai.
-sp.	[spelling] ejaan. 2 [special] istimewa, khusus, tertentu. 3 [species] jenius. 4 [spirit] semangat ;  minuman keras.
+sp.	"[spelling] ejaan. 2 [special] istimewa, khusus, tertentu. 3 [species] jenius. 4 [spirit] semangat ;  minuman keras."
 spa	kb. 1 sumber air mineral. 2 tempat pemandian air panas.
 space	kb. 1 tempat. 2 angkasa. 3 ruang. 4 spasi, jarak. 5 (jangka) waktu. -kkt. memberi jarak (flowers). s. fiction cerita khayalan yang berhubungan dengan angkasa raya. s. flight penerbangan (ruang) angkasa.  -spacing kb. jarak, mengadakan jarak.
 spacecraft	kb. kendaraan angkasa.
@@ -19317,7 +19317,7 @@ spear	kb. tombak, lembing. -kkt. menombak.
 spearhead	kb. 1 pelopor. 2 permulaan, bagian pertama, taraf permulaan. -kkt. mempelopori, membuka jalan bagi.
 spearmint	kb. tanaman permen.
 spec.	1 [special] istimewa, khusus. 2 [specimen] contoh. 3 [specification] spesifikasi, perincian.
-special	kb. 1 Rest.; makanan istimewa. 2 RR.: kereta api istimewa. 3 suratkabar istimewa. 4 pertunjukan TV yang tunggal. -ks. 1 istimewa, khusus. 2 luar biasa.  -specially kk. khusus(nya).
+special	"kb. 1 Rest.; makanan istimewa. 2 RR.: kereta api istimewa. 3 suratkabar istimewa. 4 pertunjukan TV yang tunggal. -ks. 1 istimewa, khusus. 2 luar biasa.  -specially kk. khusus(nya)."
 specialist	kb. spesialis, ahli.  He's a s.  on ... Dia seorang spesialis tentang... eye s. dokter ahli penyakit mata, dokter spesialis mata.
 specialization	kb. spesialisasi, pengkhususan, pengahlian. high degree of s. spesialisasi yang mendalam.
 specialize	kki. 1 berspesialisasi (in some field). 2 mengkhususkan, mengkhusus pada.
@@ -19411,7 +19411,7 @@ spittoon	kb. tempolong, peludahan.
 splash	kb. 1 cemplungan (of a stone, body entering the water). 2 ceburan (of an oar). -kkt. 1 memercikan(water). 2 bepercikan. -kki. mendebur, cebar-cebur.  -splashing kb. deburan, pukulan (of waves).
 splashdown	kb. penceburan.
 splashy	ks. heboh, dengan cara menarik perhatian.
-splatter	=  SPATTER.
+splatter	#NAME?
 splay	ks. miring, renggang keluar.
 splayfoot	kb. (j. -feet) kaki bebek.
 spleen	kb. limpa (kecil). to vent o's s. upon s.o.  mencurahkan rasa bencinya pada seseorang.
@@ -19464,7 +19464,7 @@ spotlesness	kb. kerapian, keadaan tak bercacat/bernoda.
 spotless	ks. bersih, tak bernoda.
 spotlight	kb. 1 lampu sorot.  to be in the s. manjadi pusat perhatian umum. 2 lampu pinggir (on cars). -kkt. menyoroti.
 spotter	kb. 1 tukang penghapus noda. 2  peninjau, pengintai.
-spotty	ks. 1 bernoda (of clothing). 2 kadang-kadang baik, kadang-kadang buruk ; turun-naik (of grades, performance).
+spotty	"ks. 1 bernoda (of clothing). 2 kadang-kadang baik, kadang-kadang buruk ; turun-naik (of grades, performance)."
 spouse	kb. 1 suami. 2 isteri.
 spout	kb. corot, cerat (of pitcher, kettle). -kkt. 1 menyemburkan (abuse, obscenities). 2 menyemprotkan (water). -kki. memancar.
 sprag	kkt. (spragged) mengganjal, menggalang.
@@ -19885,7 +19885,7 @@ streamline	kkt. 1 melangsingkan (o's figure). 2 memepersingkat (an office). -str
 streamliner	kb. kereta api cepat.
 street	kb. jalan.  one-way s. jalan satu jurusan. s. accident kecelakaan di jalan.  s. lamp/light lampu jalan. street-length ks. yang panjangnya biasa. s. level setinggi jalan. s. sign papan nama jalan.
 streetcar	kb. trem.
-streetwalker	kb. pelacur, wanita "P", kupu-kupu malam.
+streetwalker	"kb. pelacur, wanita ""P"", kupu-kupu malam."
 strength	kb. 1 kekuatan. s. of materials kekuatan materi. 2 tenaga. s. of mind tenaga/kekuatan pikiran. 3 daya. tensils s. daya regang. 4 jumlah, persentase (of alcohol).
 strengthen	kkt. memperkuat. to s. a wall memperkuat dinding. to s. a solution memperkuat sesuatu campuran/larutan.
 strenuous	ks. 1 berat (exercise). 2 sibuk. 3 kuat (opposition). to object strenuously berkeberatan kuat.
@@ -20058,7 +20058,7 @@ substation	kb. cabang, post office s.  kantor pos tambahan.
 substitute	kb. 1 pengganti. 2 Sport.: pemain cadangan. 3 tiruan. -kkt. mengganti. -kki.  menggantikan guru, menjadi guru pengganti.
 substitution	kb. penggantian (for dengan).
 substratum	kb. (j. -rata) 1 lapisan bawah (of rock). 2  dasar (of truth).
-subsume	kkt. menggolongkan, memasukkan. What is subsumed under the term "politics" ? Apakah yang termasuk dalam pengertian "politik ?
+subsume	"kkt. menggolongkan, memasukkan. What is subsumed under the term ""politics"" ? Apakah yang termasuk dalam pengertian ""politik ?"
 subsurface	ks. dibawah permukaan tanah (water).
 subteen	kb. anak dibawah umur, anak yang hampir berumur tigabelas tahun.
 subterfuge	kb. dalih, alasan, akal. to resort to s. memakai dalih.
@@ -20308,7 +20308,7 @@ suture	kb. 1 jahitan pada luka, jahitan bedah. 2 benang bedah, benang penjahit o
 suzerainty	kb. (j. -ties) kekuasaan raja.
 svelte	ks. langsing, ramping (figure).
 sw	[southwest]  barat-daya.
-sw.	1 [Swedish] dari Swedia ; bahasa Swedia. 2  [Sweden] Swedia.
+sw.	"1 [Swedish] dari Swedia ; bahasa Swedia. 2  [Sweden] Swedia."
 swab	kb. 1 kain penyeka/pel. 2 alat pengepel.    -kkt. (swabbed) 1 mengepel (a deck). 2 menyeka (a wound, a throat).
 swaddle	kkt. membedung (a baby). swadling clothes kain-kain bedung.
 swag	kb. Inf.: barang rampasan/curian.
@@ -20341,7 +20341,7 @@ sweater	kb. kemeja dari wol.
 sweatheart	kb. kekasih, kesayangan, pacar, jantung/tangkai hati.  They are sweathearts Mereka berdua berkasih-kasihan/berpacar-pacaran.
 sweatshop	kb. tempat dimana pekerja-pekerja membanting tulang dengan gaji yang rendah.
 sweaty	ks. berkeringat.
-swed.	1 [Swedish] dari Swedia ; bahasa Swedia. 2 [Sweden] Swedia.
+swed.	"1 [Swedish] dari Swedia ; bahasa Swedia. 2 [Sweden] Swedia."
 swede	kb. orang Swedia.
 swedish	kb. bahasa Swedia. -ks. dari Swedia. He's S. Dia orang Swedia.
 sweep	kb. 1 usapan, sikatan (of abrush). 2 ayunan (of o's hand, of an oar). 3 jalan. 4 keluasan (of the road and fields). -kkt.(swept) 1 menyapu (the floor). 2 menjuarai (the race). 3 meluas di, menjalar di.
@@ -20386,12 +20386,12 @@ switcher	kb. RR.: lokomotip pelangsir.
 switchover	kb. peralihan, pergantian, pertukaran.
 switchyard	kb. pelataran langsir.
 swivel	kb. kili-kili. s. chair kursi putar.
-swob	=   SWAB.
+swob	#NAME?
 swollen	swollen
 swoon	kb. pingsan. to fall into a s. jatuh pingsan -kki. jatuh pingsan.
 swoop	kb. tukikan, sambar(an)  (of a bird, plane). -kki. to s. down menyambar/menukik kebawah (on ke).
 swoosh	kb. desah, raung, deru (of birds, planes).
-swop	=  SWAP.
+swop	#NAME?
 sword	kb. pedang. to wear a s. membawa pedang.
 swordfish	kb. ikan todak.
 swordsman	kb. (j. -men) ahli pemain anggar.
@@ -20411,7 +20411,7 @@ sylphlike	ks. langsing, ramping, dan indah (of a figure).
 sylvan	ks. berhutan-hutan, berpohon-pohon. s. setting tempat yang banyak hutannya.
 symbiosis	kb. simbiosis.
 symbiotic	ks. simbiotik.
-symbol	kb. 1 lambang. The lion is the s. of courage Singa merupakan lambang keberanian. 2 simbul, tanda. "&" is a s. for  "and"  "&" adalah tanda pengganti untuk "dan".
+symbol	"kb. 1 lambang. The lion is the s. of courage Singa merupakan lambang keberanian. 2 simbul, tanda. ""&"" is a s. for  ""and""  ""&"" adalah tanda pengganti untuk ""dan""."
 symbolic	ks. simbolis. s. logic ilmu logika yang dinyatakan dengan simbul-simbul.
 symbolism	kb. simbolisme.
 symbolize	kkt. menandakan, melambangkan, menyimbulkan.
@@ -20784,7 +20784,7 @@ thaw	kb. 1 cair, pencairan (of snow, ice). 2 perbaikan (in relations). -kkt. mel
 the	kst. itu. T. elephant is an animal Gajah adalah seekor binatang. t. show pertunjukan itu. -kk. if both of you  come so much t. better Kalau kamu berdua datang, tiu lebih baik lagi.
 theater	kb. 1 gedung bioskop. movie t. (gedung) bioskop. 2 dunia sandiwara. 3 Mil.: medan perang, mandala.  4 panggung sandiwara.  theater-in-the-round teater ditengah-tengah gedung. Med.: operating t. kamar bedah.
 theatergoer	kb. pengunjung sandiwara/bioskop.
-theatre	=   THEATER.
+theatre	#NAME?
 theatrical	kb. theatricals j. pertunjukan drama khususnya  oleh amatir. -ks. 1 yang berkaitan dengan sandiwara. 2 yang dibuat-buat. to assume a t. manner bertingkah-laku yang dibuat-buat.
 thee	kg. kamu, anda (dipakai oleh Quaker).
 theft	kb. pencurian, kemalingan.
@@ -20899,7 +20899,7 @@ three	kb. 1 tiga. the Big T. (Negara) Tiga Besar.   2 tiga orang. Only t. came  
 threefold	ks., kk. lipat tiga. t. increase kenaikan lipat tiga.
 threescore	ks. enam puluh. t. and ten  tujuh puluh.
 threesome	kb. kelompok/regu tiga orang.
-thresh	=   THRASH. threshing machine mesin pengirik.
+thresh	#NAME?
 thresher	kb. 1 penebah. 2 (machine) mesin penebah/pengirik/rontongan.
 threshold	kb. 1 ambang pintu. to be on the t. of success berada di ambang pintu sukses. 2 permulaan, ambang (of pain). to cross the t. melintasi/meliwati  ambang pintu.
 threw	lih   THROW.
@@ -20922,14 +20922,14 @@ throng	kb.bondong, gerombolan orang. -kkt. memenuhi, menjejali. -kki. to t. arou
 throttle	kb. katup penghambat/penutup, klep penutup (on boiler, locomotive). -kkt. 1 mencekek (s.o). 2 memberedel, memberangus (the press). 3 memperlambat (jalan)  (a locomotive).
 through	ks. 1 selesai, siap. 2 terus(an). -kk. 1 dari permulaan sampai habis. 2 terus. 3 menyambung. -kd. 1 melalui.  2 melewati, lewat. 3 karena.  4 terus. 5 diluar.
 throughout	kk. seluruhnya.  -kd. 1 diseluruh. 2 sepanjang. t. the year sepanjang tahun.
-throughway	=  THRUWAY.
+throughway	#NAME?
 throve	lih   THRIVE.
 throw	kb. 1 lemparan.  2 kain penutup (for sofa). -kkt. 1 melemparkan (a ball, rock). 2 melemparkan, menjebloskan. 3 memberi. 4 menyorotkan. 5 Inf.: mengadakan (a party). 6 melilitkan. 7 (of a horse) melepaskan (a shoe). 8 memusingkan kepala.  9 pembuat.
 throwaway	kb. lembaran iklan (yang tak berarti). t. container wadah untuk dibuang.
 throwback	kb. seseorang yang memiliki ciri-ciri dari leluhurnya.
 thrower	kb. pelempar. discus t. pelempar cakram.
 thrown	lih  THROW.
-thru	=  THROUGH.
+thru	#NAME?
 thrum	kb. petikan. 0kki. (trummed) 1 memetik (on guitar or banjo). 2 mengetuk-ngetukkan (on a table). -thrumming kb. petikan.
 thrush	kb. 1 sejenis murai.  2 Med.: guam, seriawan.
 thrust	kb. 1 daya tolak/dorong (of an engine). 2 tusukan, tikaman (of a sword). 3 arah, tujuan. 4 serangan. -kkt. (thrust) 1 memasukkan, mendorongkan (the hands in o's pockets). 2 mendorong (roots). 3 menusukkan 4 menimpakan. -kki. berdesakan.
@@ -20950,7 +20950,7 @@ thunderstorm	kb. hujan angin ribut disertai petir dan guruh.
 thunderstruck	ks. seperti disambar petir, teringa-inga, termangu-mangu.
 thurs.	[Thursday] Kamis, Kemis.
 thursday	kb. Kamis, Kemis.
-thus	kk. 1 demikian. Do it t.  Kerjakanlah demikian. 2 jadi. She is ill ; t. she can't come Ia sakit, jadi ia tak dapat datang. 3 hingga. t. for hingga kini.
+thus	"kk. 1 demikian. Do it t.  Kerjakanlah demikian. 2 jadi. She is ill ; t. she can't come Ia sakit, jadi ia tak dapat datang. 3 hingga. t. for hingga kini."
 thwack	kb. pukulan.
 thwart	kkt. merintangi, menghalangi, menggagalkan. to t. s.o's plans merintangi rencana seseorang.
 thy	kg. ( milik kepunyaan) kamu, engkau, -mu. t. book bukumu.
@@ -20962,8 +20962,8 @@ tibetan	kb. 1 orang Tibet. 2 bahasa Tibet. --ks. yang berhubungan dengan Tibet.
 tibia	kb. tulang kering.
 tic	kb. gerenyet. nervous t. gerenyet urat syaraf.
 tic-tac-toe	kb. tebak-tebakan dengan angka.
-tick	kb. 1 detik(an) (of a clock). 2 kutu (on dog). 3 (bed covering) sarung kasur. 4 tanda (").  -kkt. mendetikkan.  -ticking kb. kain kasur.
-tick-tack-toe	=    TIC-TAC-TOE.
+tick	"kb. 1 detik(an) (of a clock). 2 kutu (on dog). 3 (bed covering) sarung kasur. 4 tanda ("").  -kkt. mendetikkan.  -ticking kb. kain kasur."
+tick-tack-toe	#NAME?
 tick-tock	kb. bunyi berdetak-detik.
 ticker	ticker
 ticket	kb. 1 karcis (of train, plane). t. office tempat penjualan karcis. 2 tuntutan (polisi). to get a t. for speeding kena tuntutan polisi karena berkendaraan terlalu cepat. 3 daftar calon suatu partai.  -kkt. memberi kartu harga.
@@ -21117,7 +21117,7 @@ too	kk. terlalu. t. many terlalu banyak. 2 sekali. 3 juga.She's hungry t. Dia ju
 took	lih   TAKE.
 tool	kb. 1 alat. useful t. alat yang berguna. 2 perkakas, alat. t. box peti perkakas. 3 kakitangan, alat (of gangsters). -kki. to t. up menyesuaikan peralatan.  -tooling kb. hiasan yang dibuat dengan alat. leather t. penghiasan kulit dengan alat.
 toolmaker	kb. pembuat perkakas.
-toot	kb. lengkingan (of a whistle). -kkt. membunyikan. to t. the horn membunyikan klakson. -kki. berbunyi "tutut".
+toot	"kb. lengkingan (of a whistle). -kkt. membunyikan. to t. the horn membunyikan klakson. -kki. berbunyi ""tutut""."
 tooth	kb. (j. teeth) gigi. Which t. hurts ? Gigi mana yang sakit ?  -teeth j. gigi. to show o's teeth  1 menunjukkan gigi. 2 bersikap mengancam.
 toothache	kb. sakit gigi.
 toothbrush	kb. sikat gigi.
@@ -21251,7 +21251,7 @@ traitorous	ks. bersifat khianat. t. deed perbuatan penghianatan.
 trajectory	kb. (j. -ries) jalan/lintasan peluru.
 tram	kb. trem (listrik).
 trammel	kkt. mengungkung, mengekang.
-tramp	kb. 1 orang gelandangan, petualang. 2 derap langkah, celam-celum (of marchers). 3 Inf.: wanita "P", pelacur. 4 perjalanan kaki (through the woods). -kkt.,kki berjalan kaki.
+tramp	"kb. 1 orang gelandangan, petualang. 2 derap langkah, celam-celum (of marchers). 3 Inf.: wanita ""P"", pelacur. 4 perjalanan kaki (through the woods). -kkt.,kki berjalan kaki."
 trample	kkt. menginjak-injak. to t. s.o. to death menginjak-injak seseorang sampai mati.
 trampoline	kb. kain layar yang direntang diatas tanah untuk menampung jatuhnya akrobat-akrobat.
 trance	kb. keadaan tak sadarkan diri. She went iinto a t. Ia kerasukan, Ia tak sadarkan diri.  He was like a man in a t. Ia seperti seorang yang lupa  daratan.
@@ -21271,7 +21271,7 @@ transcribe	kkt. 1 menulis catatan dengan tulisan biasa. 2 merekam. 3 menuliskan.
 transcript	kb. catatan (kata demi kata). academic t. turunan angka-angka akademis.
 transcription	kb. rekaman, turunan, tulisan. to make a t. membuat rekaman. phonetic t. tulisan fonetik.
 transfer	kb. pergantian (replacement). 2 karcis untuk ganti trem atau bis. 3 serah-terima (of command). 4 pemindahan. 5 pemindahan/pengiriman (of funds). -kkt. (transferred) 1 memindahkan . 2 memindah-tangankan. 3 menyerah-terimakan (command,power) 4 memindahkan. transferable
-transferable	ks. dapat dioperkan. "Not t."  Tidak dapat dioperkan.
+transferable	"ks. dapat dioperkan. ""Not t.""  Tidak dapat dioperkan."
 transference	kb. pemindahan (of power).
 transfiguration	kb. perubahan rupa atau bentuk.
 transfigure	kkt. merubah rupa atau roman.
@@ -21403,7 +21403,7 @@ trigger	kb. pelatuk, picu.   to be quick on the t. 1 cepat menembak. 2 cepat ber
 trigonometry	kb. (j. -ries) trigonometri, ilmu ukur segitiga.
 trilateral	ks. segitiga, trilateral (of an agreement, geometric figure).
 trilingual	ks. (menguasai) tiga bahasa.
-trill	kb. bunyi (ber)getar (of a bird, of a sound). -kkt. menggetar (an "r"). -kki. 1  meragam/menyanyi/berlagu (of a bird). 2 bernyanyi dengan suara getar.
+trill	"kb. bunyi (ber)getar (of a bird, of a sound). -kkt. menggetar (an ""r""). -kki. 1  meragam/menyanyi/berlagu (of a bird). 2 bernyanyi dengan suara getar."
 trillion	kb. trilyun.
 trilogy	kb. (j. -gies) karangan tiga-serangkai, trilogi.
 trim	kb.1  garis hiasan. 2 keseimbangan (of a ship). 3 keadaan, kondisi. 4 potong sedikit. -ks. langsing, ramping (of s.o's figure). -kkt. (trimmed) 1 memangkas (hair, shrubbery). 2 menghias(i) (a Christmas tree). 3 memotong (o's nails) . 4 mengalahkan.
@@ -21471,7 +21471,7 @@ truckload	kb. muatan truk.
 truculence	kb. kegalakan, kegarangan, keganasan.
 truculent	ks. 1 keras dankejam, kasar dan kejam (of temperament). 2 tajam (of satire).
 trudge	kb. perjalanan dengan susah-payah. -kki. berjalan dengan susah-payah.
-true	ks. 1 benar, betul. 2 sejati. 3 sebenarnya. 4 setia. 5 sah (heir). 6 pas/cocok (of an angle).  true-blue ks. setia, tulus.  true-to-life ks. yang sesuai dengan kenyataan, realistis.
+TRUE	ks. 1 benar, betul. 2 sejati. 3 sebenarnya. 4 setia. 5 sah (heir). 6 pas/cocok (of an angle).  true-blue ks. setia, tulus.  true-to-life ks. yang sesuai dengan kenyataan, realistis.
 truism	kb. kebenaran yang tak dapat disangkal lagi.
 truly	kk. sungguh-sungguh, betul-betul.
 trump	kb. (kartu) terup/truf. to play trumps bermain kartu truf.  -kkt. menterup.
@@ -21589,7 +21589,7 @@ tweezers	kb., j. penyepit, jepitan.
 twelfth	kb. duabelas. the t. of March tanggal duabelas Maret. -ks.  yang keduabelas.
 twelve	kb. duabelas. The clock struck t. jam  memukul/membunyikan duabelas. It's  t. o'clock Jam  duabelas.
 twentieth	kb. tanggal duapuluh. -ks. yang keduapuluh.
-twerp	kb. Sl.; (hina-dina) orang kecil yang picik.
+twerp	"kb. Sl.; (hina-dina) orang kecil yang picik."
 twice	kk. dua kali.  T. five is ten Dua kali  lima sama dengan sepuluh.
 twiddle	kkt. memutar-mutarkan (o's thumbs).
 twig	kb. ranting.
@@ -21656,7 +21656,7 @@ ulcerate	kkt., kki. memborok, membisul.
 ulceration	kb. pemborokan, keadaan bernanah, koreng.
 ulcerous	ks. berborok, berbisul, bengkak bernanah.
 ulna	kb. tulang hasta.
-ult.	[ultimate(ly)] yang penghabisan, terakhir ; akhirnya, kesudahannya. 2 [ultimo] dalam bulan yang lalu.
+ult.	"[ultimate(ly)] yang penghabisan, terakhir ; akhirnya, kesudahannya. 2 [ultimo] dalam bulan yang lalu."
 ulterior	ks. tersembunyi, yang disembunyikan. u. motive maksud tersembunyi.
 ultimate	kb. yang paling mewah. That is the u. in cars Itulah yang paling mewah diantara semua mobil. -ks. 1 penghabisan, terakhir. the u. purpose tujuan terakhir. 2 pokok, asal.  -ultimately kk. (pada) akhirnya.
 ultimatum	kb. (j. -tum, -ta) ultimatum.
@@ -21674,7 +21674,7 @@ umbrella	kb. payung. an u. of fighter planes lindungan (yang terdiri dari) pesaw
 umlaut	kb. 1 Ling.: umlaut. 2 detik-dua diatas huruf hidup (dalam bahasa Jerman).
 umpire	kb. wasit. -kkt. mewasiti. -kki. bertindak sebagai wasit.
 umpteen	ks. Inf.: beberapa, sekian.
-umpteenth	ks. Inf.: yang kesekian. For the u. time, "No !" Untuk kesekian kalinya, "Tidak !"
+umpteenth	"ks. Inf.: yang kesekian. For the u. time, ""No !"" Untuk kesekian kalinya, ""Tidak !"""
 un,u.n.	[United Nations] kb. Perserikatan Bangsa-bangsa.
 un-american	ks. tidak bersifat Amerika, bertentangan dengan watak  Amerika.
 unabashed	ks. tak merasa malu. -unabashedly kk. tak tahu malu.
@@ -22478,7 +22478,7 @@ utopia	kb. negara khayalan/idaman / impian, utopia.
 utopian	ks. berupa khyalan, tidak praktis.
 utter	ks. sama sekali. It is u. chaos Keadaan sama sekali  kacau-balau. -kkt. 1 mengucapkan. 2 memanjatkan (a prayer). 3 melahirkan, mengeluarkan (o's thoughts). -utterly kk. samasekali.
 utterance	kb. ucapan, ungkapan. to give u. to o's happiness mengungkapkan/melahirkan kebahagiaannya.
-uttermost	=   UTMOST.
+uttermost	#NAME?
 uvula	kb. anak lidah/tekak.
 uvular	ks. Phon.: diucapkan dengan anak lidah.
 v	kb. huruf ke -22 dalam abjad Inggris. V-neck kb. leher berbentuk V (of sweater, shirt).
@@ -22489,7 +22489,7 @@ v.i.	[Virgin Islands] kepulauan Virgin.
 v.p., vp	[Vice-President] Wakil Presiden.
 va	[Veteran Administration] Administrasi Veteran.
 va.	[Virginia] negarabagian AS.
-vacancy	kb. (j. -cies) lowongan. " No v." "Penuh."  "Tiada kamar kosong,"  "Tiada lowongan pekerjaan."
+vacancy	"kb. (j. -cies) lowongan. "" No v."" ""Penuh.""  ""Tiada kamar kosong,""  ""Tiada lowongan pekerjaan."""
 vacant	ks. 1 kosong (of a house). 2 lowong (of a job, post). 3 ngelamun, teringa-inga, kosong, hampa (of a look).
 vacate	kkt. 1 mengosongkan (the premises, o's office, a room). 2 melowongi.
 vacation	kb. liburan. to take a v., to be on v. berlibur. -kki. berlibur.
@@ -22797,7 +22797,7 @@ vitreous	ks. seperti kaca.
 vitriolic	ks. sangat tajam.
 vituperation	kb. makian dengan kata-kata kasar. to heap v. on s.o. memaki-maki seseorang dengan kata-kata yang kasar, mengata-ngatai seseorang.
 vivacious	ks. 1 (peng)gembira, (pe)riang. 2 bersemangat.
-vivaciousness	=   VIVACITY.
+vivaciousness	#NAME?
 vivacity.	kb. (j. -ties) 1 kegembiraan hidup. 2 semangat.
 vivavoce	kk. dengan lisan.
 vivid	ks. 1 hidup. v. description gambaran yang hidup. 2 gamblang. 3 bersemangat, giat. v. personality pribadi yang bersemangat.
@@ -22901,7 +22901,7 @@ waitress	kb. pelayan wanita. W.! Pelayan ! Dik ! Zus ! Sis !.
 waive	kkt. melepaskan (a right).
 waiver	kb. surat pernyataan melepaskan tuntutan. w. of immunity pelepasan hak kekebalan, surat pernyataan pembebasan (dari tuntutan).
 wake	kb. 1 air baling-baling, jaluran ombak (of a ship). 2 Rel.: berjaga semalam suntuk disamping jenazah. -kkt. (waked atau woke, waked atau woken) membangunkan (s.o).  -kki. bangun.
-waken	=  WAKE.
+waken	#NAME?
 walk	1 jalan-jalan. 2 jarak untuk dijalani. 3 cara berjalan. 4 (side-) trotoar, kaki lima. 5 (w.of life) jabatan, pekerjaan. -kkt. 1 mengantar. 2 membawa. 3 menjalani, mondar-mandir (the deck, floor). 4 berjalan(kaki) (the street). -walking kb. berjalan kaki. walkaway
 walkaway	kb. Inf.: kemenangan yang mudah.
 walker	kb. 1 orang yang berjalan kaki. 2 alat pembantu berjalan.
@@ -22974,7 +22974,7 @@ washrag	kb. lap pencuci (badan). lap mandi.
 washroom	kb. kamar kecil, W.C.
 washstand	kb. meja cuci muka.
 washtub	kb. bak/tong cuci.
-washwoman	=   WASHERWOMAN.
+washwoman	#NAME?
 wasn't	[was not] tidak (dalam waktu yang telah lewat).
 wasp	kb. tabuhan, penyengat, tawon.
 wasserman	W. test test darah untuk menyelidiki ada tidaknya penyakit sipilis.
@@ -23085,7 +23085,7 @@ weekday	kb. hari kerja.
 weekend	kb. akhir pekan/minggu. w. resort tempat bertamasya (pada) akhir pekan. -kki. bertamasya akhir pekan.
 weeklong	ks. selama sepekan.
 weekly	weekly
-weenie	=   WIENER.
+weenie	#NAME?
 weeny	ks. sangat kecil. lih  TEENY.
 weep	kkt. (wept) mencucurkan. to w. buckets of tears menangis mencucurkan air mata yang banyak. -kki. menangis. -weeping kb. tangisan.
 weepy	ks. Inf.: mudah menangis.
@@ -23129,7 +23129,7 @@ wetness	kb. kebasahan.
 wha(t)chamacallit	kb. Inf.: apa namanya.
 whacha	[what are you] Sl.: W. doing ? Ngapain ? Sedang berbuat apa. ?
 whack	kb. pukulan keras. Sl.: to have/ take a w. at mencoba.  -kkt. memukul. -whacking Inf.: ks. amat besar.
-whacky	=  WACKY.
+whacky	WACKY.
 whaddya	[what do you] Sl.: apa yang kamu. W. know ? Apa yang kamu  tahu ?
 whale	kb. ikan paus. a w. of yang amat hebat. -kkt. Inf.: memukul, menghantam, menghajar. -whaling kb. penangkapan ikan paus. w. ship kapal penangkapan ikan paus.
 whalebone	whalebone
@@ -23140,7 +23140,7 @@ wharves	j. lih   WHARF.
 what	ks. 1 apa. 2 alangkah. -kg. 1 apa. 2 siapa. 3 berapa. 4 apa yang. 5 yang. 6 yang mana.
 whatever	ks. apa saja, apapun. -kg. 1 apa saja. 2 Inf.: apakah gerangan.
 whatnot	kb. 1 barang kecil. 2 rak dinding kecil.
-whatsoever	=   WHATEVER.
+whatsoever	WHATEVER.
 wheat	kb. terigu, gandum. w. belt daerah terigu/gandum. w. germ benih gandum.
 wheatcake	kb. kue gandum/dadar/serabi.
 wheatland	kb. tanah perladangan atau daerah gandum.
@@ -23191,7 +23191,7 @@ whirligig	kb. semacam gasing, mainan yang dapat  diputar.
 whirlpool	kb. pusaran air.
 whirlwind	kb. angin puyuh/langkisau/selembubu.
 whirlybird	kb. Inf.: helikopter.
-whirr	=    WHIR.
+whirr	WHIR.
 whish	kb. bunyi mendesir.
 whisk(e)y	kb. wiski. w. and soda wiski soda.
 whisker	kb. 1 rambut janggut (of persons). 2 sungut kucing (of cat). -whiskers j. jambang (di pipi).
@@ -23238,7 +23238,7 @@ whore	whore
 whorehouse	kb. rumah sundal/jalang/ pelacuran,pegermoan.
 whorl	kb. 1 lingkaran, gelungan. 2 ulir, alur-alur berputar.
 whose	kg. 1 siapa (punya). W. glove is that ? Siapa punya saruing tangan ini ?  2 yang...-nya. a couple w. daughter you met suami-istri yang anak perempuannya berjumpa dengan kamu.
-whosoever	=   whoever.
+whosoever	whoever.
 why	kb.  the whys and wherefores of a subject sebab-musabab, duduk perkara, persoalan. -kk. mengapa, kenapa, apa sebab. -kseru. 1 aduh, wah.  2 hai. 3 oh, ah.
 wick	kb. sumbu.
 wicked	ks. 1 jahat (of a person). 2 hebat 9of a storm). 3 keras (blow). 4 nakal (smile).
@@ -23256,11 +23256,11 @@ widowhood	kb. kejandaan, keadaan hidup sebagai janda.
 width	kb. 1 lebar. What is the w. of the material ? Berapa lebar bahan (kain) itu ?  2 keluyasan. w. of vision keluasan pandangan.
 wield	kkt. 1 memegang dan menggunakan (a sword, axe, stick). 2 mempunyai (influence).
 wiener	kb. semacam sosis. w. roast piknik dengan makan sosis dipanggang.
-wienie	=  WIENER.
+wienie	WIENER.
 wife	kb. (j. wives) istri. to take as a w. memperistri.  She is his second w. Ia istrinya yang kedua.
 wifely	ks. sebagai isteri. w. duties tugas-tugas sebagai seorang isteri.
 wig	kb. rambut palsu.
-wiggle	kb. 1 berlenggang, bergoyang (of walking). 2 bergeliat-geliut, berliat-liut (of a fish). -kki. bergoyang-goyang. Don't w. so much ; stand still Jangan begitu bergoyang-goyang ; berdiri diam-diam.
+wiggle	"kb. 1 berlenggang, bergoyang (of walking). 2 bergeliat-geliut, berliat-liut (of a fish). -kki. bergoyang-goyang. Don't w. so much ; stand still Jangan begitu bergoyang-goyang ; berdiri diam-diam."
 wiggler	kb. 1 orang yang terus saja bergerak. 2 (insect) anak nyamuk, jentik-jentik.
 wigwag	kki. mengayunkan (sesuatu) sebagai isyarat.
 wiireless	ks. tanpa kawat. w. operator markonis. w. telegraphy telegrap. w. telephone telepon radio.
@@ -23276,7 +23276,7 @@ wile	kb. tipu muslihat, akal. -kkt. to w. away the hours menghabiskan waktu.
 wilful	ks. disengaja. w. neglect pengabaian yang disengaja. -wilfully kk. dengan sengaja.
 will	kb. 1 kemauan. 2 kehendak. 3 hasrat. 4.surat wasiat. -kkb. (would) 1 akan. 2 mau. 3 dapat. 4 harus. 5 biasa.  would-be kb. seorang bakal/calon. ks. 1 akan menjadi. 2 berlagak seperti/seakan-akan. 3 gadungan. -willing ks. mau, sudi.
 will-o'-the-wisp	kb. 1 lelatu, cetusan api. 2 impian.
-willful	=   WILLFUL.
+willful	WILLFUL.
 willies	kb., j. Inf.: kegelisahan, kebingungan.
 willow	kb. semacam pohon.
 willowy	ks. ramping, langsing.
@@ -23477,7 +23477,7 @@ wrangle	kb. pertengkaran, percekcokan. -kki. bercekcok, bertengkar. (over tentan
 wrap	kb. selendang. -kkt. (wrapped) 1 membungkus (a package). 2 membelitkan, melilitkan.  wrapping paper kertas pembungkus.  -wrappings kb., j. bahan pembungkus.
 wraparound	kb. pakaian yang dililitkan. w. skirt rok yang dililitkan.
 wrapper	kb. 1 tukang bungkus, pembungkus. 2 pembungkus (of cigar). 3 sampul, selubung (of books). 4 Cloth.: pakaian rumah.
-wrapt	=   WRAPPED.
+wrapt	WRAPPED.
 wrath	kb. kegusaran, kemarahan, kemurkaan.
 wreak	kkt. 1 mendatangkan, menimbulkan (havoc). 2 melampiaskan (o's anger) (on kepada). 3 membalas dendam (revenge).
 wreath	kb. j. wreaths rangkaian bunga berbentuk lingkaran. funeral w. rangkaian bunga untuk pemakaman.
@@ -23564,14 +23564,14 @@ yellowish	ks. kekuning-kuningan.
 yellp	kb. suara dengking, salak. -kki. mendengking, berdengking.
 yen	kb. minat/keinginan/hasrat yang besar. -kki. (yenned) amat ingin, berhasrat sekali.
 yeoman	kb. (j. -men) perwira rendahan dalam administrasi. to perform y. service memberikan bantuan yang berguna.
-yes	kk. ya  Y.,  sir Ya, Tuan ; Ya Pak. -kkt. mengiakan, menyetujui (o's boss). Inf.: yes-man pak angguk, orang pengekor, pembebek, penjilat.
+yes	"kk. ya  Y.,  sir Ya, Tuan ; Ya Pak. -kkt. mengiakan, menyetujui (o's boss). Inf.: yes-man pak angguk, orang pengekor, pembebek, penjilat."
 yesterday	kb., kk. kemarin. yesterday's luncheon makan siang kemarin.
 yet	kk. 1 masih.  I don't y. know when  Saya masih belum tahu kapan. 2 masih belum.  He doesn't know as yet Ia masih belum tahu. ksam. namun, tetapi, sekalipun begitu.
 yew	kb. sejenis pohon cemara.
 yiddish	kb. bahasa Yiddi.
 yield	kb. hasil. wheat y. hasil/panenan gandum. -kkt. 1 menghasilkan. 2 memberi.-kki. 1 menyerah, mengalah.
 ymca, y.m.c.a.	[Young Men's Cristian Association] kb. Ikatan Pemuda Kristen.
-yo-heave-ho	kseru. holopis kuntul baris ; tu-wa-ga !
+yo-heave-ho	"kseru. holopis kuntul baris ; tu-wa-ga !"
 yodel	kb. bernyanyi yodel.
 yoga	kb. latihan disiplin mental cara Hindu.
 yogurt	kb. susu masam kental.
